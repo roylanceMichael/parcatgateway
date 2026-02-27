@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Parc Condominium Board</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <style>
+        body { background-color: #1f2937; font-family: 'Inter', sans-serif; }
+        .slide-container { position: absolute; top: 0; left: 0; width: 100%; height: 100%; transition: opacity 1s; opacity: 0; pointer-events: none; padding: 1rem; will-change: opacity; }
+        .slide-active { opacity: 1; pointer-events: auto; z-index: 10; }
+        @keyframes pulse-border { 0%, 100% { border-color: rgba(16, 185, 129, 1); } 50% { border-color: rgba(16, 185, 129, 0.5); } }
+        .urgent-border { animation: pulse-border 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        @keyframes pulse-red { 0%, 100% { border-color: rgba(220, 38, 38, 1); } 50% { border-color: rgba(220, 38, 38, 0.5); } }
+        .urgent-border-red { animation: pulse-red 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+    </style>
+</head>
+<body class="bg-gray-800 text-gray-100 flex flex-col h-screen overflow-hidden">
+
+    <!-- Header -->
+    <header class="bg-gray-900 text-white shadow-lg p-4 z-20 flex-shrink-0">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <img src="https://img1.wsimg.com/isteam/ip/cb787039-4d6a-4b27-b23a-e6f8e95de85a/blob-7c410ab.png" alt="Parc Logo" class="h-14 md:h-16">
+                <div>
+                    <h1 class="text-3xl md:text-4xl font-extrabold tracking-tight">Parc at the Gateway</h1>
+                    <p class="text-base md:text-lg text-gray-400">Community Notice Board</p>
+                </div>
+            </div>
+            <div class="hidden md:block bg-white p-1 rounded-lg shadow-md">
+                 <img src="https://img1.wsimg.com/isteam/ip/cb787039-4d6a-4b27-b23a-e6f8e95de85a/parcfront.jpg" alt="The Parc" class="w-24 h-24 object-cover rounded-md">
+            </div>
+        </div>
+    </header>
+
+    <main class="flex-grow container mx-auto relative w-full h-full">
+        
+        <!-- SLIDE 1: TRASH CHUTE (NEW) -->
+        <div id="slide-1" class="slide-container slide-active">
+            <div class="h-full flex flex-col justify-center items-center">
+                <div class="bg-red-900 text-white rounded-xl shadow-2xl p-8 lg:p-12 max-w-5xl w-full border-4 border-red-500 urgent-border-red text-center">
+                    <div class="mb-8 border-b-4 border-red-500 pb-6">
+                        <div class="inline-block bg-red-600 p-6 rounded-full mb-4 animate-pulse">
+                            <svg class="w-20 h-20 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                        </div>
+                        <h2 class="text-4xl md:text-6xl font-extrabold text-white uppercase tracking-tight">Trash Chute Repair</h2>
+                        <p class="text-2xl md:text-3xl text-red-200 font-bold mt-2">Starting Wednesday, Feb 18th</p>
+                    </div>
+                    
+                    <div class="space-y-6">
+                        <div class="bg-red-800/50 p-6 rounded-xl border border-red-500/50">
+                            <p class="text-2xl md:text-3xl font-bold mb-2">Trash Closets will be <span class="text-red-300 uppercase underline decoration-4 underline-offset-4">LOCKED</span></p>
+                            <p class="text-xl text-gray-200">Duration: Approximately 10 Days</p>
+                        </div>
+
+                        <div class="bg-white text-gray-900 p-8 rounded-xl shadow-lg transform scale-105">
+                            <h3 class="text-2xl md:text-3xl font-extrabold uppercase mb-2 text-red-700">Action Required</h3>
+                            <p class="text-xl md:text-2xl font-bold">Please dispose of all trash in the</p>
+                            <p class="text-3xl md:text-4xl font-black uppercase text-red-800 mt-1">Trash Room on P1</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SLIDE 2: PORTAL (Was Slide 3) -->
+        <div id="slide-2" class="slide-container">
+            <div class="h-full flex flex-col justify-center items-center">
+                <div class="bg-gray-800 text-white rounded-xl shadow-2xl p-8 max-w-6xl w-full border-4 border-emerald-500 urgent-border">
+                    <div class="flex items-center gap-6 mb-6 border-b-4 border-emerald-500 pb-4">
+                        <div class="bg-emerald-600 p-4 rounded-full animate-bounce">
+                            <svg class="w-12 h-12 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        </div>
+                        <div>
+                            <h2 class="text-4xl md:text-5xl font-extrabold text-white">New Portal is LIVE!</h2>
+                            <p class="text-xl text-emerald-400 font-bold uppercase tracking-wide">Login & Setup Payment Immediately</p>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        <div class="bg-gray-700 p-6 rounded-xl border-l-4 border-emerald-500">
+                            <h3 class="text-2xl font-bold mb-4 text-white">How to Access</h3>
+                            <ul class="space-y-4">
+                                <li class="flex items-start gap-3">
+                                    <span class="bg-emerald-600 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0 mt-1">1</span>
+                                    <div><p class="font-bold text-lg text-white">Check Your Email</p><p class="text-gray-300 text-sm">Look for an email from PMSI with your <strong>Temporary Password</strong>.</p></div>
+                                </li>
+                                <li class="flex items-start gap-3">
+                                    <span class="bg-emerald-600 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0 mt-1">2</span>
+                                    <div><p class="font-bold text-lg text-white">Go to <span class="text-emerald-300 underline">home.pmsystems.net</span></p><p class="text-gray-300 text-sm">Or scan the QR code to the right.</p></div>
+                                </li>
+                                <li class="flex items-start gap-3">
+                                    <span class="bg-emerald-600 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0 mt-1">3</span>
+                                    <div><p class="font-bold text-lg text-white">Log In</p><p class="text-gray-300 text-sm">Click <strong>"Log In With Password"</strong>. If it fails, try "Log In With One-Time Code."</p></div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="flex flex-col justify-between">
+                            <div class="bg-red-900/50 p-6 rounded-xl border border-red-500 mb-4 text-center">
+                                <h3 class="text-2xl font-bold text-red-400 mb-2 uppercase">Payment Action Required</h3>
+                                <p class="text-lg text-gray-200 mb-2">Your old Autopay <strong>did not transfer</strong>.</p>
+                                <p class="text-white font-bold text-xl">Please log in and pay your dues <span class="underline decoration-red-500">TODAY</span>.</p>
+                            </div>
+                            <div class="flex flex-col items-center justify-center bg-white p-4 rounded-xl shadow-lg">
+                                <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://home.pmsystems.net/" alt="Scan to Login" class="w-32 h-32 mb-2">
+                                <p class="text-gray-800 font-bold uppercase tracking-wide text-sm">Scan to Log In</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SLIDE 3: MOVIES (Was Slide 1) -->
+        <div id="slide-3" class="slide-container">
+            <div class="h-full flex flex-col gap-4">
+                <!-- Movie Grid -->
+                <div id="movie-grid" class="flex-grow grid grid-cols-2 md:grid-cols-3 gap-6 content-start overflow-y-auto w-full">
+                    <!-- Movie Cards Injected via JS -->
+                    <div class="col-span-3 text-center text-gray-400 mt-10">Loading Movies...</div>
+                </div>
+
+                <!-- Bottom Info Bar -->
+                <div class="bg-white rounded-xl p-3 shadow-xl flex flex-row items-center justify-between flex-shrink-0 h-24 border-b-4 border-red-700">
+                    <div class="flex items-center gap-4 px-4">
+                        <div class="bg-red-700 text-white p-3 rounded-lg shadow">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+                        </div>
+                        <div>
+                            <h2 class="text-xl md:text-2xl font-extrabold text-gray-800 uppercase tracking-tight">Megaplex Gateway</h2>
+                            <p class="text-red-700 text-xs font-bold uppercase tracking-wider">Luxury Heated Recliners</p>
+                        </div>
+                    </div>
+
+                    <div class="flex items-center gap-6 pr-4">
+                        <div class="text-right hidden md:block">
+                            <p class="text-gray-900 font-bold leading-tight">Scan for Tickets</p>
+                            <p class="text-gray-500 text-xs">Reserve seats online</p>
+                        </div>
+                        <div class="bg-gray-100 p-1 rounded-lg border border-gray-200">
+                            <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://megaplex.com/gateway" alt="Scan" class="h-16 w-16">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SLIDE 4: EVENTS (Was Slide 2) -->
+        <div id="slide-4" class="slide-container">
+            <div class="h-full flex flex-col gap-4">
+                <div id="events-grid" class="flex-grow grid grid-cols-3 gap-4 content-start overflow-y-auto w-full">
+                    <!-- Event Cards Injected via JS -->
+                </div>
+            </div>
+        </div>
+
+        <!-- SLIDE 5: REAL ESTATE (Was Slide 5) -->
+        <div id="slide-5" class="slide-container">
+            <div class="h-full flex flex-col">
+                <div class="flex justify-between items-center mb-4 px-2 border-b-4 border-sky-500 pb-2">
+                     <h2 class="text-3xl font-bold text-sky-500">Homes for Sale at The Parc</h2>
+                     <div class="text-right"><p class="text-sm text-gray-400">Data via UtahRealEstate.com</p></div>
+                </div>
+                <div id="forsale-grid" class="flex-grow grid grid-cols-2 lg:grid-cols-3 gap-6 content-start overflow-y-auto pb-4">
+                    <!-- Listings Injected via JS -->
+                    <div class="col-span-full flex flex-col items-center justify-center h-full text-gray-400">
+                        <svg class="w-16 h-16 mb-4 opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg>
+                        <p class="text-xl">No units currently listed for sale.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white text-center p-3 z-20 flex-shrink-0">
+        <p class="font-medium text-base"><span id="current-date"></span> &bull; Have a wonderful day! <span id="resolution" class="text-gray-500 text-xs ml-2"></span></p>
+        <div class="flex justify-center gap-2 mt-1">
+            <div id="dot-1" class="w-2 h-2 rounded-full bg-white transition-all duration-300"></div>
+            <div id="dot-2" class="w-2 h-2 rounded-full bg-gray-600 transition-all duration-300"></div>
+            <div id="dot-3" class="w-2 h-2 rounded-full bg-gray-600 transition-all duration-300"></div>
+            <div id="dot-4" class="w-2 h-2 rounded-full bg-gray-600 transition-all duration-300"></div>
+            <div id="dot-5" class="w-2 h-2 rounded-full bg-gray-600 transition-all duration-300"></div>
+        </div>
+    </footer>
+
+    <!-- Logic -->
+    <script>
+        function updateDate() {
+            const today = new Date();
+            document.getElementById('current-date').textContent = new Intl.DateTimeFormat('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZone: 'America/Denver' }).format(today);
+            document.getElementById('resolution').textContent = `(${window.innerWidth}x${window.innerHeight})`;
+        }
+        window.addEventListener('resize', updateDate);
+        setInterval(updateDate, 60000); updateDate();
+        setTimeout(function() { window.location.reload(true); }, 3600000); // 1 hour refresh
+
+        // --- FETCHERS ---
+        async function loadData() {
+            // Load Events
+            try {
+                const eRes = await fetch('gateway_events.json');
+                if (eRes.ok) {
+                    const events = await eRes.json();
+                    const eGrid = document.getElementById('events-grid');
+                    eGrid.innerHTML = '';
+                    events.forEach(ev => {
+                        eGrid.innerHTML += `
+                        <div class="bg-gray-700 rounded-xl overflow-hidden shadow-lg border-l-4 border-pink-500 flex flex-col h-full">
+                            ${ev.image ? `<div class="h-20 w-full relative bg-gray-900 flex items-center justify-center overflow-hidden"><img src="${ev.image}" loading="lazy" class="w-full h-full object-cover object-top opacity-90"></div>` : ''}
+                            <div class="p-3 flex flex-col flex-grow">
+                                <h3 class="text-lg font-bold text-white mb-1 line-clamp-1">${ev.title}</h3>
+                                <p class="text-pink-300 font-semibold text-xs mb-1 uppercase tracking-wide">${ev.date}</p>
+                                <p class="text-gray-300 text-sm leading-snug line-clamp-3">${ev.description}</p>
+                            </div>
+                        </div>`;
+                    });
+                }
+            } catch(e) { console.log(e); }
+
+            // Load Movies
+            try {
+                const mRes = await fetch('movies.json');
+                if (mRes.ok) {
+                    const movies = await mRes.json();
+                    const mGrid = document.getElementById('movie-grid');
+                    mGrid.innerHTML = '';
+                    movies.slice(0, 9).forEach(m => { // Limit to 9
+                        const poster = m.poster ? m.poster : `https://placehold.co/400x600/333/fff?text=${encodeURIComponent(m.title)}`;
+                        mGrid.innerHTML += `
+                        <div class="bg-gray-700 rounded-lg overflow-hidden flex flex-col shadow-lg border border-gray-600 h-full">
+                            <div class="h-20 w-full relative">
+                                <img src="${poster}" loading="lazy" class="w-full h-full object-cover object-top">
+                                <span class="absolute top-1 right-1 bg-black/70 text-white text-xs px-1.5 py-0.5 rounded font-bold">${m.rating}</span>
+                            </div>
+                            <div class="p-2 flex flex-col flex-grow justify-between">
+                                <div class="mb-1">
+                                    <h3 class="font-bold text-lg text-white leading-tight mb-0.5 line-clamp-1">${m.title}</h3>
+                                    <p class="text-xs text-gray-400 font-medium line-clamp-1">${m.genre}</p>
+                                </div>
+                                <div class="flex flex-wrap gap-1.5">
+                                    ${m.times.slice(0,6).map(t => `<span class="bg-red-900/60 text-red-100 px-1.5 py-0.5 rounded text-xs font-bold border border-red-800/50">${t}</span>`).join('')}
+                                </div>
+                            </div>
+                        </div>`;
+                    });
+                }
+            } catch(e) { 
+                document.getElementById('movie-grid').innerHTML = '<div class="col-span-3 text-center text-gray-500">Check Megaplex App for Showtimes</div>';
+            }
+
+            // Load Listings
+            try {
+                const lRes = await fetch('forsale.json');
+                if (lRes.ok) {
+                    const listings = await lRes.json();
+                    if (listings.length > 0) {
+                        const lGrid = document.getElementById('forsale-grid');
+                        lGrid.innerHTML = '';
+                        listings.forEach(item => {
+                            // Extract Unit Number for Display
+                            const unitNum = item.unit ? `#${item.unit}` : 'Condo';
+                            
+                            lGrid.innerHTML += `
+                            <div class="bg-gray-800 rounded-xl shadow-lg border border-gray-600 flex flex-col h-full overflow-hidden relative">
+                                <div class="bg-sky-900 p-4 border-b border-sky-700 flex justify-between items-center">
+                                    <h3 class="text-3xl font-extrabold text-white">${unitNum}</h3>
+                                    <span class="bg-sky-100 text-sky-800 text-sm font-bold px-2 py-1 rounded uppercase">For Sale</span>
+                                </div>
+                                <div class="p-5 flex-grow flex flex-col justify-between gap-4">
+                                    <div>
+                                        <p class="text-3xl font-bold text-green-400 mb-2">${item.price}</p>
+                                        <p class="text-gray-300 text-sm border-t border-gray-700 pt-2">${item.details}</p>
+                                    </div>
+                                    
+                                    ${item.link ? `
+                                    <div class="flex items-center gap-3 bg-gray-900 p-2 rounded-lg border border-gray-700">
+                                        <div class="bg-white p-1 rounded">
+                                            <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${encodeURIComponent(item.link)}" class="w-16 h-16">
+                                        </div>
+                                        <div class="flex-grow">
+                                            <p class="text-sky-400 font-bold text-sm uppercase leading-tight">Scan for Details</p>
+                                            <p class="text-gray-500 text-xs">View photos & tour</p>
+                                        </div>
+                                    </div>` : ''}
+                                </div>
+                            </div>`;
+                        });
+                    }
+                }
+            } catch(e) { console.log(e); }
+        }
+        loadData();
+
+        // --- SLIDES ---
+        const SLIDE_DURATIONS = { 1: 30000, 2: 30000, 3: 30000, 4: 30000, 5: 30000 };
+        let currentSlide = 1;
+        const totalSlides = 5;
+
+        function showSlide(slideNum) {
+            for (let i = 1; i <= totalSlides; i++) {
+                const slide = document.getElementById(`slide-${i}`);
+                const dot = document.getElementById(`dot-${i}`);
+                if (i === slideNum) {
+                    slide.classList.add('slide-active');
+                    dot.classList.replace('bg-gray-600', 'bg-white');
+                } else {
+                    slide.classList.remove('slide-active');
+                    dot.classList.replace('bg-white', 'bg-gray-600');
+                }
+            }
+            currentSlide = slideNum;
+        }
+
+        function nextSlide() {
+            let next = currentSlide + 1;
+            if (next > totalSlides) next = 1;
+            showSlide(next);
+            setTimeout(nextSlide, SLIDE_DURATIONS[next] || 30000);
+        }
+        
+        // Start loop
+        showSlide(1);
+        setTimeout(nextSlide, SLIDE_DURATIONS[1]);
+    </script>
+</body>
+</html>
