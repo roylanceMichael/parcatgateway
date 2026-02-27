@@ -118,7 +118,7 @@
         <div id="slide-3" class="slide-container">
             <div class="h-full flex flex-col gap-4">
                 <!-- Movie Grid -->
-                <div id="movie-grid" class="flex-grow grid grid-cols-2 md:grid-cols-3 gap-6 content-start overflow-y-auto w-full">
+                <div id="movie-grid" class="flex-grow grid grid-cols-5 gap-2 content-start overflow-hidden w-full">
                     <!-- Movie Cards Injected via JS -->
                     <div class="col-span-3 text-center text-gray-400 mt-10">Loading Movies...</div>
                 </div>
@@ -151,8 +151,7 @@
         <!-- SLIDE 4: EVENTS (Was Slide 2) -->
         <div id="slide-4" class="slide-container">
             <div class="h-full flex flex-col gap-4">
-                <div id="events-grid" class="flex-grow grid grid-cols-3 gap-4 content-start overflow-y-auto w-full">
-                    <!-- Event Cards Injected via JS -->
+                <div id="events-grid" class="flex-grow grid grid-cols-5 gap-2 content-start overflow-hidden w-full">
                 </div>
             </div>
         </div>
@@ -208,14 +207,27 @@
                     const events = await eRes.json();
                     const eGrid = document.getElementById('events-grid');
                     eGrid.innerHTML = '';
-                    events.forEach(ev => {
+                    events.slice(0, 10).forEach(ev => {
                         eGrid.innerHTML += `
-                        <div class="bg-gray-700 rounded-xl overflow-hidden shadow-lg border-l-4 border-pink-500 flex flex-col h-full">
-                            ${ev.image ? `<div class="h-20 w-full relative bg-gray-900 flex items-center justify-center overflow-hidden"><img src="${ev.image}" loading="lazy" class="w-full h-full object-cover object-top opacity-90"></div>` : ''}
-                            <div class="p-3 flex flex-col flex-grow">
-                                <h3 class="text-lg font-bold text-white mb-1 line-clamp-1">${ev.title}</h3>
-                                <p class="text-pink-300 font-semibold text-xs mb-1 uppercase tracking-wide">${ev.date}</p>
-                                <p class="text-gray-300 text-sm leading-snug line-clamp-3">${ev.description}</p>
+                        <div class="bg-gray-800 rounded-xl overflow-hidden shadow-2xl border-t-4 border-pink-600 flex flex-col h-full transform transition-all">
+                            ${ev.image ? `
+                                <div class="h-56 w-full relative bg-gray-900 flex-shrink-0">
+                                    <img src="${ev.image}" 
+                                         loading="lazy" 
+                                         class="w-full h-full object-cover object-top">
+                                    <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent to-transparent opacity-90"></div>
+                                </div>` : ''}
+                            
+                            <div class="p-3 flex flex-col flex-grow bg-gray-900/40">
+                                <h3 class="text-[14px] font-black text-white mb-1 line-clamp-2 leading-tight uppercase tracking-tight">
+                                    ${ev.title}
+                                </h3>
+                                <p class="text-pink-400 font-bold text-[10px] mb-2 uppercase tracking-widest border-b border-pink-900/30 pb-1">
+                                    ${ev.date}
+                                </p>
+                                <p class="text-gray-300 text-[11px] leading-relaxed line-clamp-4 italic overflow-hidden">
+                                    ${ev.description}
+                                </p>
                             </div>
                         </div>`;
                     });
@@ -229,21 +241,27 @@
                     const movies = await mRes.json();
                     const mGrid = document.getElementById('movie-grid');
                     mGrid.innerHTML = '';
-                    movies.slice(0, 9).forEach(m => { // Limit to 9
+                    movies.slice(0, 10).forEach(m => {
                         const poster = m.poster ? m.poster : `https://placehold.co/400x600/333/fff?text=${encodeURIComponent(m.title)}`;
                         mGrid.innerHTML += `
-                        <div class="bg-gray-700 rounded-lg overflow-hidden flex flex-col shadow-lg border border-gray-600 h-full">
-                            <div class="h-20 w-full relative">
+                        <div class="bg-gray-800 rounded-lg overflow-hidden flex flex-col shadow-lg border border-gray-700 h-full">
+                            <div class="h-52 w-full relative flex-shrink-0">
                                 <img src="${poster}" loading="lazy" class="w-full h-full object-cover object-top">
-                                <span class="absolute top-1 right-1 bg-black/70 text-white text-xs px-1.5 py-0.5 rounded font-bold">${m.rating}</span>
+                                <div class="absolute top-1 right-1 bg-black/70 text-white text-[9px] px-1 py-0.5 rounded font-bold">${m.rating}</div>
                             </div>
-                            <div class="p-2 flex flex-col flex-grow justify-between">
+                            
+                            <div class="p-2 flex flex-col justify-between flex-grow bg-gray-900/60">
                                 <div class="mb-1">
-                                    <h3 class="font-bold text-lg text-white leading-tight mb-0.5 line-clamp-1">${m.title}</h3>
-                                    <p class="text-xs text-gray-400 font-medium line-clamp-1">${m.genre}</p>
+                                    <h3 class="font-bold text-[12px] text-white leading-tight line-clamp-1 uppercase">${m.title}</h3>
+                                    <p class="text-[9px] text-red-500 font-bold uppercase tracking-tighter">${m.genre}</p>
                                 </div>
-                                <div class="flex flex-wrap gap-1.5">
-                                    ${m.times.slice(0,6).map(t => `<span class="bg-red-900/60 text-red-100 px-1.5 py-0.5 rounded text-xs font-bold border border-red-800/50">${t}</span>`).join('')}
+                                
+                                <div class="flex flex-wrap gap-1 mt-auto">
+                                    ${m.times.slice(0, 3).map(t => `
+                                        <span class="bg-red-900/80 text-red-100 px-1 py-0.5 rounded text-[9px] font-black border border-red-700/30">
+                                            ${t}
+                                        </span>
+                                    `).join('')}
                                 </div>
                             </div>
                         </div>`;
