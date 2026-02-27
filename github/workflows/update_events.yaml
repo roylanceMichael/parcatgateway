@@ -1,0 +1,52 @@
+name: Update Community Board Data
+
+on:
+  schedule:
+    # Runs at 10:00 UTC daily (3:00 AM MST / 4:00 AM MDT)
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Install Playwright Browsers
+        run: |
+          uv run playwright install chromium
+          uv run playwright install-deps chromium
+
+      - name: Run Scraper
+        # 'uv run' automatically creates a venv and installs dependencies from pyproject.toml
+        run: uv run scrape_all.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          
+          # Add all potential data files
+          git add gateway_events.json movies.json forsale.json posters/
+          
+          # Check for changes
+          if [[ -n $(git status -s) ]]; then
+            echo "Changes detected. Committing..."
+            git commit -m "Auto-update: Daily events and movies refresh"
+            git push
+          else
+            echo "No changes detected. Skipping commit."
+          fi
