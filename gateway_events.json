@@ -1,19 +1,7 @@
 [
   {
-    "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
-    "date": "February 28 @ 7:30 pm - 9:30 pm",
-    "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
-  },
-  {
-    "title": "Hidden Boot Saloon Saturday Nights",
-    "date": "February 28 @ 10:00 pm - March 1 @ 1:00 am",
-    "description": "Head to Flanker for a western night full of music, food, drinks, and so much more.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Jaime_Henriquez_2_28_26960x640-Gateway.jpg"
-  },
-  {
     "title": "Bohemian Bum Farmer\u2019s Market",
-    "date": "March 1 @ 10:00 am - 3:00 pm| (See all)One event on December 7, 2025 at 10:00 amOne event on December 21, 2025 at 10:00 amOne event on January 18, 2026 at 10:00 amOne event on February 1, 2026 at 10:00 amOne event on February 15, 2026 at 10:00 amOne event on March 1, 2026 at 10:00 amOne event on March 15, 2026 at 10:00 amOne event on April 19, 2026 at 10:00 amOne event on May 3, 2026 at 10:00 amOne event on May 17, 2026 at 10:00 amOne event on May 31, 2026 at 10:00 amOne event on June 7, 2026 at 10:00 amOne event on July 5, 2026 at 10:00 amOne event on July 19, 2026 at 10:00 amOne event on August 2, 2026 at 10:00 amOne event on September 6, 2026 at 10:00 amOne event on October 4, 2026 at 10:00 amOne event on October 18, 2026 at 10:00 am",
+    "date": "March 1 @ 10:00 am - 3:00 pm",
     "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
     "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
   },
@@ -52,5 +40,17 @@
     "date": "March 7 @ 6:00 pm - 9:00 pm",
     "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
+  },
+  {
+    "title": "UFC 326 Fight Night Holloway vs. Oliveira 2",
+    "date": "March 7 @ 7:00 pm - 11:00 pm",
+    "description": "Head to Flanker for a UFC 326 Watch Party!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/socials_social-1920x1080-1.jpg"
+  },
+  {
+    "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
+    "date": "March 7 @ 7:30 pm - 9:30 pm",
+    "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
   }
 ]
