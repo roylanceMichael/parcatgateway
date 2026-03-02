@@ -1,5 +1,20 @@
 [
   {
+    "title": "Scream 7",
+    "rating": "R",
+    "score": "6",
+    "runtime": "1h 54m",
+    "genre": "Horror",
+    "times": [
+      "11:00 AM",
+      "12:00 PM",
+      "1:40 PM",
+      "4:20 PM",
+      "5:35 PM"
+    ],
+    "poster": "posters/scream-7.jpg"
+  },
+  {
     "title": "Wuthering Heights",
     "rating": "R",
     "score": "6.3",
@@ -70,24 +85,9 @@
     "poster": "posters/how-to-make-a-killing.jpg"
   },
   {
-    "title": "Scream 7",
-    "rating": "R",
-    "score": "6",
-    "runtime": "1h 54m",
-    "genre": "Horror",
-    "times": [
-      "11:00 AM",
-      "12:00 PM",
-      "1:40 PM",
-      "4:20 PM",
-      "5:35 PM"
-    ],
-    "poster": "posters/scream-7.jpg"
-  },
-  {
     "title": "Solo Mio",
     "rating": "PG",
-    "score": "7.6",
+    "score": "7.5",
     "runtime": "1h 36m",
     "genre": "Comedy",
     "times": [
@@ -99,7 +99,7 @@
   {
     "title": "I Can Only Imagine 2",
     "rating": "PG",
-    "score": "7.7",
+    "score": "7.6",
     "runtime": "1h 50m",
     "genre": "Drama",
     "times": [

@@ -1,23 +1,5 @@
 [
   {
-    "title": "Bohemian Bum Farmer\u2019s Market",
-    "date": "March 1 @ 10:00 am - 3:00 pm",
-    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
-    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
-  },
-  {
-    "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
-    "date": "March 1 @ 3:30 pm - 5:30 pm",
-    "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
-  },
-  {
-    "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
-    "date": "March 1 @ 7:30 pm - 9:30 pm",
-    "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
-  },
-  {
     "title": "Yoga & Beer",
     "date": "March 3 @ 6:00 pm - 7:00 pm",
     "description": "Move and stretch your body with us at this FREE weekly yoga class!",
@@ -50,6 +32,24 @@
   {
     "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
     "date": "March 7 @ 7:30 pm - 9:30 pm",
+    "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
+  },
+  {
+    "title": "Hidden Boot Saloon Saturday Nights",
+    "date": "March 7 @ 10:00 pm - March 8 @ 1:00 am",
+    "description": "Head to Flanker for the Hidden Boot Saloon Saturday Night Party!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Jaime_Henrique-3_7_26z960x640-Gateway.jpg"
+  },
+  {
+    "title": "Indoor Urban Flea Market",
+    "date": "March 8 @ 10:00 am - 4:00 pm",
+    "description": "Join us every second Sunday of each month for the Urban Flea Market at The Gateway.",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/10/Winter-Urban-Flea-Market-2020-36-1.jpg"
+  },
+  {
+    "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
+    "date": "March 8 @ 3:30 pm - 5:30 pm",
     "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
   }
