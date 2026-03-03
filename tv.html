@@ -15,8 +15,6 @@
         .slide-active { opacity: 1; pointer-events: auto; z-index: 10; }
         @keyframes pulse-border { 0%, 100% { border-color: rgba(16, 185, 129, 1); } 50% { border-color: rgba(16, 185, 129, 0.5); } }
         .urgent-border { animation: pulse-border 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
-        @keyframes pulse-red { 0%, 100% { border-color: rgba(220, 38, 38, 1); } 50% { border-color: rgba(220, 38, 38, 0.5); } }
-        .urgent-border-red { animation: pulse-red 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
     </style>
 </head>
 <body class="bg-gray-800 text-gray-100 flex flex-col h-screen overflow-hidden">
@@ -39,35 +37,34 @@
 
     <main class="flex-grow container mx-auto relative w-full h-full">
         
-        <!-- SLIDE 1: TRASH CHUTE (NEW) -->
+        <!-- SLIDE 1: TRASH CHUTE (UPDATED) -->
         <div id="slide-1" class="slide-container slide-active">
             <div class="h-full flex flex-col justify-center items-center">
-                <div class="bg-red-900 text-white rounded-xl shadow-2xl p-8 lg:p-12 max-w-5xl w-full border-4 border-red-500 urgent-border-red text-center">
-                    <div class="mb-8 border-b-4 border-red-500 pb-6">
-                        <div class="inline-block bg-red-600 p-6 rounded-full mb-4 animate-pulse">
-                            <svg class="w-20 h-20 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                <div class="bg-gray-800 text-white rounded-xl shadow-2xl p-8 lg:p-12 max-w-5xl w-full border-4 border-sky-500 text-center">
+                    <div class="mb-8 border-b-4 border-sky-500 pb-6">
+                        <div class="inline-block bg-sky-600 p-6 rounded-full mb-4 shadow-lg">
+                            <svg class="w-20 h-20 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                         </div>
-                        <h2 class="text-4xl md:text-6xl font-extrabold text-white uppercase tracking-tight">Trash Chute Repair</h2>
-                        <p class="text-2xl md:text-3xl text-red-200 font-bold mt-2">Starting Wednesday, Feb 18th</p>
+                        <h2 class="text-4xl md:text-6xl font-extrabold text-white uppercase tracking-tight">Trash Chute Open</h2>
+                        <p class="text-2xl md:text-3xl text-sky-300 font-bold mt-2">Repairs are completely finished</p>
                     </div>
                     
                     <div class="space-y-6">
-                        <div class="bg-red-800/50 p-6 rounded-xl border border-red-500/50">
-                            <p class="text-2xl md:text-3xl font-bold mb-2">Trash Closets will be <span class="text-red-300 uppercase underline decoration-4 underline-offset-4">LOCKED</span></p>
-                            <p class="text-xl text-gray-200">Duration: Approximately 10 Days</p>
+                        <div class="bg-sky-900/40 p-6 rounded-xl border border-sky-500/50">
+                            <p class="text-2xl md:text-3xl font-bold mb-2">Thank you for your patience!</p>
+                            <p class="text-xl text-gray-200">The trash closets on all floors are now unlocked and available for use.</p>
                         </div>
 
-                        <div class="bg-white text-gray-900 p-8 rounded-xl shadow-lg transform scale-105">
-                            <h3 class="text-2xl md:text-3xl font-extrabold uppercase mb-2 text-red-700">Action Required</h3>
-                            <p class="text-xl md:text-2xl font-bold">Please dispose of all trash in the</p>
-                            <p class="text-3xl md:text-4xl font-black uppercase text-red-800 mt-1">Trash Room on P1</p>
+                        <div class="bg-white text-gray-900 p-8 rounded-xl shadow-lg">
+                            <h3 class="text-2xl md:text-3xl font-extrabold uppercase mb-2 text-sky-700">Friendly Reminder</h3>
+                            <p class="text-xl font-bold text-gray-700">Please use the chute responsibly and ensure you follow all trash and garbage guidelines outlined in the Rules and Regulations.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <!-- SLIDE 2: PORTAL (Was Slide 3) -->
+        <!-- SLIDE 2: PORTAL -->
         <div id="slide-2" class="slide-container">
             <div class="h-full flex flex-col justify-center items-center">
                 <div class="bg-gray-800 text-white rounded-xl shadow-2xl p-8 max-w-6xl w-full border-4 border-emerald-500 urgent-border">
@@ -114,7 +111,7 @@
             </div>
         </div>
 
-        <!-- SLIDE 3: MOVIES (Was Slide 1) -->
+        <!-- SLIDE 3: MOVIES -->
         <div id="slide-3" class="slide-container">
             <div class="h-full flex flex-col gap-4">
                 <!-- Movie Grid -->
@@ -148,7 +145,7 @@
             </div>
         </div>
 
-        <!-- SLIDE 4: EVENTS (Was Slide 2) -->
+        <!-- SLIDE 4: EVENTS -->
         <div id="slide-4" class="slide-container">
             <div class="h-full flex flex-col gap-4">
                 <div id="events-grid" class="flex-grow grid grid-cols-5 gap-2 content-start overflow-hidden w-full">
@@ -156,7 +153,7 @@
             </div>
         </div>
 
-        <!-- SLIDE 5: REAL ESTATE (Was Slide 5) -->
+        <!-- SLIDE 5: REAL ESTATE -->
         <div id="slide-5" class="slide-container">
             <div class="h-full flex flex-col">
                 <div class="flex justify-between items-center mb-4 px-2 border-b-4 border-sky-500 pb-2">
