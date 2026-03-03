@@ -10,7 +10,7 @@
       "12:00 PM",
       "1:40 PM",
       "4:20 PM",
-      "5:35 PM"
+      "5:50 PM"
     ],
     "poster": "posters/scream-7.jpg"
   },
@@ -99,14 +99,14 @@
   {
     "title": "I Can Only Imagine 2",
     "rating": "PG",
-    "score": "7.6",
+    "score": "7.5",
     "runtime": "1h 50m",
     "genre": "Drama",
     "times": [
       "12:30 PM",
       "3:05 PM",
-      "5:45 PM",
-      "8:20 PM"
+      "5:40 PM",
+      "8:15 PM"
     ],
     "poster": "posters/i-can-only-imagine-2.jpg"
   },
