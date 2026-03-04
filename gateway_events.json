@@ -1,11 +1,5 @@
 [
   {
-    "title": "Yoga & Beer",
-    "date": "March 3 @ 6:00 pm - 7:00 pm",
-    "description": "Move and stretch your body with us at this FREE weekly yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
-  },
-  {
     "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
     "date": "March 5 @ 7:30 pm - 9:30 pm",
     "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
@@ -43,13 +37,19 @@
   },
   {
     "title": "Indoor Urban Flea Market",
-    "date": "March 8 @ 10:00 am - 4:00 pm| (See all)An event every month that begins at 10:00 am on day Second of the month, repeating until May 11, 2026",
+    "date": "March 8 @ 10:00 am - 4:00 pm",
     "description": "Join us every second Sunday of each month for the Urban Flea Market at The Gateway.",
     "image": "https://atthegateway.com/wp-content/uploads/2024/10/Winter-Urban-Flea-Market-2020-36-1.jpg"
   },
   {
     "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
     "date": "March 8 @ 3:30 pm - 5:30 pm",
+    "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
+  },
+  {
+    "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
+    "date": "March 8 @ 7:30 pm - 9:30 pm",
     "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
   }
