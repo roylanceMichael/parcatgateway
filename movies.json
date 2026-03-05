@@ -2,7 +2,7 @@
   {
     "title": "Scream 7",
     "rating": "R",
-    "score": "6",
+    "score": "5.9",
     "runtime": "1h 54m",
     "genre": "Horror",
     "times": [
@@ -10,7 +10,7 @@
       "12:00 PM",
       "1:40 PM",
       "4:20 PM",
-      "5:35 PM"
+      "7:00 PM"
     ],
     "poster": "posters/scream-7.jpg"
   },
@@ -35,10 +35,7 @@
     "runtime": "2h 20m",
     "genre": "Crime",
     "times": [
-      "11:45 AM",
-      "2:50 PM",
-      "6:00 PM",
-      "9:10 PM"
+      "9:20 PM"
     ],
     "poster": "posters/crime-101.jpg"
   },
@@ -49,11 +46,24 @@
     "runtime": "1h 40m",
     "genre": "Animation",
     "times": [
-      "11:00 AM",
-      "3:50 PM",
-      "6:20 PM"
+      "11:20 AM",
+      "1:25 PM"
     ],
     "poster": "posters/goat.jpg"
+  },
+  {
+    "title": "The Bride!",
+    "rating": "R",
+    "score": "6.4",
+    "runtime": "2h 6m",
+    "genre": "Drama",
+    "times": [
+      "3:00 PM",
+      "6:00 PM",
+      "7:30 PM",
+      "9:00 PM"
+    ],
+    "poster": "posters/the-bride.jpg"
   },
   {
     "title": "Send Help",
@@ -62,12 +72,24 @@
     "runtime": "1h 53m",
     "genre": "Adventure",
     "times": [
-      "11:15 AM",
-      "2:00 PM",
-      "4:45 PM",
-      "7:25 PM"
+      "12:30 PM"
     ],
     "poster": "posters/send-help.jpg"
+  },
+  {
+    "title": "Hoppers",
+    "rating": "PG",
+    "score": "NR",
+    "runtime": "1h 45m",
+    "genre": "Animation",
+    "times": [
+      "2:00 PM",
+      "3:30 PM",
+      "4:00 PM",
+      "4:30 PM",
+      "5:00 PM"
+    ],
+    "poster": "posters/hoppers.jpg"
   },
   {
     "title": "How to Make a Killing",
@@ -90,22 +112,19 @@
     "runtime": "1h 36m",
     "genre": "Comedy",
     "times": [
-      "12:45 PM",
-      "3:10 PM"
+      "12:00 PM"
     ],
     "poster": "posters/solo-mio.jpg"
   },
   {
     "title": "I Can Only Imagine 2",
     "rating": "PG",
-    "score": "7.5",
+    "score": "7.6",
     "runtime": "1h 50m",
     "genre": "Drama",
     "times": [
-      "12:30 PM",
-      "3:05 PM",
-      "5:45 PM",
-      "8:20 PM"
+      "11:40 AM",
+      "2:20 PM"
     ],
     "poster": "posters/i-can-only-imagine-2.jpg"
   },
