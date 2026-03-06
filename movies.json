@@ -6,11 +6,11 @@
     "runtime": "1h 54m",
     "genre": "Horror",
     "times": [
-      "11:00 AM",
       "12:00 PM",
-      "1:40 PM",
-      "4:20 PM",
-      "7:00 PM"
+      "1:00 PM",
+      "2:40 PM",
+      "3:40 PM",
+      "5:20 PM"
     ],
     "poster": "posters/scream-7.jpg"
   },
@@ -21,10 +21,10 @@
     "runtime": "2h 16m",
     "genre": "Drama",
     "times": [
-      "1:10 PM",
-      "4:10 PM",
-      "7:10 PM",
-      "10:15 PM"
+      "12:20 PM",
+      "3:30 PM",
+      "6:40 PM",
+      "9:50 PM"
     ],
     "poster": "posters/wuthering-heights.jpg"
   },
@@ -35,7 +35,7 @@
     "runtime": "2h 20m",
     "genre": "Crime",
     "times": [
-      "9:20 PM"
+      "9:10 PM"
     ],
     "poster": "posters/crime-101.jpg"
   },
@@ -46,22 +46,25 @@
     "runtime": "1h 40m",
     "genre": "Animation",
     "times": [
-      "11:20 AM",
-      "1:25 PM"
+      "11:15 AM",
+      "1:40 PM",
+      "4:05 PM",
+      "6:35 PM"
     ],
     "poster": "posters/goat.jpg"
   },
   {
     "title": "The Bride!",
     "rating": "R",
-    "score": "6.4",
+    "score": "6.1",
     "runtime": "2h 6m",
     "genre": "Drama",
     "times": [
-      "3:00 PM",
-      "6:00 PM",
-      "7:30 PM",
-      "9:00 PM"
+      "11:00 AM",
+      "1:15 PM",
+      "2:00 PM",
+      "4:15 PM",
+      "5:00 PM"
     ],
     "poster": "posters/the-bride.jpg"
   },
@@ -72,7 +75,7 @@
     "runtime": "1h 53m",
     "genre": "Adventure",
     "times": [
-      "12:30 PM"
+      "11:45 AM"
     ],
     "poster": "posters/send-help.jpg"
   },
@@ -80,14 +83,14 @@
     "title": "Hoppers",
     "rating": "PG",
     "score": "NR",
-    "runtime": "1h 45m",
+    "runtime": "1h 44m",
     "genre": "Animation",
     "times": [
+      "11:00 AM",
+      "11:30 AM",
+      "1:30 PM",
       "2:00 PM",
-      "3:30 PM",
-      "4:00 PM",
-      "4:30 PM",
-      "5:00 PM"
+      "2:30 PM"
     ],
     "poster": "posters/hoppers.jpg"
   },
@@ -98,46 +101,8 @@
     "runtime": "1h 45m",
     "genre": "Comedy",
     "times": [
-      "1:30 PM",
-      "4:00 PM",
-      "6:30 PM",
       "9:00 PM"
     ],
     "poster": "posters/how-to-make-a-killing.jpg"
-  },
-  {
-    "title": "Solo Mio",
-    "rating": "PG",
-    "score": "7.5",
-    "runtime": "1h 36m",
-    "genre": "Comedy",
-    "times": [
-      "12:00 PM"
-    ],
-    "poster": "posters/solo-mio.jpg"
-  },
-  {
-    "title": "I Can Only Imagine 2",
-    "rating": "PG",
-    "score": "7.6",
-    "runtime": "1h 50m",
-    "genre": "Drama",
-    "times": [
-      "11:40 AM",
-      "2:20 PM"
-    ],
-    "poster": "posters/i-can-only-imagine-2.jpg"
-  },
-  {
-    "title": "Pirates of the Caribbean: At World's End",
-    "rating": "PG-13",
-    "score": "7.1",
-    "runtime": "2h 49m",
-    "genre": "Action",
-    "times": [
-      "3:00 PM",
-      "6:45 PM"
-    ],
-    "poster": "posters/pirates-of-the-caribbean-at-world-s-end.jpg"
   }
 ]
