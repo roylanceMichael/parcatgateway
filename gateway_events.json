@@ -1,17 +1,5 @@
 [
   {
-    "title": "Official Pre-Party for The Young Dubliners at Flanker",
-    "date": "March 6 @ 5:00 pm - 7:00 pm",
-    "description": "Enjoy an official Pre-Party at Flanker for The Young Dubliners at The Depot!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Flanker-dubliners.jpg"
-  },
-  {
-    "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
-    "date": "March 6 @ 7:30 pm - 9:30 pm",
-    "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
-  },
-  {
     "title": "Couples Speed Painting at Urban Arts Gallery",
     "date": "March 7 @ 6:00 pm - 9:00 pm",
     "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
@@ -52,5 +40,17 @@
     "date": "March 8 @ 7:30 pm - 9:30 pm",
     "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
+  },
+  {
+    "title": "Yoga & Beer",
+    "date": "March 10 @ 6:00 pm - 7:00 pm",
+    "description": "Move and stretch your body with us at this FREE weekly yoga class!",
+    "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
+  },
+  {
+    "title": "Connect at Urban Arts Gallery",
+    "date": "March 13 @ 6:30 pm - 9:00 pm",
+    "description": "Connect with other artists of all mediums and skill levels to showcase your art.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Share-your-art.png"
   }
 ]
