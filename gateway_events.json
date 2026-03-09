@@ -1,23 +1,5 @@
 [
   {
-    "title": "Indoor Urban Flea Market",
-    "date": "March 8 @ 10:00 am - 4:00 pm",
-    "description": "Join us every second Sunday of each month for the Urban Flea Market at The Gateway.",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/10/Winter-Urban-Flea-Market-2020-36-1.jpg"
-  },
-  {
-    "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
-    "date": "March 8 @ 3:30 pm - 5:30 pm",
-    "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
-  },
-  {
-    "title": "She Kills Monsters at MadKing\u2019s Fellowship Theater",
-    "date": "March 8 @ 7:30 pm - 9:30 pm",
-    "description": "Come to Madking Theater to experience an epic play full of battles, nerdy nostalgia, and a whole ...",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/She-Kills-Monsters-Social-Media.png"
-  },
-  {
     "title": "Yoga & Beer",
     "date": "March 10 @ 6:00 pm - 7:00 pm",
     "description": "Move and stretch your body with us at this FREE weekly yoga class!",
@@ -43,7 +25,7 @@
   },
   {
     "title": "Girls Just Wanna Make Crafts at Urban Arts Gallery",
-    "date": "March 14 @ 6:00 pm - 9:00 pm",
+    "date": "March 14 @ 6:00 pm - 9:00 pm| (See all)One event on May 9, 2026 at 6:00 pmOne event on July 11, 2026 at 6:00 pmOne event on September 12, 2026 at 6:00 pm",
     "description": "Enjoy a fun night making crafts with other girls!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Girls-Crafts.png"
   },
@@ -52,5 +34,23 @@
     "date": "March 14 @ 7:00 pm - 9:00 pm",
     "description": "Celebrate St. Patrick's day in style with Flanker's delicious bites and classic drinks.",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/960x640stpatricks.jpg"
+  },
+  {
+    "title": "Otherworld at Flanker",
+    "date": "March 14 @ 9:30 pm - March 15 @ 2:00 am",
+    "description": "Enjoy the best techno and house beats, with Flanker's signature food and drinks.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Flanker-techno.jpg"
+  },
+  {
+    "title": "Bohemian Bum Farmer\u2019s Market",
+    "date": "March 15 @ 10:00 am - 3:00 pm",
+    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
+    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
+  },
+  {
+    "title": "St Patrick\u2019s Day at Flanker",
+    "date": "March 17 @ 5:00 pm - 11:00 pm",
+    "description": "Enjoy St Patricks Day at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/St-patricks-flanker.jpg"
   }
 ]

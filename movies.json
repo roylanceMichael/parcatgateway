@@ -1,5 +1,35 @@
 [
   {
+    "title": "The Bride!",
+    "rating": "R",
+    "score": "6.1",
+    "runtime": "2h 6m",
+    "genre": "Drama",
+    "times": [
+      "11:00 AM",
+      "1:15 PM",
+      "2:00 PM",
+      "4:15 PM",
+      "5:00 PM"
+    ],
+    "poster": "posters/the-bride.jpg"
+  },
+  {
+    "title": "Hoppers",
+    "rating": "PG",
+    "score": "7.7",
+    "runtime": "1h 44m",
+    "genre": "Animation",
+    "times": [
+      "11:00 AM",
+      "11:30 AM",
+      "1:30 PM",
+      "2:00 PM",
+      "2:30 PM"
+    ],
+    "poster": "posters/hoppers.jpg"
+  },
+  {
     "title": "Scream 7",
     "rating": "R",
     "score": "5.9",
@@ -54,21 +84,6 @@
     "poster": "posters/goat.jpg"
   },
   {
-    "title": "The Bride!",
-    "rating": "R",
-    "score": "6.1",
-    "runtime": "2h 6m",
-    "genre": "Drama",
-    "times": [
-      "11:00 AM",
-      "1:15 PM",
-      "2:00 PM",
-      "4:15 PM",
-      "5:00 PM"
-    ],
-    "poster": "posters/the-bride.jpg"
-  },
-  {
     "title": "Send Help",
     "rating": "R",
     "score": "7.2",
@@ -78,21 +93,6 @@
       "11:45 AM"
     ],
     "poster": "posters/send-help.jpg"
-  },
-  {
-    "title": "Hoppers",
-    "rating": "PG",
-    "score": "7.7",
-    "runtime": "1h 44m",
-    "genre": "Animation",
-    "times": [
-      "11:00 AM",
-      "11:30 AM",
-      "1:30 PM",
-      "2:00 PM",
-      "2:30 PM"
-    ],
-    "poster": "posters/hoppers.jpg"
   },
   {
     "title": "How to Make a Killing",
