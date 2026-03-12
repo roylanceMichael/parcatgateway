@@ -7,10 +7,9 @@
     "genre": "Drama",
     "times": [
       "11:00 AM",
-      "1:15 PM",
       "2:00 PM",
-      "4:15 PM",
-      "5:00 PM"
+      "5:00 PM",
+      "8:30 PM"
     ],
     "poster": "posters/the-bride.jpg"
   },
@@ -104,5 +103,18 @@
       "9:00 PM"
     ],
     "poster": "posters/how-to-make-a-killing.jpg"
+  },
+  {
+    "title": "Reminders of Him",
+    "rating": "PG-13",
+    "score": "6.5",
+    "runtime": "1h 54m",
+    "genre": "Drama",
+    "times": [
+      "3:35 PM",
+      "6:15 PM",
+      "8:55 PM"
+    ],
+    "poster": "posters/reminders-of-him.jpg"
   }
 ]
