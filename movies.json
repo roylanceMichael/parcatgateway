@@ -9,7 +9,7 @@
       "11:00 AM",
       "2:00 PM",
       "5:00 PM",
-      "8:30 PM"
+      "8:00 PM"
     ],
     "poster": "posters/the-bride.jpg"
   },
@@ -20,9 +20,9 @@
     "runtime": "1h 44m",
     "genre": "Animation",
     "times": [
-      "11:00 AM",
       "11:30 AM",
-      "1:30 PM",
+      "12:00 PM",
+      "12:45 PM",
       "2:00 PM",
       "2:30 PM"
     ],
@@ -35,11 +35,10 @@
     "runtime": "1h 54m",
     "genre": "Horror",
     "times": [
-      "12:00 PM",
       "1:00 PM",
-      "2:40 PM",
       "3:40 PM",
-      "5:20 PM"
+      "6:20 PM",
+      "9:00 PM"
     ],
     "poster": "posters/scream-7.jpg"
   },
@@ -58,63 +57,33 @@
     "poster": "posters/wuthering-heights.jpg"
   },
   {
-    "title": "Crime 101",
-    "rating": "R",
-    "score": "7.1",
-    "runtime": "2h 20m",
-    "genre": "Crime",
-    "times": [
-      "9:10 PM"
-    ],
-    "poster": "posters/crime-101.jpg"
-  },
-  {
-    "title": "GOAT",
-    "rating": "PG",
-    "score": "6.9",
-    "runtime": "1h 40m",
-    "genre": "Animation",
-    "times": [
-      "11:15 AM",
-      "1:40 PM",
-      "4:05 PM",
-      "6:35 PM"
-    ],
-    "poster": "posters/goat.jpg"
-  },
-  {
-    "title": "Send Help",
-    "rating": "R",
-    "score": "7.2",
-    "runtime": "1h 53m",
-    "genre": "Adventure",
-    "times": [
-      "11:45 AM"
-    ],
-    "poster": "posters/send-help.jpg"
-  },
-  {
-    "title": "How to Make a Killing",
-    "rating": "R",
-    "score": "6.7",
-    "runtime": "1h 45m",
-    "genre": "Comedy",
-    "times": [
-      "9:00 PM"
-    ],
-    "poster": "posters/how-to-make-a-killing.jpg"
-  },
-  {
     "title": "Reminders of Him",
     "rating": "PG-13",
     "score": "6.5",
     "runtime": "1h 54m",
     "genre": "Drama",
     "times": [
-      "3:35 PM",
-      "6:15 PM",
-      "8:55 PM"
+      "11:20 AM",
+      "12:15 PM",
+      "2:10 PM",
+      "3:00 PM",
+      "4:45 PM"
     ],
     "poster": "posters/reminders-of-him.jpg"
+  },
+  {
+    "title": "Undertone",
+    "rating": "R",
+    "score": "6.6",
+    "runtime": "1h 33m",
+    "genre": "Horror",
+    "times": [
+      "11:10 AM",
+      "1:30 PM",
+      "3:50 PM",
+      "6:10 PM",
+      "8:30 PM"
+    ],
+    "poster": "posters/undertone.jpg"
   }
 ]
