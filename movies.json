@@ -45,7 +45,7 @@
   {
     "title": "Wuthering Heights",
     "rating": "R",
-    "score": "6.3",
+    "score": "6.2",
     "runtime": "2h 16m",
     "genre": "Drama",
     "times": [
@@ -59,7 +59,7 @@
   {
     "title": "Reminders of Him",
     "rating": "PG-13",
-    "score": "6.5",
+    "score": "6.6",
     "runtime": "1h 54m",
     "genre": "Drama",
     "times": [
@@ -74,8 +74,8 @@
   {
     "title": "Undertone",
     "rating": "R",
-    "score": "6.5",
-    "runtime": "1h 33m",
+    "score": "6.4",
+    "runtime": "1h 34m",
     "genre": "Horror",
     "times": [
       "11:10 AM",
