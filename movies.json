@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Bride!",
-    "rating": "R",
-    "score": "5.9",
-    "runtime": "2h 6m",
-    "genre": "Drama",
-    "times": [
-      "11:00 AM",
-      "2:00 PM",
-      "5:00 PM",
-      "8:00 PM"
-    ],
-    "poster": "posters/the-bride.jpg"
-  },
-  {
     "title": "Hoppers",
     "rating": "PG",
     "score": "7.7",
@@ -29,18 +15,33 @@
     "poster": "posters/hoppers.jpg"
   },
   {
-    "title": "Scream 7",
+    "title": "The Bride!",
     "rating": "R",
-    "score": "5.8",
-    "runtime": "1h 54m",
-    "genre": "Horror",
+    "score": "5.9",
+    "runtime": "2h 6m",
+    "genre": "Drama",
     "times": [
-      "1:00 PM",
-      "3:40 PM",
-      "6:20 PM",
-      "9:00 PM"
+      "11:00 AM",
+      "2:00 PM",
+      "5:00 PM",
+      "8:00 PM"
     ],
-    "poster": "posters/scream-7.jpg"
+    "poster": "posters/the-bride.jpg"
+  },
+  {
+    "title": "Reminders of Him",
+    "rating": "PG-13",
+    "score": "6.5",
+    "runtime": "1h 54m",
+    "genre": "Drama",
+    "times": [
+      "11:20 AM",
+      "12:15 PM",
+      "2:10 PM",
+      "3:00 PM",
+      "4:45 PM"
+    ],
+    "poster": "posters/reminders-of-him.jpg"
   },
   {
     "title": "Wuthering Heights",
@@ -57,19 +58,18 @@
     "poster": "posters/wuthering-heights.jpg"
   },
   {
-    "title": "Reminders of Him",
-    "rating": "PG-13",
-    "score": "6.6",
+    "title": "Scream 7",
+    "rating": "R",
+    "score": "5.8",
     "runtime": "1h 54m",
-    "genre": "Drama",
+    "genre": "Horror",
     "times": [
-      "11:20 AM",
-      "12:15 PM",
-      "2:10 PM",
-      "3:00 PM",
-      "4:45 PM"
+      "1:00 PM",
+      "3:40 PM",
+      "6:20 PM",
+      "9:00 PM"
     ],
-    "poster": "posters/reminders-of-him.jpg"
+    "poster": "posters/scream-7.jpg"
   },
   {
     "title": "Undertone",
