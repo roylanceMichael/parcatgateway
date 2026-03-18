@@ -2,7 +2,7 @@
   {
     "title": "Hoppers",
     "rating": "PG",
-    "score": "7.7",
+    "score": "7.6",
     "runtime": "1h 44m",
     "genre": "Animation",
     "times": [
@@ -17,7 +17,7 @@
   {
     "title": "The Bride!",
     "rating": "R",
-    "score": "5.8",
+    "score": "5.9",
     "runtime": "2h 6m",
     "genre": "Drama",
     "times": [
@@ -53,7 +53,7 @@
       "12:20 PM",
       "3:30 PM",
       "6:40 PM",
-      "8:45 PM"
+      "9:50 PM"
     ],
     "poster": "posters/wuthering-heights.jpg"
   },
@@ -74,7 +74,7 @@
   {
     "title": "Undertone",
     "rating": "R",
-    "score": "6.4",
+    "score": "6.3",
     "runtime": "1h 34m",
     "genre": "Horror",
     "times": [

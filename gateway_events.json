@@ -1,17 +1,5 @@
 [
   {
-    "title": "St Patrick\u2019s Day at Flanker",
-    "date": "March 17 @ 5:00 pm - 11:00 pm",
-    "description": "Enjoy St Patricks Day at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/flanker-st-patricks.jpg"
-  },
-  {
-    "title": "St. Patrick\u2019s Day Yoga & Beer",
-    "date": "March 17 @ 6:00 pm - 7:00 pm",
-    "description": "Bring a friend or loved one to our Valentine's edition of our free weekly yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/St.-Patricks-Day-Yoga-Beer-2026-04.jpg"
-  },
-  {
     "title": "Grow: A Critique Group for Artists",
     "date": "March 18 @ 6:30 pm - 8:30 pm",
     "description": "Bring your artwork to Urban Arts Gallery to receive feedback and grow with other artists!",
@@ -52,5 +40,17 @@
     "date": "March 28 @ 10:00 pm - March 29 @ 1:00 am",
     "description": "Head to Flanker for a fun western night filled with music, food, drinks, and more!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Jaime_Henrique-3_28_26-960x640-Gateway.jpg"
+  },
+  {
+    "title": "Yoga & Beer",
+    "date": "March 31 @ 6:00 pm - 7:00 pm",
+    "description": "Move and stretch your body with us at this FREE weekly yoga class!",
+    "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
+  },
+  {
+    "title": "Couples Speed Painting at Urban Arts Gallery",
+    "date": "April 4 @ 6:00 pm - 9:00 pm",
+    "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
   }
 ]
