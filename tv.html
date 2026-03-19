@@ -116,7 +116,7 @@
         function updateDate() {
             const today = new Date();
             document.getElementById('current-date').textContent = new Intl.DateTimeFormat('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZone: 'America/Denver' }).format(today);
-            document.getElementById('resolution').textContent = `(${window.innerWidth}x${window.innerHeight})`;
+            // document.getElementById('resolution').textContent = `(${window.innerWidth}x${window.innerHeight})`;
         }
         window.addEventListener('resize', updateDate);
         setInterval(updateDate, 60000); updateDate();
