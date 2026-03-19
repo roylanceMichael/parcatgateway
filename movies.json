@@ -1,16 +1,31 @@
 [
   {
+    "title": "Project Hail Mary",
+    "rating": "PG-13",
+    "score": "8.6",
+    "runtime": "2h 36m",
+    "genre": "Drama",
+    "times": [
+      "2:00 PM",
+      "2:40 PM",
+      "3:40 PM",
+      "4:40 PM",
+      "5:15 PM"
+    ],
+    "poster": "posters/project-hail-mary.jpg"
+  },
+  {
     "title": "Hoppers",
     "rating": "PG",
     "score": "7.6",
     "runtime": "1h 44m",
     "genre": "Animation",
     "times": [
+      "11:00 AM",
       "11:30 AM",
       "12:00 PM",
-      "12:45 PM",
-      "2:00 PM",
-      "2:30 PM"
+      "1:25 PM",
+      "2:00 PM"
     ],
     "poster": "posters/hoppers.jpg"
   },
@@ -22,9 +37,7 @@
     "genre": "Drama",
     "times": [
       "11:00 AM",
-      "2:00 PM",
-      "5:00 PM",
-      "8:00 PM"
+      "2:00 PM"
     ],
     "poster": "posters/the-bride.jpg"
   },
@@ -37,9 +50,9 @@
     "times": [
       "11:20 AM",
       "12:15 PM",
-      "2:10 PM",
       "3:00 PM",
-      "4:45 PM"
+      "5:40 PM",
+      "8:20 PM"
     ],
     "poster": "posters/reminders-of-him.jpg"
   },
@@ -50,10 +63,7 @@
     "runtime": "2h 16m",
     "genre": "Drama",
     "times": [
-      "12:20 PM",
-      "3:30 PM",
-      "6:40 PM",
-      "9:50 PM"
+      "11:00 AM"
     ],
     "poster": "posters/wuthering-heights.jpg"
   },
@@ -66,8 +76,7 @@
     "times": [
       "1:00 PM",
       "3:40 PM",
-      "6:20 PM",
-      "9:00 PM"
+      "9:55 PM"
     ],
     "poster": "posters/scream-7.jpg"
   },
@@ -85,5 +94,19 @@
       "8:30 PM"
     ],
     "poster": "posters/undertone.jpg"
+  },
+  {
+    "title": "Ready or Not 2: Here I Come",
+    "rating": "R",
+    "score": "6.8",
+    "runtime": "1h 48m",
+    "genre": "Comedy",
+    "times": [
+      "2:15 PM",
+      "4:45 PM",
+      "7:20 PM",
+      "9:55 PM"
+    ],
+    "poster": "posters/ready-or-not-2-here-i-come.jpg"
   }
 ]
