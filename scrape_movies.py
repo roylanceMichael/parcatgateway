@@ -9,7 +9,7 @@ from io import BytesIO
 
 # Configuration
 # IMDB Showtimes URL for Megaplex Gateway (Zip 84101)
-IMDB_URL = "https://www.imdb.com/showtimes/cinema/US/ci0011810/US/84062/"
+IMDB_URL = "https://www.imdb.com/showtimes/cinema/US/ci0011810/US/84101/"
 OUTPUT_FILE = "movies.json"
 POSTER_DIR = "posters"
 
@@ -161,7 +161,7 @@ def scrape_movies():
                     "score": rating_score,
                     "runtime": runtime,
                     "genre": genre_text,
-                    "times": showtimes[:5], 
+                    "times": showtimes[:12], 
                     "poster": f"posters/{local_poster}" if local_poster else ""
                 })
 

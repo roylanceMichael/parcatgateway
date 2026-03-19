@@ -10,7 +10,14 @@
       "2:40 PM",
       "3:40 PM",
       "4:40 PM",
-      "5:15 PM"
+      "5:15 PM",
+      "6:00 PM",
+      "6:30 PM",
+      "7:00 PM",
+      "8:00 PM",
+      "8:40 PM",
+      "9:20 PM",
+      "10:20 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -25,7 +32,10 @@
       "11:30 AM",
       "12:00 PM",
       "1:25 PM",
-      "2:00 PM"
+      "2:00 PM",
+      "4:30 PM",
+      "7:00 PM",
+      "9:30 PM"
     ],
     "poster": "posters/hoppers.jpg"
   },
