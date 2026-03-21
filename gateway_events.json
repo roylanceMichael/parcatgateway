@@ -1,11 +1,5 @@
 [
   {
-    "title": "Tusks Up Night at Flanker",
-    "date": "March 20 @ 5:00 pm - 8:00 pm",
-    "description": "Head to Flanker for the official pre-party of the Utah Mammoth game against Anaheim Ducks!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Tusks-Up-Night.jpg"
-  },
-  {
     "title": "Hidden Boot Saloon Saturday Nights",
     "date": "March 21 @ 10:00 pm - March 22 @ 1:00 am",
     "description": "Head to Flanker for a fun western night full of music, food, drinks, and more!",
@@ -24,6 +18,12 @@
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/Flanker-opening-day-baseball.jpg"
   },
   {
+    "title": "Hidden Boot Saloon Friday Nights",
+    "date": "March 27 @ 5:00 pm - March 28 @ 1:00 am",
+    "description": "Start your weekend off right with an evening at the Hidden Boot Saloon.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/hbs-friday-nights.jpg"
+  },
+  {
     "title": "Bunny Breakfast at Dave & Buster\u2019s",
     "date": "March 28 @ 10:00 am - 12:00 pm",
     "description": "Enjoy a fun Easter breakfast celebration at Dave & Buster's!",
@@ -36,21 +36,21 @@
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Jaime_Henrique-3_28_26-960x640-Gateway.jpg"
   },
   {
+    "title": "Hidden Boot Saturdays DJ Jaime Henriquez",
+    "date": "March 28 @ 10:00 pm - March 29 @ 1:00 am",
+    "description": "Enjoy a western night out at Hidden Boot Saloon Saturdays!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Hidden-Boot-Saturdays-DJ-Jaime-Henriquez-3_28_26.jpg"
+  },
+  {
     "title": "Yoga & Beer",
     "date": "March 31 @ 6:00 pm - 7:00 pm",
     "description": "Move and stretch your body with us at this FREE weekly yoga class!",
     "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
   },
   {
-    "title": "Couples Speed Painting at Urban Arts Gallery",
-    "date": "April 4 @ 6:00 pm - 9:00 pm",
-    "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
-  },
-  {
-    "title": "Yoga & Beer",
-    "date": "April 7 @ 6:00 pm - 7:00 pm",
-    "description": "Move and stretch your body with us at this FREE weekly yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
+    "title": "Hidden Boot Saloon Friday Nights",
+    "date": "April 3 @ 5:00 pm - April 4 @ 1:00 am",
+    "description": "Start your weekend off right with an evening at the Hidden Boot Saloon.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/hbs-friday-nights.jpg"
   }
 ]
