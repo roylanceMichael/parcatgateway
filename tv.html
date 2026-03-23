@@ -97,6 +97,48 @@
             </div>
         </div>
 
+        <!-- SLIDE 4: PEST CONTROL -->
+        <div id="slide-4" class="slide-container">
+            <div class="h-full flex flex-col">
+                <div class="flex justify-between items-center mb-4 px-2 border-b-4 border-emerald-500 pb-2">
+                     <h2 class="text-3xl font-bold text-emerald-500">Preventive Pest Control</h2>
+                     <div class="text-right"><p class="text-sm text-gray-400">Interior Unit Treatments</p></div>
+                </div>
+                
+                <div class="flex-grow flex flex-col justify-center items-center gap-8 px-8">
+                    <div class="bg-gray-800 rounded-xl shadow-2xl border border-gray-600 w-full max-w-4xl overflow-hidden relative">
+                        <div class="bg-emerald-900 p-6 border-b border-emerald-700 text-center">
+                            <h3 class="text-4xl font-extrabold text-white">General Pests Treatment</h3>
+                            <p class="text-emerald-200 mt-2 text-xl">Exclusive pricing for Parc Homeowners</p>
+                        </div>
+                        
+                        <div class="p-8 flex flex-col gap-6">
+                            <div class="flex items-center justify-between bg-gray-900 p-6 rounded-lg border border-gray-700">
+                                <div>
+                                    <h4 class="text-2xl font-bold text-white">During HOA Quarterly Service</h4>
+                                    <p class="text-gray-400 mt-1">We will notify you ~10 days prior</p>
+                                </div>
+                                <div class="text-5xl font-extrabold text-emerald-400">$35</div>
+                            </div>
+                            
+                            <div class="flex items-center justify-between bg-gray-900 p-6 rounded-lg border border-gray-700">
+                                <div>
+                                    <h4 class="text-2xl font-bold text-white">At Any Other Time</h4>
+                                    <p class="text-gray-400 mt-1">Scheduled independently</p>
+                                </div>
+                                <div class="text-5xl font-extrabold text-gray-400">$75</div>
+                            </div>
+                        </div>
+                        
+                        <div class="bg-gray-900 p-6 border-t border-gray-700 text-center">
+                            <p class="text-gray-300 text-xl">To schedule your interior treatment, contact Preventive Pest Control:</p>
+                            <p class="text-3xl font-bold text-white mt-2">📞 801-566-5590</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </main>
 
     <!-- Footer -->
@@ -108,6 +150,7 @@
             <div id="dot-1" class="w-2 h-2 rounded-full bg-white transition-all duration-300"></div>
             <div id="dot-2" class="w-2 h-2 rounded-full bg-gray-600 transition-all duration-300"></div>
             <div id="dot-3" class="w-2 h-2 rounded-full bg-gray-600 transition-all duration-300"></div>
+            <div id="dot-4" class="w-2 h-2 rounded-full bg-gray-600 transition-all duration-300"></div>
         </div>
     </footer>
 
@@ -238,9 +281,9 @@
         loadData();
 
         // --- SLIDES ---
-        const SLIDE_DURATIONS = { 1: 30000, 2: 30000, 3: 30000 };
+        const SLIDE_DURATIONS = { 1: 30000, 2: 30000, 3: 30000, 4: 30000 };
         let currentSlide = 1;
-        const totalSlides = 3;
+        const totalSlides = 4;
 
         function showSlide(slideNum) {
             for (let i = 1; i <= totalSlides; i++) {
