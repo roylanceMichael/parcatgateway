@@ -1,11 +1,5 @@
 [
   {
-    "title": "Flanker Tusks Up Nights",
-    "date": "March 26 @ 7:00 pm",
-    "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/TUSKS-UP_3_26_26.jpg"
-  },
-  {
     "title": "Hidden Boot Saloon Friday Nights",
     "date": "March 27 @ 5:00 pm - March 28 @ 1:00 am",
     "description": "Start your weekend off right with an evening at the Hidden Boot Saloon.",
@@ -52,5 +46,11 @@
     "date": "March 30 @ 7:00 pm",
     "description": "Flanker is the place to be to gear up for Jazz game days.",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/960x6403.30.jpg"
+  },
+  {
+    "title": "Yoga & Beer",
+    "date": "March 31 @ 6:00 pm - 7:00 pm",
+    "description": "Move and stretch your body with us at this FREE weekly yoga class!",
+    "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
   }
 ]
