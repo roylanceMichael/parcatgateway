@@ -1,17 +1,5 @@
 [
   {
-    "title": "Hidden Boot Saloon Friday Nights",
-    "date": "March 27 @ 5:00 pm - March 28 @ 1:00 am",
-    "description": "Start your weekend off right with an evening at the Hidden Boot Saloon.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/hbs-friday-nights.jpg"
-  },
-  {
-    "title": "Flanker Full Court Nights",
-    "date": "March 27 @ 7:00 pm",
-    "description": "Flanker is the place to be to gear up for Jazz game days.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Mar-27-960x640-1.jpg"
-  },
-  {
     "title": "Bunny Breakfast at Dave & Buster\u2019s",
     "date": "March 28 @ 10:00 am - 12:00 pm",
     "description": "Enjoy a fun Easter breakfast celebration at Dave & Buster's!",
@@ -52,5 +40,17 @@
     "date": "March 31 @ 6:00 pm - 7:00 pm",
     "description": "Move and stretch your body with us at this FREE weekly yoga class!",
     "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
+  },
+  {
+    "title": "Flanker Full Court Nights",
+    "date": "April 1 @ 7:00 pm",
+    "description": "Flanker is the place to be to gear up for Jazz game days.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/April-1-960x640-1.jpg"
+  },
+  {
+    "title": "Flanker Tusks Up Nights",
+    "date": "April 2 @ 7:00 pm",
+    "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/TUSKS-UP_4_2_26.jpg"
   }
 ]
