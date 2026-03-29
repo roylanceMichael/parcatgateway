@@ -1,35 +1,5 @@
 [
   {
-    "title": "Bunny Breakfast at Dave & Buster\u2019s",
-    "date": "March 28 @ 10:00 am - 12:00 pm",
-    "description": "Enjoy a fun Easter breakfast celebration at Dave & Buster's!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/bunny-upshow.png"
-  },
-  {
-    "title": "Flanker Tusks Up Nights",
-    "date": "March 28 @ 7:00 pm",
-    "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Tusks-Up_3_28_26.jpg"
-  },
-  {
-    "title": "Flanker Full Court Nights",
-    "date": "March 28 @ 8:00 pm",
-    "description": "Flanker is the place to be to gear up for Jazz game days.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Mar-28-960x640-1.jpg"
-  },
-  {
-    "title": "Hidden Boot Saloon Saturday Nights",
-    "date": "March 28 @ 10:00 pm - March 29 @ 1:00 am",
-    "description": "Head to Flanker for a fun western night filled with music, food, drinks, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Jaime_Henrique-3_28_26-960x640-Gateway.jpg"
-  },
-  {
-    "title": "Hidden Boot Saturdays DJ Jaime Henriquez",
-    "date": "March 28 @ 10:00 pm - March 29 @ 1:00 am",
-    "description": "Enjoy a western night out at Hidden Boot Saloon Saturdays!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Hidden-Boot-Saturdays-DJ-Jaime-Henriquez-3_28_26.jpg"
-  },
-  {
     "title": "Flanker Full Court Nights",
     "date": "March 30 @ 7:00 pm",
     "description": "Flanker is the place to be to gear up for Jazz game days.",
@@ -52,5 +22,35 @@
     "date": "April 2 @ 7:00 pm",
     "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/TUSKS-UP_4_2_26.jpg"
+  },
+  {
+    "title": "Hidden Boot Saloon Friday Nights",
+    "date": "April 3 @ 5:00 pm - April 4 @ 1:00 am",
+    "description": "Start your weekend off right with an evening at the Hidden Boot Saloon.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/hbs-friday-nights.jpg"
+  },
+  {
+    "title": "Flanker Full Court Nights",
+    "date": "April 3 @ 7:00 pm",
+    "description": "Flanker is the place to be to gear up for Jazz game days.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/April-3-960x640-1.jpg"
+  },
+  {
+    "title": "Couples Speed Painting at Urban Arts Gallery",
+    "date": "April 4 @ 6:00 pm - 9:00 pm",
+    "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
+  },
+  {
+    "title": "Flanker Tusks Up Nights",
+    "date": "April 4 @ 7:00 pm",
+    "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/TUSKS-UP_4_4_26-.jpg"
+  },
+  {
+    "title": "Hidden Boot Saturdays DJ Jaime Henriquez",
+    "date": "April 4 @ 10:00 pm - April 5 @ 1:00 am",
+    "description": "Enjoy a western night out at Hidden Boot Saloon Saturdays!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Hidden-Boot-Saturdays-DJ-Jaime-Henriquez-4_28_26-.jpg"
   }
 ]
