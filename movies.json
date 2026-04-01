@@ -2,121 +2,88 @@
   {
     "title": "Project Hail Mary",
     "rating": "PG-13",
-    "score": "8.6",
+    "score": "8.4",
     "runtime": "2h 36m",
     "genre": "Drama",
     "times": [
-      "2:00 PM",
-      "2:40 PM",
+      "12:15 PM",
       "3:40 PM",
-      "4:40 PM",
-      "5:15 PM",
       "6:00 PM",
-      "6:30 PM",
       "7:00 PM",
-      "8:00 PM",
-      "8:40 PM",
-      "9:20 PM",
+      "9:25 PM",
       "10:20 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
   {
+    "title": "Ready or Not 2: Here I Come",
+    "rating": "R",
+    "score": "7",
+    "runtime": "1h 48m",
+    "genre": "Comedy",
+    "times": [
+      "9:55 PM"
+    ],
+    "poster": "posters/ready-or-not-2-here-i-come.jpg"
+  },
+  {
     "title": "Hoppers",
     "rating": "PG",
-    "score": "7.6",
+    "score": "7.5",
     "runtime": "1h 44m",
     "genre": "Animation",
     "times": [
-      "11:00 AM",
-      "11:30 AM",
-      "12:00 PM",
-      "1:25 PM",
-      "2:00 PM",
-      "4:30 PM",
-      "7:00 PM",
-      "9:30 PM"
+      "10:05 AM",
+      "12:35 PM",
+      "3:05 PM",
+      "5:35 PM"
     ],
     "poster": "posters/hoppers.jpg"
   },
   {
-    "title": "The Bride!",
+    "title": "They Will Kill You",
     "rating": "R",
-    "score": "5.9",
-    "runtime": "2h 6m",
-    "genre": "Drama",
-    "times": [
-      "11:00 AM",
-      "2:00 PM"
-    ],
-    "poster": "posters/the-bride.jpg"
-  },
-  {
-    "title": "Reminders of Him",
-    "rating": "PG-13",
     "score": "6.5",
-    "runtime": "1h 54m",
-    "genre": "Drama",
-    "times": [
-      "11:20 AM",
-      "12:15 PM",
-      "3:00 PM",
-      "5:40 PM",
-      "8:20 PM"
-    ],
-    "poster": "posters/reminders-of-him.jpg"
-  },
-  {
-    "title": "Wuthering Heights",
-    "rating": "R",
-    "score": "6.2",
-    "runtime": "2h 16m",
-    "genre": "Drama",
-    "times": [
-      "11:00 AM"
-    ],
-    "poster": "posters/wuthering-heights.jpg"
-  },
-  {
-    "title": "Scream 7",
-    "rating": "R",
-    "score": "5.8",
-    "runtime": "1h 54m",
-    "genre": "Horror",
-    "times": [
-      "1:00 PM",
-      "3:40 PM",
-      "9:55 PM"
-    ],
-    "poster": "posters/scream-7.jpg"
-  },
-  {
-    "title": "Undertone",
-    "rating": "R",
-    "score": "6.3",
     "runtime": "1h 34m",
-    "genre": "Horror",
+    "genre": "Action",
     "times": [
-      "11:10 AM",
-      "1:30 PM",
-      "3:50 PM",
-      "6:10 PM",
-      "8:30 PM"
+      "4:30 PM",
+      "7:00 PM",
+      "9:25 PM"
     ],
-    "poster": "posters/undertone.jpg"
+    "poster": "posters/they-will-kill-you.jpg"
   },
   {
-    "title": "Ready or Not 2: Here I Come",
+    "title": "The Super Mario Galaxy Movie",
+    "rating": "PG",
+    "score": "NR",
+    "runtime": "1h 38m",
+    "genre": "Animation",
+    "times": [
+      "10:00 AM",
+      "10:15 AM",
+      "11:00 AM",
+      "11:40 AM",
+      "12:00 PM",
+      "12:20 PM",
+      "12:45 PM",
+      "1:05 PM",
+      "1:35 PM",
+      "2:00 PM",
+      "2:15 PM",
+      "2:30 PM"
+    ],
+    "poster": "posters/the-super-mario-galaxy-movie.jpg"
+  },
+  {
+    "title": "Forbidden Fruits",
     "rating": "R",
-    "score": "6.8",
-    "runtime": "1h 48m",
+    "score": "6.1",
+    "runtime": "1h 43m",
     "genre": "Comedy",
     "times": [
-      "2:15 PM",
-      "4:45 PM",
-      "7:20 PM",
-      "9:55 PM"
+      "8:20 PM"
     ],
-    "poster": "posters/ready-or-not-2-here-i-come.jpg"
+    "poster": "posters/forbidden-fruits.jpg"
   }
 ]
