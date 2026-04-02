@@ -8,9 +8,9 @@
     "times": [
       "12:15 PM",
       "3:40 PM",
-      "6:00 PM",
+      "5:05 PM",
       "7:00 PM",
-      "9:25 PM",
+      "8:25 PM",
       "10:20 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
@@ -33,10 +33,10 @@
     "runtime": "1h 44m",
     "genre": "Animation",
     "times": [
-      "10:05 AM",
-      "12:35 PM",
-      "3:05 PM",
-      "5:35 PM"
+      "10:00 AM",
+      "12:30 PM",
+      "3:00 PM",
+      "5:30 PM"
     ],
     "poster": "posters/hoppers.jpg"
   },
@@ -56,22 +56,22 @@
   {
     "title": "The Super Mario Galaxy Movie",
     "rating": "PG",
-    "score": "NR",
+    "score": "6.7",
     "runtime": "1h 38m",
     "genre": "Animation",
     "times": [
       "10:00 AM",
-      "10:15 AM",
+      "10:30 AM",
       "11:00 AM",
+      "11:15 AM",
       "11:40 AM",
-      "12:00 PM",
-      "12:20 PM",
-      "12:45 PM",
+      "12:05 PM",
+      "12:25 PM",
+      "12:35 PM",
       "1:05 PM",
       "1:35 PM",
       "2:00 PM",
-      "2:15 PM",
-      "2:30 PM"
+      "2:15 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
@@ -85,5 +85,18 @@
       "8:20 PM"
     ],
     "poster": "posters/forbidden-fruits.jpg"
+  },
+  {
+    "title": "The Drama",
+    "rating": "NR",
+    "score": "7.4",
+    "runtime": "1h 46m",
+    "genre": "Comedy",
+    "times": [
+      "4:00 PM",
+      "6:40 PM",
+      "9:20 PM"
+    ],
+    "poster": "posters/the-drama.jpg"
   }
 ]

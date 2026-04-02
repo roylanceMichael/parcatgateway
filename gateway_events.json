@@ -1,11 +1,5 @@
 [
   {
-    "title": "Flanker Full Court Nights",
-    "date": "April 1 @ 7:00 pm",
-    "description": "Flanker is the place to be to gear up for Jazz game days.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/April-1-960x640-1.jpg"
-  },
-  {
     "title": "Flanker Tusks Up Nights",
     "date": "April 2 @ 7:00 pm",
     "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
@@ -52,5 +46,11 @@
     "date": "April 5 @ 5:00 pm",
     "description": "Flanker is the place to be to gear up for Jazz game days.",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/April-5-960x640-1.jpg"
+  },
+  {
+    "title": "Flanker Full Court Nights",
+    "date": "April 7 @ 5:00 pm",
+    "description": "Flanker is the place to be to gear up for Jazz game days.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/April-7-960x640-1.jpg"
   }
 ]
