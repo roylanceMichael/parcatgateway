@@ -8,26 +8,16 @@
     "times": [
       "12:15 PM",
       "3:40 PM",
+      "4:40 PM",
       "5:10 PM",
-      "6:00 PM",
       "7:00 PM",
+      "8:00 PM",
       "8:30 PM",
       "9:15 PM",
-      "9:20 PM",
+      "9:45 PM",
       "10:20 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
-  },
-  {
-    "title": "Ready or Not 2: Here I Come",
-    "rating": "R",
-    "score": "7",
-    "runtime": "1h 48m",
-    "genre": "Comedy",
-    "times": [
-      "9:45 PM"
-    ],
-    "poster": "posters/ready-or-not-2-here-i-come.jpg"
   },
   {
     "title": "Hoppers",
@@ -49,8 +39,7 @@
     "runtime": "1h 34m",
     "genre": "Action",
     "times": [
-      "4:30 PM",
-      "6:50 PM"
+      "5:40 PM"
     ],
     "poster": "posters/they-will-kill-you.jpg"
   },
@@ -64,7 +53,6 @@
       "10:00 AM",
       "10:30 AM",
       "11:00 AM",
-      "11:15 AM",
       "11:40 AM",
       "12:00 PM",
       "12:25 PM",
@@ -72,21 +60,34 @@
       "1:35 PM",
       "2:00 PM",
       "2:15 PM",
-      "2:35 PM"
+      "2:35 PM",
+      "3:00 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
   {
+    "title": "Forbidden Fruits",
+    "rating": "R",
+    "score": "6.1",
+    "runtime": "1h 43m",
+    "genre": "Comedy",
+    "times": [
+      "8:05 PM"
+    ],
+    "poster": "posters/forbidden-fruits.jpg"
+  },
+  {
     "title": "The Drama",
-    "rating": "NR",
-    "score": "7.4",
+    "rating": "R",
+    "score": "7.5",
     "runtime": "1h 45m",
     "genre": "Comedy",
     "times": [
       "11:00 AM",
       "1:40 PM",
       "4:20 PM",
-      "7:00 PM"
+      "7:00 PM",
+      "10:35 PM"
     ],
     "poster": "posters/the-drama.jpg"
   }
