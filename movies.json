@@ -6,7 +6,6 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "12:15 PM",
       "3:40 PM",
       "5:10 PM",
       "7:00 PM",
@@ -16,47 +15,9 @@
     "poster": "posters/project-hail-mary.jpg"
   },
   {
-    "title": "Ready or Not 2: Here I Come",
-    "rating": "R",
-    "score": "6.9",
-    "runtime": "1h 48m",
-    "genre": "Comedy",
-    "times": [
-      "10:45 PM"
-    ],
-    "poster": "posters/ready-or-not-2-here-i-come.jpg"
-  },
-  {
-    "title": "Hoppers",
-    "rating": "PG",
-    "score": "7.5",
-    "runtime": "1h 44m",
-    "genre": "Animation",
-    "times": [
-      "10:05 AM",
-      "12:35 PM",
-      "3:05 PM",
-      "5:35 PM"
-    ],
-    "poster": "posters/hoppers.jpg"
-  },
-  {
-    "title": "They Will Kill You",
-    "rating": "R",
-    "score": "6.5",
-    "runtime": "1h 34m",
-    "genre": "Action",
-    "times": [
-      "4:30 PM",
-      "6:50 PM",
-      "9:15 PM"
-    ],
-    "poster": "posters/they-will-kill-you.jpg"
-  },
-  {
     "title": "The Super Mario Galaxy Movie",
     "rating": "PG",
-    "score": "6.6",
+    "score": "6.5",
     "runtime": "1h 38m",
     "genre": "Animation",
     "times": [
@@ -76,17 +37,6 @@
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
   {
-    "title": "Forbidden Fruits",
-    "rating": "R",
-    "score": "6.1",
-    "runtime": "1h 43m",
-    "genre": "Comedy",
-    "times": [
-      "8:05 PM"
-    ],
-    "poster": "posters/forbidden-fruits.jpg"
-  },
-  {
     "title": "The Drama",
     "rating": "R",
     "score": "7.5",
@@ -100,5 +50,54 @@
       "9:40 PM"
     ],
     "poster": "posters/the-drama.jpg"
+  },
+  {
+    "title": "Hoppers",
+    "rating": "PG",
+    "score": "7.5",
+    "runtime": "1h 44m",
+    "genre": "Animation",
+    "times": [
+      "10:05 AM",
+      "12:35 PM",
+      "3:05 PM",
+      "5:35 PM"
+    ],
+    "poster": "posters/hoppers.jpg"
+  },
+  {
+    "title": "Ready or Not 2: Here I Come",
+    "rating": "R",
+    "score": "6.9",
+    "runtime": "1h 48m",
+    "genre": "Comedy",
+    "times": [
+      "10:45 PM"
+    ],
+    "poster": "posters/ready-or-not-2-here-i-come.jpg"
+  },
+  {
+    "title": "They Will Kill You",
+    "rating": "R",
+    "score": "6.5",
+    "runtime": "1h 34m",
+    "genre": "Action",
+    "times": [
+      "4:30 PM",
+      "6:50 PM",
+      "9:15 PM"
+    ],
+    "poster": "posters/they-will-kill-you.jpg"
+  },
+  {
+    "title": "Forbidden Fruits",
+    "rating": "R",
+    "score": "6.1",
+    "runtime": "1h 43m",
+    "genre": "Comedy",
+    "times": [
+      "8:05 PM"
+    ],
+    "poster": "posters/forbidden-fruits.jpg"
   }
 ]

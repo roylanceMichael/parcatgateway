@@ -1,17 +1,5 @@
 [
   {
-    "title": "Easter Brunch at Flanker",
-    "date": "April 5 @ 10:30 am - 3:00 pm",
-    "description": "Enjoy a sweet and savory Easter Brunch at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Flanker-Easter-2026.jpg"
-  },
-  {
-    "title": "Flanker Full Court Nights",
-    "date": "April 5 @ 5:00 pm",
-    "description": "Flanker is the place to be to gear up for Jazz game days.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/April-5-960x640-1.jpg"
-  },
-  {
     "title": "Flanker Full Court Nights",
     "date": "April 7 @ 5:00 pm",
     "description": "Flanker is the place to be to gear up for Jazz game days.",
@@ -52,5 +40,17 @@
     "date": "April 10 @ 7:30 pm",
     "description": "Flanker is the place to be to gear up for Jazz game days.",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/April-10-960x640-1.jpg"
+  },
+  {
+    "title": "Paint Night: Art Appropriation at Urban Arts Gallery",
+    "date": "April 11 @ 8:00 am - 5:00 pm",
+    "description": "Learn all about art appropriation at Urban Arts Gallery!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Art-Appropriation.png"
+  },
+  {
+    "title": "Flanker Tusks Up Nights",
+    "date": "April 11 @ 7:00 pm",
+    "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/TUSKS-UP_4_11.jpg"
   }
 ]
