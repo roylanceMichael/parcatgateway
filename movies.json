@@ -6,12 +6,18 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "12:15 PM",
-      "3:40 PM",
-      "5:10 PM",
-      "7:00 PM",
-      "8:30 PM",
-      "10:20 PM"
+      "11:25 AM",
+      "12:00 PM",
+      "12:45 PM",
+      "2:50 PM",
+      "3:25 PM",
+      "4:10 PM",
+      "6:10 PM",
+      "6:45 PM",
+      "7:30 PM",
+      "8:45 PM",
+      "9:30 PM",
+      "10:05 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -22,18 +28,18 @@
     "runtime": "1h 38m",
     "genre": "Animation",
     "times": [
-      "10:00 AM",
-      "10:30 AM",
       "11:00 AM",
-      "11:15 AM",
       "11:40 AM",
-      "12:00 PM",
       "12:25 PM",
       "1:05 PM",
       "1:35 PM",
-      "2:00 PM",
       "2:15 PM",
-      "2:35 PM"
+      "3:00 PM",
+      "3:40 PM",
+      "4:10 PM",
+      "4:50 PM",
+      "5:35 PM",
+      "6:15 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
@@ -53,41 +59,29 @@
     "poster": "posters/the-drama.jpg"
   },
   {
-    "title": "Hoppers",
-    "rating": "PG",
-    "score": "7.5",
-    "runtime": "1h 44m",
-    "genre": "Animation",
-    "times": [
-      "10:05 AM"
-    ],
-    "poster": "posters/hoppers.jpg"
-  },
-  {
-    "title": "They Will Kill You",
-    "rating": "R",
-    "score": "6.5",
-    "runtime": "1h 34m",
-    "genre": "Action",
-    "times": [
-      "4:30 PM",
-      "6:50 PM",
-      "9:15 PM"
-    ],
-    "poster": "posters/they-will-kill-you.jpg"
-  },
-  {
     "title": "You, Me & Tuscany",
     "rating": "PG-13",
-    "score": "NR",
+    "score": "6.9",
     "runtime": "1h 44m",
     "genre": "Comedy",
     "times": [
-      "2:00 PM",
-      "4:50 PM",
-      "7:25 PM",
-      "10:00 PM"
+      "11:30 AM",
+      "2:05 PM",
+      "4:40 PM",
+      "7:15 PM",
+      "9:50 PM"
     ],
     "poster": "posters/you-me-tuscany.jpg"
+  },
+  {
+    "title": "Faces of Death",
+    "rating": "R",
+    "score": "6.5",
+    "runtime": "1h 37m",
+    "genre": "Horror",
+    "times": [
+      "10:30 PM"
+    ],
+    "poster": "posters/faces-of-death.jpg"
   }
 ]
