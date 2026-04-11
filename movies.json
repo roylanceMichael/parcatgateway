@@ -14,8 +14,7 @@
       "4:10 PM",
       "6:10 PM",
       "6:45 PM",
-      "7:30 PM",
-      "8:45 PM",
+      "8:00 PM",
       "9:30 PM",
       "10:05 PM"
     ],
@@ -29,17 +28,17 @@
     "genre": "Animation",
     "times": [
       "11:00 AM",
+      "11:15 AM",
       "11:40 AM",
       "12:25 PM",
-      "1:05 PM",
       "1:35 PM",
       "2:15 PM",
       "3:00 PM",
-      "3:40 PM",
       "4:10 PM",
       "4:50 PM",
       "5:35 PM",
-      "6:15 PM"
+      "6:45 PM",
+      "7:25 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
@@ -61,7 +60,7 @@
   {
     "title": "You, Me & Tuscany",
     "rating": "PG-13",
-    "score": "6.9",
+    "score": "6.3",
     "runtime": "1h 44m",
     "genre": "Comedy",
     "times": [
@@ -83,5 +82,17 @@
       "10:30 PM"
     ],
     "poster": "posters/faces-of-death.jpg"
+  },
+  {
+    "title": "BTS WORLD TOUR 'ARIRANG' in GOYANG: LIVE VIEWING",
+    "rating": "NR",
+    "score": "NR",
+    "runtime": "3h 0m",
+    "genre": "Documentary",
+    "times": [
+      "2:00 PM",
+      "5:45 PM"
+    ],
+    "poster": "posters/bts-world-tour-arirang-in-goyang-live-viewing.jpg"
   }
 ]
