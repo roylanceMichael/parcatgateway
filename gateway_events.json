@@ -1,17 +1,5 @@
 [
   {
-    "title": "Paint Night: Art Appropriation at Urban Arts Gallery",
-    "date": "April 11 @ 8:00 am - 5:00 pm",
-    "description": "Learn all about art appropriation at Urban Arts Gallery!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Art-Appropriation.png"
-  },
-  {
-    "title": "Flanker Tusks Up Nights",
-    "date": "April 11 @ 7:00 pm",
-    "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/TUSKS-UP_4_11.jpg"
-  },
-  {
     "title": "The Green Jacket Watch Party at Flanker",
     "date": "April 12 @ 8:00 am - 5:00 pm",
     "description": "Head to Flanker for the Green Jacket watch party with the best drinks, desserts, and the best vie...",
@@ -37,7 +25,7 @@
   },
   {
     "title": "Yoga & Beer",
-    "date": "April 14 @ 6:00 pm - 7:00 pm",
+    "date": "April 14 @ 6:00 pm - 7:00 pm| (See all)An event every week that begins at 6:00 pm on Tuesday, repeating until April 28, 2026",
     "description": "Move and stretch your body with us at this FREE weekly yoga class!",
     "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
   },
@@ -52,5 +40,17 @@
     "date": "April 15 @ 6:30 pm - 8:30 pm",
     "description": "Bring your artwork to Urban Arts Gallery to receive feedback and grow with other artists!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Grow.png"
+  },
+  {
+    "title": "Flanker Tusks Up Nights",
+    "date": "April 16 @ 6:00 pm",
+    "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/TUSKS-UP_4_16_26.jpg.jpg"
+  },
+  {
+    "title": "Hidden Boot Saloon Friday Nights",
+    "date": "April 17 @ 5:00 pm - April 18 @ 1:00 am",
+    "description": "Start your weekend off right with an evening at the Hidden Boot Saloon.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/hbs-friday-nights.jpg"
   }
 ]
