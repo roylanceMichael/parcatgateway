@@ -1,31 +1,7 @@
 [
   {
-    "title": "The Green Jacket Watch Party at Flanker",
-    "date": "April 12 @ 8:00 am - 5:00 pm",
-    "description": "Head to Flanker for the Green Jacket watch party with the best drinks, desserts, and the best vie...",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Green-Jacket.jpg"
-  },
-  {
-    "title": "Indoor Urban Flea Market",
-    "date": "April 12 @ 10:00 am - 4:00 pm",
-    "description": "Join us every second Sunday of each month for the Urban Flea Market at The Gateway.",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/10/Winter-Urban-Flea-Market-2020-36-1.jpg"
-  },
-  {
-    "title": "Flanker Tusks Up Nights",
-    "date": "April 12 @ 5:00 pm",
-    "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Tusks-Up-x.-SLC-Puck_4_12.jpg"
-  },
-  {
-    "title": "Flanker Full Court Nights",
-    "date": "April 12 @ 6:30 pm",
-    "description": "Flanker is the place to be to gear up for Jazz game days.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/April-12-960x640-1.jpg"
-  },
-  {
     "title": "Yoga & Beer",
-    "date": "April 14 @ 6:00 pm - 7:00 pm| (See all)An event every week that begins at 6:00 pm on Tuesday, repeating until April 28, 2026",
+    "date": "April 14 @ 6:00 pm - 7:00 pm",
     "description": "Move and stretch your body with us at this FREE weekly yoga class!",
     "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
   },
@@ -52,5 +28,29 @@
     "date": "April 17 @ 5:00 pm - April 18 @ 1:00 am",
     "description": "Start your weekend off right with an evening at the Hidden Boot Saloon.",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/hbs-friday-nights.jpg"
+  },
+  {
+    "title": "Art Stroll at The Gateway",
+    "date": "April 17 @ 6:00 pm - 9:00 pm",
+    "description": "Come to The Gateway to explore our new \"Vibrant Daydreams\" themed windows throughout the property...",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Vibrant-Daydreams-Home-Block_Home-block-scaled.png"
+  },
+  {
+    "title": "Hidden Boot Saturdays DJ Jaime Henriquez",
+    "date": "April 18 @ 10:00 pm - April 19 @ 1:00 am",
+    "description": "Enjoy a western night out at Hidden Boot Saloon Saturdays!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Hidden-Boot-Saturdays-DJ-Jaime-Henriquez-4_28_26-jpg.jpg"
+  },
+  {
+    "title": "Bohemian Bum Farmer\u2019s Market",
+    "date": "April 19 @ 10:00 am - 3:00 pm",
+    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
+    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
+  },
+  {
+    "title": "Yoga & Beer",
+    "date": "April 21 @ 6:00 pm - 7:00 pm",
+    "description": "Move and stretch your body with us at this FREE weekly yoga class!",
+    "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
   }
 ]
