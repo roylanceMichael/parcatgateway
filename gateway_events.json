@@ -1,17 +1,5 @@
 [
   {
-    "title": "Yoga & Beer",
-    "date": "April 14 @ 6:00 pm - 7:00 pm",
-    "description": "Move and stretch your body with us at this FREE weekly yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
-  },
-  {
-    "title": "Flanker Tusks Up Nights",
-    "date": "April 14 @ 7:00 pm",
-    "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/TUSKS-UP_4_14_26jpg.jpg"
-  },
-  {
     "title": "Grow: A Critique Group for Artists",
     "date": "April 15 @ 6:30 pm - 8:30 pm",
     "description": "Bring your artwork to Urban Arts Gallery to receive feedback and grow with other artists!",
@@ -31,9 +19,21 @@
   },
   {
     "title": "Art Stroll at The Gateway",
-    "date": "April 17 @ 6:00 pm - 9:00 pm| (See all)An event every month that begins at 6:00 pm on day Third of the month, repeating until September 18, 2026",
+    "date": "April 17 @ 6:00 pm - 9:00 pm",
     "description": "Come to The Gateway to explore our new \"Vibrant Daydreams\" themed windows throughout the property...",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/Vibrant-Daydreams-Home-Block_Home-block-scaled.png"
+  },
+  {
+    "title": "Basketball Playoffs Watch Party at Flanker",
+    "date": "April 18 @ 11:00 am - 6:30 pm",
+    "description": "Enjoy the basketball playoffs from Flanker for great bites, drinks, and more!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/19210x1080.jpg"
+  },
+  {
+    "title": "Salt City Bulls After Party at Flanker",
+    "date": "April 18 @ 9:30 pm - 11:00 pm",
+    "description": "Head to Flanker for the first post-game party after the Salt City Bulls game!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/1920x1080.jpg"
   },
   {
     "title": "Hidden Boot Saturdays DJ Jaime Henriquez",
@@ -48,9 +48,9 @@
     "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
   },
   {
-    "title": "Yoga & Beer",
-    "date": "April 21 @ 6:00 pm - 7:00 pm",
-    "description": "Move and stretch your body with us at this FREE weekly yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
+    "title": "Basketball Playoffs Watch Party at Flanker",
+    "date": "April 19 @ 11:00 am - 7:00 pm",
+    "description": "Enjoy the basketball playoffs from Flanker for great bites, drinks, and more!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/19210x1080.jpg"
   }
 ]

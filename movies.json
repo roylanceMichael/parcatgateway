@@ -24,11 +24,10 @@
   {
     "title": "The Super Mario Galaxy Movie",
     "rating": "PG",
-    "score": "6.5",
+    "score": "6.4",
     "runtime": "1h 38m",
     "genre": "Animation",
     "times": [
-      "10:30 AM",
       "11:00 AM",
       "11:40 AM",
       "12:25 PM",
@@ -39,7 +38,8 @@
       "3:40 PM",
       "4:10 PM",
       "4:50 PM",
-      "5:35 PM"
+      "5:35 PM",
+      "6:15 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
@@ -79,8 +79,8 @@
       "11:30 AM",
       "2:05 PM",
       "4:40 PM",
-      "6:30 PM",
-      "9:05 PM"
+      "7:15 PM",
+      "9:50 PM"
     ],
     "poster": "posters/you-me-tuscany.jpg"
   }
