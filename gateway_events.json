@@ -1,15 +1,9 @@
 [
   {
-    "title": "Grow: A Critique Group for Artists",
-    "date": "April 15 @ 6:30 pm - 8:30 pm",
-    "description": "Bring your artwork to Urban Arts Gallery to receive feedback and grow with other artists!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Grow.png"
-  },
-  {
     "title": "Flanker Tusks Up Nights",
-    "date": "April 16 @ 6:00 pm",
+    "date": "April 16 @ 5:30 pm - 6:00 pm",
     "description": "Head to Flanker to enjoy the Utah Mammoth game with drinks, game-day bites, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/TUSKS-UP_4_16_26.jpg.jpg"
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/FLANKER-SLC-Tusks-Up-Nights-4_16.jpg"
   },
   {
     "title": "Hidden Boot Saloon Friday Nights",
@@ -52,5 +46,11 @@
     "date": "April 19 @ 11:00 am - 7:00 pm",
     "description": "Enjoy the basketball playoffs from Flanker for great bites, drinks, and more!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/19210x1080.jpg"
+  },
+  {
+    "title": "$1 Oyster Mondays at Flanker",
+    "date": "April 20 @ 5:00 pm",
+    "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/1-oyster_EVERGREEN.jpg"
   }
 ]
