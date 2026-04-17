@@ -15,7 +15,6 @@
       "6:10 PM",
       "6:45 PM",
       "7:30 PM",
-      "8:45 PM",
       "9:30 PM",
       "10:05 PM"
     ],
@@ -30,16 +29,14 @@
     "times": [
       "11:00 AM",
       "11:40 AM",
-      "12:25 PM",
-      "1:05 PM",
       "1:35 PM",
       "2:15 PM",
-      "3:00 PM",
-      "3:40 PM",
+      "4:00 PM",
       "4:10 PM",
       "4:50 PM",
-      "5:35 PM",
-      "6:15 PM"
+      "6:45 PM",
+      "7:25 PM",
+      "10:15 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
@@ -50,30 +47,33 @@
     "runtime": "1h 45m",
     "genre": "Comedy",
     "times": [
-      "11:00 AM",
-      "1:40 PM",
-      "4:20 PM",
-      "7:00 PM",
-      "9:40 PM"
+      "11:10 AM",
+      "1:55 PM",
+      "4:35 PM",
+      "9:10 PM",
+      "9:55 PM"
     ],
     "poster": "posters/the-drama.jpg"
   },
   {
-    "title": "Faces of Death",
+    "title": "Lee Cronin's the Mummy",
     "rating": "R",
-    "score": "6.5",
-    "runtime": "1h 37m",
+    "score": "6.6",
+    "runtime": "2h 14m",
     "genre": "Horror",
     "times": [
-      "10:30 PM"
+      "1:00 PM",
+      "4:00 PM",
+      "7:00 PM",
+      "10:00 PM"
     ],
-    "poster": "posters/faces-of-death.jpg"
+    "poster": "posters/lee-cronin-s-the-mummy.jpg"
   },
   {
     "title": "You, Me & Tuscany",
     "rating": "PG-13",
-    "score": "6.5",
-    "runtime": "1h 44m",
+    "score": "6.4",
+    "runtime": "1h 45m",
     "genre": "Comedy",
     "times": [
       "11:30 AM",
@@ -83,5 +83,17 @@
       "9:50 PM"
     ],
     "poster": "posters/you-me-tuscany.jpg"
+  },
+  {
+    "title": "Jurassic Park",
+    "rating": "PG-13",
+    "score": "8.2",
+    "runtime": "2h 7m",
+    "genre": "Action",
+    "times": [
+      "7:15 PM",
+      "8:00 PM"
+    ],
+    "poster": "posters/jurassic-park.jpg"
   }
 ]
