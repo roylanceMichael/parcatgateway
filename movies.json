@@ -8,14 +8,13 @@
     "times": [
       "11:25 AM",
       "12:00 PM",
-      "12:45 PM",
       "2:50 PM",
       "3:25 PM",
-      "4:10 PM",
       "6:10 PM",
       "6:45 PM",
-      "7:30 PM",
+      "7:45 PM",
       "9:30 PM",
+      "9:45 PM",
       "10:05 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
@@ -28,15 +27,16 @@
     "genre": "Animation",
     "times": [
       "11:00 AM",
+      "11:20 AM",
       "11:40 AM",
       "1:35 PM",
       "2:15 PM",
-      "4:00 PM",
       "4:10 PM",
       "4:50 PM",
       "6:45 PM",
       "7:25 PM",
-      "10:15 PM"
+      "9:20 PM",
+      "10:00 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
@@ -47,18 +47,18 @@
     "runtime": "1h 45m",
     "genre": "Comedy",
     "times": [
-      "11:10 AM",
-      "1:55 PM",
-      "4:35 PM",
-      "9:10 PM",
-      "9:55 PM"
+      "11:00 AM",
+      "1:40 PM",
+      "4:20 PM",
+      "7:00 PM",
+      "9:40 PM"
     ],
     "poster": "posters/the-drama.jpg"
   },
   {
     "title": "Lee Cronin's the Mummy",
     "rating": "R",
-    "score": "6.6",
+    "score": "6.5",
     "runtime": "2h 14m",
     "genre": "Horror",
     "times": [
@@ -78,9 +78,7 @@
     "times": [
       "11:30 AM",
       "2:05 PM",
-      "4:40 PM",
-      "7:15 PM",
-      "9:50 PM"
+      "4:40 PM"
     ],
     "poster": "posters/you-me-tuscany.jpg"
   },
@@ -92,8 +90,20 @@
     "genre": "Action",
     "times": [
       "7:15 PM",
-      "8:00 PM"
+      "10:10 PM"
     ],
     "poster": "posters/jurassic-park.jpg"
+  },
+  {
+    "title": "BTS WORLD TOUR 'ARIRANG' in JAPAN: LIVE VIEWING",
+    "rating": "NR",
+    "score": "NR",
+    "runtime": "3h 0m",
+    "genre": "Documentary",
+    "times": [
+      "2:00 PM",
+      "5:45 PM"
+    ],
+    "poster": "posters/bts-world-tour-arirang-in-japan-live-viewing.jpg"
   }
 ]

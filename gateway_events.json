@@ -1,17 +1,5 @@
 [
   {
-    "title": "Hidden Boot Saloon Friday Nights",
-    "date": "April 17 @ 5:00 pm - April 18 @ 1:00 am",
-    "description": "Start your weekend off right with an evening at the Hidden Boot Saloon.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/hbs-friday-nights.jpg"
-  },
-  {
-    "title": "Art Stroll at The Gateway",
-    "date": "April 17 @ 6:00 pm - 9:00 pm",
-    "description": "Come to The Gateway to explore our new \"Vibrant Daydreams\" themed windows throughout the property...",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Vibrant-Daydreams-Home-Block_Home-block-scaled.png"
-  },
-  {
     "title": "Basketball Playoffs Watch Party at Flanker",
     "date": "April 18 @ 11:00 am - 6:30 pm",
     "description": "Enjoy the basketball playoffs from Flanker for great bites, drinks, and more!",
@@ -42,15 +30,27 @@
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/19210x1080.jpg"
   },
   {
+    "title": "Flanker Tusks Up Nights: Mammoth Playoffs",
+    "date": "April 19 @ 8:00 pm - 10:30 pm",
+    "description": "Head to Flanker for the best watch party of the Mammoth playoffs!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Tusks-Up-Nights-Mammoth-Playoff-4_19.jpg"
+  },
+  {
     "title": "$1 Oyster Mondays at Flanker",
     "date": "April 20 @ 5:00 pm",
     "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/1-oyster_EVERGREEN.jpg"
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-Evergreen.jpg"
   },
   {
     "title": "Yoga & Beer",
     "date": "April 21 @ 6:00 pm - 7:00 pm",
     "description": "Move and stretch your body with us at this FREE weekly yoga class!",
     "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
+  },
+  {
+    "title": "Flanker Tusks Up Nights: Mammoth Playoffs",
+    "date": "April 21 @ 7:30 pm",
+    "description": "Head to Flanker to enjoy the best watch party of the Mammoth playoffs!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Tusks-Up-Nights-Mammoth-Playoff-4_21-4_24.jpg"
   }
 ]
