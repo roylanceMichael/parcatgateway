@@ -8,13 +8,15 @@
     "times": [
       "11:25 AM",
       "12:00 PM",
+      "1:15 PM",
       "2:50 PM",
       "3:25 PM",
+      "4:40 PM",
       "6:10 PM",
       "6:45 PM",
-      "7:45 PM",
+      "8:00 PM",
+      "8:30 PM",
       "9:30 PM",
-      "9:45 PM",
       "10:05 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
@@ -27,7 +29,6 @@
     "genre": "Animation",
     "times": [
       "11:00 AM",
-      "11:20 AM",
       "11:40 AM",
       "1:35 PM",
       "2:15 PM",
@@ -78,32 +79,10 @@
     "times": [
       "11:30 AM",
       "2:05 PM",
-      "4:40 PM"
+      "4:40 PM",
+      "7:15 PM",
+      "9:50 PM"
     ],
     "poster": "posters/you-me-tuscany.jpg"
-  },
-  {
-    "title": "Jurassic Park",
-    "rating": "PG-13",
-    "score": "8.2",
-    "runtime": "2h 7m",
-    "genre": "Action",
-    "times": [
-      "7:15 PM",
-      "10:10 PM"
-    ],
-    "poster": "posters/jurassic-park.jpg"
-  },
-  {
-    "title": "BTS WORLD TOUR 'ARIRANG' in JAPAN: LIVE VIEWING",
-    "rating": "NR",
-    "score": "NR",
-    "runtime": "3h 0m",
-    "genre": "Documentary",
-    "times": [
-      "2:00 PM",
-      "5:45 PM"
-    ],
-    "poster": "posters/bts-world-tour-arirang-in-japan-live-viewing.jpg"
   }
 ]
