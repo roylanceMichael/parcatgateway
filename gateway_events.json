@@ -1,23 +1,5 @@
 [
   {
-    "title": "Bohemian Bum Farmer\u2019s Market",
-    "date": "April 19 @ 10:00 am - 3:00 pm",
-    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
-    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
-  },
-  {
-    "title": "Basketball Playoffs Watch Party at Flanker",
-    "date": "April 19 @ 11:00 am - 7:00 pm",
-    "description": "Enjoy the basketball playoffs from Flanker for great bites, drinks, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/19210x1080.jpg"
-  },
-  {
-    "title": "Flanker Tusks Up Nights: Mammoth Playoffs",
-    "date": "April 19 @ 8:00 pm - 10:30 pm",
-    "description": "Head to Flanker for the best watch party of the Mammoth playoffs!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Tusks-Up-Nights-Mammoth-Playoff-4_19.jpg"
-  },
-  {
     "title": "$1 Oyster Mondays at Flanker",
     "date": "April 20 @ 5:00 pm",
     "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
@@ -52,5 +34,23 @@
     "date": "April 24 @ 7:30 pm",
     "description": "Head to Flanker to enjoy the best watch party of the Mammoth playoffs!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/Tusks-Up-Nights-Mammoth-Playoff-4_21-4_24.jpg"
+  },
+  {
+    "title": "Salt City Bulls After Party at Flanker",
+    "date": "April 25 @ 9:30 pm - 11:00 pm",
+    "description": "Head to Flanker for the best post-game party with drinks, bites, music, and more!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-April-25.jpg"
+  },
+  {
+    "title": "Ricky\u2019s House at Flanker",
+    "date": "April 25 @ 10:00 pm - April 26 @ 1:00 am",
+    "description": "Enjoy a night of house music at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/rickyshouse.jpg"
+  },
+  {
+    "title": "The Makers Hive Market",
+    "date": "April 26 @ 11:00 am - 4:00 pm",
+    "description": "Come check out The Makers Hive Market at The Gateway for live music and local vendors!",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/04/Hive-Market-31-scaled.jpg"
   }
 ]
