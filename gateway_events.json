@@ -1,11 +1,5 @@
 [
   {
-    "title": "$1 Oyster Mondays at Flanker",
-    "date": "April 20 @ 5:00 pm",
-    "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-Evergreen.jpg"
-  },
-  {
     "title": "Yoga & Beer",
     "date": "April 21 @ 6:00 pm - 7:00 pm",
     "description": "Move and stretch your body with us at this FREE weekly yoga class!",
@@ -24,6 +18,12 @@
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/flankererealsaltlake.jpg"
   },
   {
+    "title": "Path to the Draft Viewing Party at Flanker",
+    "date": "April 24 @ 5:00 pm",
+    "description": "Head to Flanker for the best watch party of the NFL draft!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/FLANKER-SLC-Path-to-the-Draft-4_24-and-4_25.jpg"
+  },
+  {
     "title": "Hidden Boot Saloon Friday Nights",
     "date": "April 24 @ 5:00 pm - April 25 @ 1:00 am",
     "description": "Start your weekend off right with an evening at the Hidden Boot Saloon.",
@@ -36,6 +36,12 @@
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/Tusks-Up-Nights-Mammoth-Playoff-4_21-4_24.jpg"
   },
   {
+    "title": "Path to the Draft Viewing Party at Flanker",
+    "date": "April 25 @ 12:00 pm",
+    "description": "Head to Flanker for the best watch party of the NFL draft!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/FLANKER-SLC-Path-to-the-Draft-4_24-and-4_25.jpg"
+  },
+  {
     "title": "Salt City Bulls After Party at Flanker",
     "date": "April 25 @ 9:30 pm - 11:00 pm",
     "description": "Head to Flanker for the best post-game party with drinks, bites, music, and more!",
@@ -46,11 +52,5 @@
     "date": "April 25 @ 10:00 pm - April 26 @ 1:00 am",
     "description": "Enjoy a night of house music at Flanker!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/rickyshouse.jpg"
-  },
-  {
-    "title": "The Makers Hive Market",
-    "date": "April 26 @ 11:00 am - 4:00 pm",
-    "description": "Come check out The Makers Hive Market at The Gateway for live music and local vendors!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/04/Hive-Market-31-scaled.jpg"
   }
 ]
