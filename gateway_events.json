@@ -1,21 +1,15 @@
 [
   {
-    "title": "Yoga & Beer",
-    "date": "April 21 @ 6:00 pm - 7:00 pm",
-    "description": "Move and stretch your body with us at this FREE weekly yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2025/12/Yoga-Beer-2026-Event.png"
-  },
-  {
-    "title": "Flanker Tusks Up Nights: Mammoth Playoffs",
-    "date": "April 21 @ 7:30 pm",
-    "description": "Head to Flanker to enjoy the best watch party of the Mammoth playoffs!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Tusks-Up-Nights-Mammoth-Playoff-4_21-4_24.jpg"
-  },
-  {
     "title": "Flanker Real Salt Lake vs Inter Miami Watch Party",
     "date": "April 22 @ 7:30 pm",
     "description": "Enjoy a watch party at Flanker to see Real Salt Lake vs Inter Miami!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/flankererealsaltlake.jpg"
+  },
+  {
+    "title": "The Official Pre-Game Las Vegas vs. Utah at Flanker",
+    "date": "April 24 @ 4:00 pm",
+    "description": "Go to Flanker for the best pre-game buzz before Mammoth hit the ice.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Flanker-FB.jpg"
   },
   {
     "title": "Path to the Draft Viewing Party at Flanker",
@@ -52,5 +46,11 @@
     "date": "April 25 @ 10:00 pm - April 26 @ 1:00 am",
     "description": "Enjoy a night of house music at Flanker!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/rickyshouse.jpg"
+  },
+  {
+    "title": "The Makers Hive Market",
+    "date": "April 26 @ 11:00 am - 4:00 pm",
+    "description": "Come check out The Makers Hive Market at The Gateway for live music and local vendors!",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/04/Hive-Market-31-scaled.jpg"
   }
 ]
