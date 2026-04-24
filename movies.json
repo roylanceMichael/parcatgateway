@@ -2,15 +2,18 @@
   {
     "title": "Project Hail Mary",
     "rating": "PG-13",
-    "score": "8.4",
+    "score": "8.3",
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "12:20 PM",
-      "1:15 PM",
-      "3:50 PM",
-      "4:40 PM",
-      "8:00 PM"
+      "10:25 AM",
+      "12:00 PM",
+      "1:50 PM",
+      "3:25 PM",
+      "5:10 PM",
+      "6:45 PM",
+      "8:30 PM",
+      "10:05 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -21,8 +24,10 @@
     "runtime": "2h 14m",
     "genre": "Horror",
     "times": [
-      "1:00 PM",
-      "10:00 PM"
+      "10:30 AM",
+      "1:15 PM",
+      "4:15 PM",
+      "10:15 PM"
     ],
     "poster": "posters/lee-cronin-s-the-mummy.jpg"
   },
@@ -33,13 +38,15 @@
     "runtime": "1h 38m",
     "genre": "Animation",
     "times": [
-      "11:00 AM",
-      "11:40 AM",
-      "1:35 PM",
-      "2:15 PM",
-      "4:10 PM",
-      "4:50 PM",
-      "10:00 PM"
+      "11:20 AM",
+      "11:45 AM",
+      "1:40 PM",
+      "2:20 PM",
+      "4:00 PM",
+      "4:40 PM",
+      "6:30 PM",
+      "7:00 PM",
+      "8:55 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
@@ -50,9 +57,7 @@
     "runtime": "1h 45m",
     "genre": "Comedy",
     "times": [
-      "11:00 AM",
-      "7:20 PM",
-      "9:45 PM"
+      "9:40 PM"
     ],
     "poster": "posters/the-drama.jpg"
   },
@@ -63,44 +68,41 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
+      "11:30 AM",
       "12:00 PM",
-      "1:05 PM",
-      "2:00 PM",
+      "1:00 PM",
+      "1:30 PM",
+      "2:35 PM",
       "3:05 PM",
-      "4:00 PM",
-      "4:25 PM",
-      "5:00 PM",
-      "6:25 PM",
-      "6:45 PM",
-      "7:00 PM",
-      "7:35 PM",
-      "8:15 PM"
+      "4:20 PM",
+      "4:45 PM",
+      "6:00 PM",
+      "6:20 PM",
+      "7:30 PM",
+      "8:00 PM"
     ],
     "poster": "posters/michael.jpg"
   },
   {
-    "title": "You, Me & Tuscany",
-    "rating": "PG-13",
-    "score": "6.4",
+    "title": "Over Your Dead Body",
+    "rating": "R",
+    "score": "7.3",
     "runtime": "1h 45m",
-    "genre": "Comedy",
+    "genre": "Action",
     "times": [
-      "11:30 AM",
-      "2:05 PM",
-      "4:40 PM",
-      "7:15 PM"
+      "9:30 PM"
     ],
-    "poster": "posters/you-me-tuscany.jpg"
+    "poster": "posters/over-your-dead-body.jpg"
   },
   {
-    "title": "Jurassic Park",
+    "title": "The Lost World: Jurassic Park",
     "rating": "PG-13",
-    "score": "8.2",
-    "runtime": "2h 7m",
+    "score": "6.6",
+    "runtime": "2h 9m",
     "genre": "Action",
     "times": [
       "7:15 PM"
     ],
-    "poster": "posters/jurassic-park.jpg"
+    "poster": "posters/the-lost-world-jurassic-park.jpg"
   }
 ]
