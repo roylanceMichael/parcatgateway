@@ -1,5 +1,27 @@
 [
   {
+    "title": "Michael",
+    "rating": "PG-13",
+    "score": "7.7",
+    "runtime": "2h 7m",
+    "genre": "Biography",
+    "times": [
+      "11:30 AM",
+      "12:00 PM",
+      "1:00 PM",
+      "1:30 PM",
+      "2:35 PM",
+      "3:05 PM",
+      "4:20 PM",
+      "4:45 PM",
+      "6:00 PM",
+      "6:20 PM",
+      "7:30 PM",
+      "8:00 PM"
+    ],
+    "poster": "posters/michael.jpg"
+  },
+  {
     "title": "Project Hail Mary",
     "rating": "PG-13",
     "score": "8.3",
@@ -32,6 +54,17 @@
     "poster": "posters/lee-cronin-s-the-mummy.jpg"
   },
   {
+    "title": "The Drama",
+    "rating": "R",
+    "score": "7.5",
+    "runtime": "1h 45m",
+    "genre": "Comedy",
+    "times": [
+      "9:40 PM"
+    ],
+    "poster": "posters/the-drama.jpg"
+  },
+  {
     "title": "The Super Mario Galaxy Movie",
     "rating": "PG",
     "score": "6.4",
@@ -45,42 +78,10 @@
       "4:00 PM",
       "4:40 PM",
       "6:30 PM",
-      "7:00 PM"
+      "7:00 PM",
+      "8:55 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
-  },
-  {
-    "title": "The Drama",
-    "rating": "R",
-    "score": "7.5",
-    "runtime": "1h 45m",
-    "genre": "Comedy",
-    "times": [
-      "9:40 PM"
-    ],
-    "poster": "posters/the-drama.jpg"
-  },
-  {
-    "title": "Michael",
-    "rating": "PG-13",
-    "score": "7.7",
-    "runtime": "2h 7m",
-    "genre": "Biography",
-    "times": [
-      "11:30 AM",
-      "12:00 PM",
-      "1:00 PM",
-      "1:30 PM",
-      "2:35 PM",
-      "3:05 PM",
-      "4:20 PM",
-      "4:45 PM",
-      "6:00 PM",
-      "6:20 PM",
-      "7:30 PM",
-      "8:00 PM"
-    ],
-    "poster": "posters/michael.jpg"
   },
   {
     "title": "Over Your Dead Body",

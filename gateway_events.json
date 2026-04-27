@@ -1,11 +1,5 @@
 [
   {
-    "title": "Los Angeles Dodgers Paint & Sip at HallPass",
-    "date": "April 26 @ 1:00 pm - 5:00 pm",
-    "description": "Head to Hallpass for a watch party of the Dodgers vs Cubs!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/DodgersHallpass.png"
-  },
-  {
     "title": "Yoga & Beer",
     "date": "April 28 @ 6:00 pm - 7:00 pm",
     "description": "Move and stretch your body with us at this FREE weekly yoga class!",
@@ -43,7 +37,7 @@
   },
   {
     "title": "Sunset Yoga: Mental Health Awareness Month",
-    "date": "May 5 @ 7:00 pm - 8:00 pm| (See all)An event every week that begins at 7:00 pm on Tuesday, repeating until May 26, 2026",
+    "date": "May 5 @ 7:00 pm - 8:00 pm",
     "description": "Enjoy a special mental health edition of our free weekly outdoor yoga!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/May-Sunset-Yoga-Website_Website-960x640-1-scaled.png"
   },
@@ -52,5 +46,11 @@
     "date": "May 8 @ 6:30 pm - 9:00 pm",
     "description": "Connect with other artists of all mediums and skill levels to showcase your art.",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Share-your-art.png"
+  },
+  {
+    "title": "Neon Country at Flanker",
+    "date": "May 8 @ 10:00 pm - May 9 @ 1:00 am",
+    "description": "Enjoy a lively night at Flanker with the crossover of neon and country!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Flanker-Neon-country.jpg"
   }
 ]
