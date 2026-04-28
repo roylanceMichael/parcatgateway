@@ -6,18 +6,18 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "11:30 AM",
-      "12:00 PM",
-      "1:00 PM",
-      "1:30 PM",
-      "2:35 PM",
-      "3:05 PM",
-      "4:20 PM",
-      "4:45 PM",
-      "6:00 PM",
-      "6:20 PM",
-      "7:30 PM",
-      "8:00 PM"
+      "11:35 AM",
+      "12:05 PM",
+      "1:35 PM",
+      "2:40 PM",
+      "3:10 PM",
+      "4:25 PM",
+      "4:50 PM",
+      "6:05 PM",
+      "6:25 PM",
+      "7:35 PM",
+      "8:05 PM",
+      "9:15 PM"
     ],
     "poster": "posters/michael.jpg"
   },
@@ -33,9 +33,7 @@
       "1:50 PM",
       "3:25 PM",
       "5:10 PM",
-      "6:45 PM",
-      "8:30 PM",
-      "10:05 PM"
+      "8:30 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -86,11 +84,11 @@
   {
     "title": "Over Your Dead Body",
     "rating": "R",
-    "score": "7.2",
+    "score": "7.1",
     "runtime": "1h 45m",
     "genre": "Action",
     "times": [
-      "9:30 PM"
+      "10:40 PM"
     ],
     "poster": "posters/over-your-dead-body.jpg"
   },
