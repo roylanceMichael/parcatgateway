@@ -1,11 +1,5 @@
 [
   {
-    "title": "Tusks Up Night: Hosted by SLC PUCK! At Flanker",
-    "date": "April 29 @ 5:00 pm",
-    "description": "Enjoy a watch party at Flanker of game 5 of the hockey playoffs!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/FLANKER-SLC-Tusks-Up-Night-4_29.jpg"
-  },
-  {
     "title": "Derby Day Viewing Party at Flanker",
     "date": "May 2 @ 3:00 pm",
     "description": "Watch the Kentucky Derby at Flanker on over 50 TVs, delicious food, and an unbeatable atmosphere!",
@@ -19,7 +13,7 @@
   },
   {
     "title": "Couples Speed Painting at Urban Arts Gallery",
-    "date": "May 2 @ 6:00 pm - 9:00 pm| (See all)An event every month that begins at 6:00 pm on day First of the month, repeating until December 5, 2026",
+    "date": "May 2 @ 6:00 pm - 9:00 pm",
     "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
   },
@@ -52,5 +46,11 @@
     "date": "May 8 @ 6:30 pm - 9:00 pm",
     "description": "Connect with other artists of all mediums and skill levels to showcase your art.",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Share-your-art.png"
+  },
+  {
+    "title": "Neon Country at Flanker",
+    "date": "May 8 @ 10:00 pm - May 9 @ 1:00 am",
+    "description": "Enjoy a lively night at Flanker with the crossover of neon and country!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Flanker-Neon-country.jpg"
   }
 ]
