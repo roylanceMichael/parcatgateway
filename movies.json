@@ -7,12 +7,13 @@
     "genre": "Biography",
     "times": [
       "12:00 PM",
-      "1:00 PM",
+      "1:15 PM",
       "3:05 PM",
+      "4:10 PM",
       "6:20 PM",
-      "7:30 PM",
+      "7:10 PM",
       "9:40 PM",
-      "10:35 PM"
+      "10:00 PM"
     ],
     "poster": "posters/michael.jpg"
   },
@@ -23,12 +24,23 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "12:00 PM",
-      "3:25 PM",
-      "6:45 PM",
-      "10:05 PM"
+      "11:30 AM",
+      "2:55 PM",
+      "6:15 PM",
+      "9:35 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
+  },
+  {
+    "title": "The Drama",
+    "rating": "R",
+    "score": "7.5",
+    "runtime": "1h 45m",
+    "genre": "Comedy",
+    "times": [
+      "9:55 PM"
+    ],
+    "poster": "posters/the-drama.jpg"
   },
   {
     "title": "The Super Mario Galaxy Movie",
@@ -37,36 +49,33 @@
     "runtime": "1h 38m",
     "genre": "Animation",
     "times": [
-      "11:20 AM",
-      "12:30 PM",
-      "1:40 PM",
-      "3:05 PM",
-      "4:00 PM",
-      "5:25 PM",
-      "6:30 PM",
-      "7:45 PM",
-      "8:55 PM"
+      "11:00 AM",
+      "11:55 AM",
+      "2:15 PM",
+      "4:35 PM",
+      "9:25 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
   {
     "title": "The Devil Wears Prada 2",
     "rating": "PG-13",
-    "score": "7.1",
+    "score": "7",
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
+      "10:45 AM",
+      "11:15 AM",
+      "12:15 PM",
+      "1:00 PM",
+      "1:30 PM",
       "2:00 PM",
       "3:00 PM",
-      "3:30 PM",
+      "3:45 PM",
+      "4:15 PM",
       "4:45 PM",
       "5:45 PM",
-      "6:15 PM",
-      "7:35 PM",
-      "8:30 PM",
-      "9:00 PM",
-      "10:00 PM",
-      "10:20 PM"
+      "6:30 PM"
     ],
     "poster": "posters/the-devil-wears-prada-2.jpg"
   },
@@ -74,14 +83,24 @@
     "title": "Animal Farm",
     "rating": "PG",
     "score": "NR",
-    "runtime": "",
+    "runtime": "1h 35m",
     "genre": "Animation",
     "times": [
       "12:00 PM",
       "2:30 PM",
-      "5:00 PM",
-      "7:30 PM"
+      "5:00 PM"
     ],
     "poster": "posters/animal-farm.jpg"
+  },
+  {
+    "title": "Jurassic Park III",
+    "rating": "PG-13",
+    "score": "6",
+    "runtime": "1h 32m",
+    "genre": "Action",
+    "times": [
+      "7:15 PM"
+    ],
+    "poster": "posters/jurassic-park-iii.jpg"
   }
 ]
