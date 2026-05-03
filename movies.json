@@ -50,8 +50,7 @@
     "genre": "Animation",
     "times": [
       "11:00 AM",
-      "11:55 AM",
-      "2:15 PM",
+      "11:45 AM",
       "4:35 PM",
       "9:25 PM"
     ],
@@ -60,7 +59,7 @@
   {
     "title": "The Devil Wears Prada 2",
     "rating": "PG-13",
-    "score": "7",
+    "score": "6.9",
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
@@ -82,13 +81,14 @@
   {
     "title": "Animal Farm",
     "rating": "PG",
-    "score": "NR",
+    "score": "2.8",
     "runtime": "1h 35m",
     "genre": "Animation",
     "times": [
       "12:00 PM",
       "2:30 PM",
-      "5:00 PM"
+      "5:00 PM",
+      "7:30 PM"
     ],
     "poster": "posters/animal-farm.jpg"
   },

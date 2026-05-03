@@ -1,29 +1,5 @@
 [
   {
-    "title": "Derby Day Viewing Party at Flanker",
-    "date": "May 2 @ 3:00 pm",
-    "description": "Watch the Kentucky Derby at Flanker on over 50 TVs, delicious food, and an unbeatable atmosphere!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Derby-Day-Viewing-Party-5_2-1.jpg"
-  },
-  {
-    "title": "PBD Fight Night: Benavidez vs. Zurdo at Flanker",
-    "date": "May 2 @ 6:00 pm",
-    "description": "Head to Flanker to watch Fight Night!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Benavidez-v-Zurdo-5_2.jpg"
-  },
-  {
-    "title": "Couples Speed Painting at Urban Arts Gallery",
-    "date": "May 2 @ 6:00 pm - 9:00 pm",
-    "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
-  },
-  {
-    "title": "Hidden Boot Saloon Saturday Nights",
-    "date": "May 2 @ 10:00 pm - May 3 @ 1:00 am",
-    "description": "Head to Flanker for a fun western night filled with music, food, drinks, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/5_2-Hidden-Boot-Saloon-Saturday.jpg"
-  },
-  {
     "title": "Bohemian Bum Farmer\u2019s Market",
     "date": "May 3 @ 10:00 am - 3:00 pm",
     "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
@@ -52,5 +28,29 @@
     "date": "May 8 @ 6:30 pm - 9:00 pm",
     "description": "Connect with other artists of all mediums and skill levels to showcase your art.",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Share-your-art.png"
+  },
+  {
+    "title": "Neon Country at Flanker",
+    "date": "May 8 @ 10:00 pm - May 9 @ 1:00 am",
+    "description": "Enjoy a lively night at Flanker with the crossover of neon and country!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Flanker-Neon-country.jpg"
+  },
+  {
+    "title": "Bark at the Moon",
+    "date": "May 9 @ 5:00 pm - 9:00 pm",
+    "description": "The Humane Society of Utah invites you to Bark at the Moon!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/batm.jpg"
+  },
+  {
+    "title": "Girls Just Wanna Make Crafts at Urban Arts Gallery",
+    "date": "May 9 @ 6:00 pm - 9:00 pm",
+    "description": "Enjoy a fun night making crafts with other girls!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Girls-Crafts.png"
+  },
+  {
+    "title": "UFC 328: Chimaev vs. Strickland at Flanker",
+    "date": "May 9 @ 7:00 pm",
+    "description": "Watch the UFC 328 fight live at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/UFC-328-5_9.jpg"
   }
 ]
