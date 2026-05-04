@@ -1,11 +1,5 @@
 [
   {
-    "title": "Bohemian Bum Farmer\u2019s Market",
-    "date": "May 3 @ 10:00 am - 3:00 pm",
-    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
-    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
-  },
-  {
     "title": "$1 Oyster Mondays at Flanker",
     "date": "May 4 @ 5:00 pm",
     "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
@@ -52,5 +46,11 @@
     "date": "May 9 @ 7:00 pm",
     "description": "Watch the UFC 328 fight live at Flanker!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/UFC-328-5_9.jpg"
+  },
+  {
+    "title": "Hidden Boot Saloon Saturday Nights",
+    "date": "May 9 @ 10:00 pm - May 10 @ 1:00 am",
+    "description": "Head to Flanker for a fun western night filled with music, food, drinks, and more!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Hidden-Boot-Saturdays-5_16.jpg"
   }
 ]
