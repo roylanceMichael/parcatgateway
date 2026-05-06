@@ -3,7 +3,7 @@
     "title": "Michael",
     "rating": "PG-13",
     "score": "7.7",
-    "runtime": "2h 7m",
+    "runtime": "2h 10m",
     "genre": "Biography",
     "times": [
       "12:00 PM",
@@ -20,7 +20,7 @@
   {
     "title": "The Devil Wears Prada 2",
     "rating": "PG-13",
-    "score": "6.9",
+    "score": "6.8",
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
@@ -71,7 +71,7 @@
   {
     "title": "The Drama",
     "rating": "R",
-    "score": "7.5",
+    "score": "7.4",
     "runtime": "1h 45m",
     "genre": "Comedy",
     "times": [
@@ -88,8 +88,20 @@
     "times": [
       "12:00 PM",
       "2:30 PM",
-      "5:00 PM"
+      "5:00 PM",
+      "7:30 PM"
     ],
     "poster": "posters/animal-farm.jpg"
+  },
+  {
+    "title": "Jurassic Park III",
+    "rating": "PG-13",
+    "score": "6",
+    "runtime": "1h 32m",
+    "genre": "Action",
+    "times": [
+      "7:15 PM"
+    ],
+    "poster": "posters/jurassic-park-iii.jpg"
   }
 ]

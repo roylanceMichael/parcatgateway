@@ -1,17 +1,5 @@
 [
   {
-    "title": "Cinco De Mayo at Flanker",
-    "date": "May 5",
-    "description": "Enjoy a fun Cinco de Mayo at Flanker with drinks, tacos, DJs, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/CincoDeMayo_Flanker.jpg"
-  },
-  {
-    "title": "Sunset Yoga: Mental Health Awareness Month",
-    "date": "May 5 @ 7:00 pm - 8:00 pm| (See all)An event every week that begins at 7:00 pm on Tuesday, repeating until May 26, 2026",
-    "description": "Enjoy a special mental health edition of our free weekly outdoor yoga!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/May-Sunset-Yoga-Website_Website-960x640-1-scaled.png"
-  },
-  {
     "title": "Connect at Urban Arts Gallery",
     "date": "May 8 @ 6:30 pm - 9:00 pm",
     "description": "Connect with other artists of all mediums and skill levels to showcase your art.",
@@ -52,5 +40,17 @@
     "date": "May 10 @ 10:00 am - 4:00 pm",
     "description": "Join us every second Sunday of each month for the Urban Flea Market at The Gateway.",
     "image": "https://atthegateway.com/wp-content/uploads/2024/10/Winter-Urban-Flea-Market-2020-36-1.jpg"
+  },
+  {
+    "title": "Mother\u2019s Day Brunch at Flanker",
+    "date": "May 10 @ 10:30 am",
+    "description": "Enjoy a lovely Mother's Day Brunch at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/5_10-Mothers-Day.jpg"
+  },
+  {
+    "title": "$1 Oyster Mondays at Flanker",
+    "date": "May 11 @ 5:00 pm",
+    "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-Evergreen.jpg"
   }
 ]
