@@ -1,17 +1,5 @@
 [
   {
-    "title": "Connect at Urban Arts Gallery",
-    "date": "May 8 @ 6:30 pm - 9:00 pm",
-    "description": "Connect with other artists of all mediums and skill levels to showcase your art.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Share-your-art.png"
-  },
-  {
-    "title": "Neon Country at Flanker",
-    "date": "May 8 @ 10:00 pm - May 9 @ 1:00 am",
-    "description": "Enjoy a lively night at Flanker with the crossover of neon and country!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Flanker-Neon-country.jpg"
-  },
-  {
     "title": "Bark at the Moon",
     "date": "May 9 @ 5:00 pm - 9:00 pm",
     "description": "The Humane Society of Utah invites you to Bark at the Moon!",
@@ -33,7 +21,7 @@
     "title": "Hidden Boot Saloon Saturday Nights",
     "date": "May 9 @ 10:00 pm - May 10 @ 1:00 am",
     "description": "Head to Flanker for a fun western night filled with music, food, drinks, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Hidden-Boot-Saturdays-5_16.jpg"
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/may-9-hbs.jpg"
   },
   {
     "title": "Indoor Urban Flea Market",
@@ -52,5 +40,17 @@
     "date": "May 11 @ 5:00 pm",
     "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-Evergreen.jpg"
+  },
+  {
+    "title": "Sunset Yoga: Mental Health Awareness Month",
+    "date": "May 12 @ 7:00 pm - 8:00 pm",
+    "description": "Enjoy a special mental health edition of our free weekly outdoor yoga!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/May-Sunset-Yoga-Website_Website-960x640-1-scaled.png"
+  },
+  {
+    "title": "801 Thursdays: $5 Local Brews at Flanker",
+    "date": "May 14 @ 5:00 pm",
+    "description": "Enjoy beers from local breweries at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/801-Thursdays-5_14.jpg"
   }
 ]

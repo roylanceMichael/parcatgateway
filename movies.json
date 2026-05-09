@@ -3,11 +3,11 @@
     "title": "Michael",
     "rating": "PG-13",
     "score": "7.7",
-    "runtime": "2h 9m",
+    "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
+      "11:30 AM",
       "1:00 PM",
-      "2:50 PM",
       "3:55 PM",
       "4:45 PM",
       "6:50 PM",
@@ -23,9 +23,10 @@
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
+      "10:45 AM",
       "12:15 PM",
       "1:30 PM",
-      "2:00 PM",
+      "3:00 PM",
       "4:15 PM",
       "5:45 PM",
       "7:00 PM",
@@ -42,9 +43,9 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "12:40 PM",
-      "4:00 PM",
-      "9:55 PM"
+      "12:45 PM",
+      "4:05 PM",
+      "9:50 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -55,14 +56,15 @@
     "runtime": "1h 38m",
     "genre": "Animation",
     "times": [
-      "11:45 AM"
+      "11:40 AM",
+      "12:25 PM"
     ],
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
   {
     "title": "Mortal Kombat II",
     "rating": "R",
-    "score": "7.1",
+    "score": "7",
     "runtime": "1h 56m",
     "genre": "Action",
     "times": [
@@ -80,7 +82,7 @@
   {
     "title": "The Sheep Detectives",
     "rating": "PG",
-    "score": "7.4",
+    "score": "7.6",
     "runtime": "1h 49m",
     "genre": "Action",
     "times": [
@@ -98,7 +100,7 @@
     "runtime": "1h 35m",
     "genre": "Animation",
     "times": [
-      "12:20 PM",
+      "2:30 PM",
       "7:30 PM"
     ],
     "poster": "posters/animal-farm.jpg"
@@ -106,7 +108,7 @@
   {
     "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
     "rating": "PG-13",
-    "score": "7.1",
+    "score": "7.4",
     "runtime": "1h 54m",
     "genre": "Documentary",
     "times": [
