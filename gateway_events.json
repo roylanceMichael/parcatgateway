@@ -1,29 +1,5 @@
 [
   {
-    "title": "Bark at the Moon",
-    "date": "May 9 @ 5:00 pm - 9:00 pm",
-    "description": "The Humane Society of Utah invites you to Bark at the Moon!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/batm.jpg"
-  },
-  {
-    "title": "Girls Just Wanna Make Crafts at Urban Arts Gallery",
-    "date": "May 9 @ 6:00 pm - 9:00 pm",
-    "description": "Enjoy a fun night making crafts with other girls!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Girls-Crafts.png"
-  },
-  {
-    "title": "UFC 328: Chimaev vs. Strickland at Flanker",
-    "date": "May 9 @ 7:00 pm",
-    "description": "Watch the UFC 328 fight live at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/UFC-328-5_9.jpg"
-  },
-  {
-    "title": "Hidden Boot Saloon Saturday Nights",
-    "date": "May 9 @ 10:00 pm - May 10 @ 1:00 am",
-    "description": "Head to Flanker for a fun western night filled with music, food, drinks, and more!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/may-9-hbs.jpg"
-  },
-  {
     "title": "Indoor Urban Flea Market",
     "date": "May 10 @ 10:00 am - 4:00 pm",
     "description": "Join us every second Sunday of each month for the Urban Flea Market at The Gateway.",
@@ -52,5 +28,29 @@
     "date": "May 14 @ 5:00 pm",
     "description": "Enjoy beers from local breweries at Flanker!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/801-Thursdays-5_14.jpg"
+  },
+  {
+    "title": "Art Stroll at The Gateway",
+    "date": "May 15 @ 6:00 pm - 9:00 pm",
+    "description": "Come to The Gateway to explore our new \"Vibrant Daydreams\" themed windows throughout the property...",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Vibrant-Daydreams-Home-Block_Home-block-scaled.png"
+  },
+  {
+    "title": "Hidden Boot Saloon Saturday Nights",
+    "date": "May 16 @ 10:00 pm - May 17 @ 1:00 am",
+    "description": "Head to Flanker for a fun western night filled with music, food, drinks, and more!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Hidden-Boot-Saturdays-5_16.jpg"
+  },
+  {
+    "title": "Bohemian Bum Farmer\u2019s Market",
+    "date": "May 17 @ 10:00 am - 3:00 pm",
+    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
+    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
+  },
+  {
+    "title": "$1 Oyster Mondays at Flanker",
+    "date": "May 18 @ 5:00 pm",
+    "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-Evergreen.jpg"
   }
 ]
