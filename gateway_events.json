@@ -1,17 +1,5 @@
 [
   {
-    "title": "Indoor Urban Flea Market",
-    "date": "May 10 @ 10:00 am - 4:00 pm",
-    "description": "Join us every second Sunday of each month for the Urban Flea Market at The Gateway.",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/10/Winter-Urban-Flea-Market-2020-36-1.jpg"
-  },
-  {
-    "title": "Mother\u2019s Day Brunch at Flanker",
-    "date": "May 10 @ 10:30 am",
-    "description": "Enjoy a lovely Mother's Day Brunch at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/5_10-Mothers-Day.jpg"
-  },
-  {
     "title": "$1 Oyster Mondays at Flanker",
     "date": "May 11 @ 5:00 pm",
     "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
@@ -52,5 +40,17 @@
     "date": "May 18 @ 5:00 pm",
     "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-Evergreen.jpg"
+  },
+  {
+    "title": "Sunset Yoga: Mental Health Awareness Month",
+    "date": "May 19 @ 7:00 pm - 8:00 pm",
+    "description": "Enjoy a special mental health edition of our free weekly outdoor yoga!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/May-Sunset-Yoga-Website_Website-960x640-1-scaled.png"
+  },
+  {
+    "title": "Taco Tuesday at Flanker",
+    "date": "May 19 @ 8:30 pm",
+    "description": "Head to Flanker for delicious food and drink specials for Taco Tuesday!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Taco-Tuesday-5_19-5_26.jpg"
   }
 ]

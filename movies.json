@@ -17,13 +17,30 @@
     "poster": "posters/michael.jpg"
   },
   {
+    "title": "Mortal Kombat II",
+    "rating": "R",
+    "score": "7",
+    "runtime": "1h 56m",
+    "genre": "Action",
+    "times": [
+      "12:30 PM",
+      "1:15 PM",
+      "3:15 PM",
+      "4:00 PM",
+      "5:55 PM",
+      "6:40 PM",
+      "8:40 PM",
+      "9:25 PM"
+    ],
+    "poster": "posters/mortal-kombat-ii.jpg"
+  },
+  {
     "title": "The Devil Wears Prada 2",
     "rating": "PG-13",
     "score": "6.8",
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
-      "10:45 AM",
       "12:15 PM",
       "1:30 PM",
       "3:00 PM",
@@ -49,36 +66,6 @@
     "poster": "posters/project-hail-mary.jpg"
   },
   {
-    "title": "The Super Mario Galaxy Movie",
-    "rating": "PG",
-    "score": "6.4",
-    "runtime": "1h 38m",
-    "genre": "Animation",
-    "times": [
-      "11:30 AM",
-      "12:25 PM"
-    ],
-    "poster": "posters/the-super-mario-galaxy-movie.jpg"
-  },
-  {
-    "title": "Mortal Kombat II",
-    "rating": "R",
-    "score": "7",
-    "runtime": "1h 56m",
-    "genre": "Action",
-    "times": [
-      "12:30 PM",
-      "1:15 PM",
-      "3:15 PM",
-      "4:00 PM",
-      "5:55 PM",
-      "6:40 PM",
-      "8:40 PM",
-      "9:25 PM"
-    ],
-    "poster": "posters/mortal-kombat-ii.jpg"
-  },
-  {
     "title": "The Sheep Detectives",
     "rating": "PG",
     "score": "7.7",
@@ -93,9 +80,21 @@
     "poster": "posters/the-sheep-detectives.jpg"
   },
   {
+    "title": "The Super Mario Galaxy Movie",
+    "rating": "PG",
+    "score": "6.4",
+    "runtime": "1h 38m",
+    "genre": "Animation",
+    "times": [
+      "11:40 AM",
+      "12:25 PM"
+    ],
+    "poster": "posters/the-super-mario-galaxy-movie.jpg"
+  },
+  {
     "title": "Animal Farm",
     "rating": "PG",
-    "score": "2.4",
+    "score": "2.5",
     "runtime": "1h 35m",
     "genre": "Animation",
     "times": [
@@ -107,7 +106,7 @@
   {
     "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
     "rating": "PG-13",
-    "score": "7.6",
+    "score": "7.7",
     "runtime": "1h 54m",
     "genre": "Documentary",
     "times": [
