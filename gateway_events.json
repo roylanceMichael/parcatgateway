@@ -1,11 +1,5 @@
 [
   {
-    "title": "$1 Oyster Mondays at Flanker",
-    "date": "May 11 @ 5:00 pm",
-    "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-Evergreen.jpg"
-  },
-  {
     "title": "Sunset Yoga: Mental Health Awareness Month",
     "date": "May 12 @ 7:00 pm - 8:00 pm",
     "description": "Enjoy a special mental health edition of our free weekly outdoor yoga!",
@@ -18,10 +12,28 @@
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/801-Thursdays-5_14.jpg"
   },
   {
+    "title": "Road to the Wanamaker at Flanker",
+    "date": "May 14 @ 5:00 pm",
+    "description": "Head to Flanker for a fun watch party evening with fresh drinks and delicious bites.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Road-to-the-Wanamaker-5_14-5_17.jpg"
+  },
+  {
+    "title": "Road to the Wanamaker at Flanker",
+    "date": "May 15 @ 5:00 pm",
+    "description": "Head to Flanker for a fun watch party evening with fresh drinks and delicious bites.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Road-to-the-Wanamaker-5_14-5_17.jpg"
+  },
+  {
     "title": "Art Stroll at The Gateway",
     "date": "May 15 @ 6:00 pm - 9:00 pm",
     "description": "Come to The Gateway to explore our new \"Vibrant Daydreams\" themed windows throughout the property...",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/Vibrant-Daydreams-Home-Block_Home-block-scaled.png"
+  },
+  {
+    "title": "Road to the Wanamaker at Flanker",
+    "date": "May 16 @ 5:00 pm",
+    "description": "Head to Flanker for a fun watch party evening with fresh drinks and delicious bites.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Road-to-the-Wanamaker-5_14-5_17.jpg"
   },
   {
     "title": "Hidden Boot Saloon Saturday Nights",
@@ -36,21 +48,9 @@
     "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
   },
   {
-    "title": "$1 Oyster Mondays at Flanker",
-    "date": "May 18 @ 5:00 pm",
-    "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-Evergreen.jpg"
-  },
-  {
-    "title": "Sunset Yoga: Mental Health Awareness Month",
-    "date": "May 19 @ 7:00 pm - 8:00 pm",
-    "description": "Enjoy a special mental health edition of our free weekly outdoor yoga!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/May-Sunset-Yoga-Website_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Taco Tuesday at Flanker",
-    "date": "May 19 @ 8:30 pm",
-    "description": "Head to Flanker for delicious food and drink specials for Taco Tuesday!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Taco-Tuesday-5_19-5_26.jpg"
+    "title": "Road to the Wanamaker at Flanker",
+    "date": "May 17 @ 5:00 pm",
+    "description": "Head to Flanker for a fun watch party evening with fresh drinks and delicious bites.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Road-to-the-Wanamaker-5_14-5_17.jpg"
   }
 ]

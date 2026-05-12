@@ -7,12 +7,12 @@
     "genre": "Biography",
     "times": [
       "1:00 PM",
-      "3:30 PM",
+      "1:55 PM",
       "3:55 PM",
-      "6:25 PM",
       "6:50 PM",
-      "9:15 PM",
-      "9:40 PM"
+      "7:30 PM",
+      "9:40 PM",
+      "10:20 PM"
     ],
     "poster": "posters/michael.jpg"
   },
@@ -41,10 +41,12 @@
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
+      "11:15 AM",
       "12:15 PM",
       "1:30 PM",
       "3:00 PM",
       "4:15 PM",
+      "4:45 PM",
       "5:45 PM",
       "7:00 PM",
       "8:30 PM",
@@ -59,9 +61,9 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "2:10 PM",
-      "5:30 PM",
-      "8:40 PM"
+      "1:45 PM",
+      "5:00 PM",
+      "8:10 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -82,7 +84,7 @@
   {
     "title": "The Super Mario Galaxy Movie",
     "rating": "PG",
-    "score": "6.4",
+    "score": "6.3",
     "runtime": "1h 38m",
     "genre": "Animation",
     "times": [
@@ -98,15 +100,14 @@
     "runtime": "1h 35m",
     "genre": "Animation",
     "times": [
-      "11:50 AM",
-      "12:50 PM"
+      "11:30 AM"
     ],
     "poster": "posters/animal-farm.jpg"
   },
   {
     "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
     "rating": "PG-13",
-    "score": "7.7",
+    "score": "7.6",
     "runtime": "1h 54m",
     "genre": "Documentary",
     "times": [
