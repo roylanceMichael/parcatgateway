@@ -7,12 +7,12 @@
     "genre": "Biography",
     "times": [
       "1:00 PM",
-      "1:55 PM",
+      "3:30 PM",
       "3:55 PM",
+      "6:25 PM",
       "6:50 PM",
-      "7:30 PM",
-      "9:40 PM",
-      "10:20 PM"
+      "9:15 PM",
+      "9:40 PM"
     ],
     "poster": "posters/michael.jpg"
   },
@@ -37,16 +37,14 @@
   {
     "title": "The Devil Wears Prada 2",
     "rating": "PG-13",
-    "score": "6.8",
+    "score": "6.7",
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
-      "11:15 AM",
       "12:15 PM",
       "1:30 PM",
       "3:00 PM",
       "4:15 PM",
-      "4:45 PM",
       "5:45 PM",
       "7:00 PM",
       "8:30 PM",
@@ -61,9 +59,9 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "1:45 PM",
-      "5:00 PM",
-      "8:10 PM"
+      "2:10 PM",
+      "5:30 PM",
+      "8:40 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -100,7 +98,8 @@
     "runtime": "1h 35m",
     "genre": "Animation",
     "times": [
-      "11:30 AM"
+      "11:50 AM",
+      "12:50 PM"
     ],
     "poster": "posters/animal-farm.jpg"
   },
