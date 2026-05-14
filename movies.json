@@ -1,22 +1,5 @@
 [
   {
-    "title": "Michael",
-    "rating": "PG-13",
-    "score": "7.7",
-    "runtime": "2h 7m",
-    "genre": "Biography",
-    "times": [
-      "1:00 PM",
-      "3:30 PM",
-      "3:55 PM",
-      "6:25 PM",
-      "6:50 PM",
-      "9:15 PM",
-      "9:40 PM"
-    ],
-    "poster": "posters/michael.jpg"
-  },
-  {
     "title": "Mortal Kombat II",
     "rating": "R",
     "score": "7",
@@ -59,9 +42,9 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "2:10 PM",
-      "5:30 PM",
-      "8:40 PM"
+      "1:50 PM",
+      "5:10 PM",
+      "8:20 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -80,16 +63,18 @@
     "poster": "posters/the-sheep-detectives.jpg"
   },
   {
-    "title": "The Super Mario Galaxy Movie",
-    "rating": "PG",
-    "score": "6.3",
-    "runtime": "1h 38m",
-    "genre": "Animation",
+    "title": "Obsession",
+    "rating": "R",
+    "score": "7.9",
+    "runtime": "1h 48m",
+    "genre": "Horror",
     "times": [
-      "11:40 AM",
-      "12:25 PM"
+      "2:15 PM",
+      "4:50 PM",
+      "7:20 PM",
+      "9:55 PM"
     ],
-    "poster": "posters/the-super-mario-galaxy-movie.jpg"
+    "poster": "posters/obsession.jpg"
   },
   {
     "title": "Animal Farm",
@@ -98,13 +83,15 @@
     "runtime": "1h 35m",
     "genre": "Animation",
     "times": [
-      "11:50 AM",
-      "12:50 PM"
+      "12:00 PM",
+      "2:30 PM",
+      "5:00 PM",
+      "7:30 PM"
     ],
     "poster": "posters/animal-farm.jpg"
   },
   {
-    "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
+    "title": "Billie Eilish: Hit Me Hard and Soft",
     "rating": "PG-13",
     "score": "7.6",
     "runtime": "1h 54m",
@@ -115,6 +102,6 @@
       "7:45 PM",
       "10:15 PM"
     ],
-    "poster": "posters/billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d.jpg"
+    "poster": "posters/billie-eilish-hit-me-hard-and-soft.jpg"
   }
 ]
