@@ -1,18 +1,31 @@
 [
   {
+    "title": "Michael",
+    "rating": "PG-13",
+    "score": "7.7",
+    "runtime": "2h 7m",
+    "genre": "Biography",
+    "times": [
+      "12:00 PM",
+      "2:55 PM",
+      "4:15 PM",
+      "5:50 PM",
+      "7:10 PM",
+      "8:40 PM",
+      "10:00 PM"
+    ],
+    "poster": "posters/michael.jpg"
+  },
+  {
     "title": "Mortal Kombat II",
     "rating": "R",
     "score": "7",
     "runtime": "1h 56m",
     "genre": "Action",
     "times": [
-      "12:30 PM",
       "1:15 PM",
-      "3:15 PM",
       "4:00 PM",
-      "5:55 PM",
       "6:40 PM",
-      "8:40 PM",
       "9:25 PM"
     ],
     "poster": "posters/mortal-kombat-ii.jpg"
@@ -24,14 +37,13 @@
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
-      "12:15 PM",
-      "1:30 PM",
-      "3:00 PM",
-      "4:15 PM",
-      "5:45 PM",
-      "7:00 PM",
-      "8:30 PM",
-      "9:45 PM"
+      "1:00 PM",
+      "3:45 PM",
+      "4:45 PM",
+      "6:30 PM",
+      "7:30 PM",
+      "9:15 PM",
+      "10:15 PM"
     ],
     "poster": "posters/the-devil-wears-prada-2.jpg"
   },
@@ -42,9 +54,9 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "1:50 PM",
-      "5:10 PM",
-      "8:20 PM"
+      "1:45 PM",
+      "5:05 PM",
+      "8:15 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -55,19 +67,19 @@
     "runtime": "1h 49m",
     "genre": "Action",
     "times": [
+      "12:45 PM",
       "2:00 PM",
       "4:30 PM",
-      "7:00 PM",
-      "9:35 PM"
+      "7:00 PM"
     ],
     "poster": "posters/the-sheep-detectives.jpg"
   },
   {
     "title": "Obsession",
     "rating": "R",
-    "score": "7.9",
+    "score": "8.1",
     "runtime": "1h 48m",
-    "genre": "Horror",
+    "genre": "Comedy",
     "times": [
       "2:15 PM",
       "4:50 PM",
@@ -77,18 +89,15 @@
     "poster": "posters/obsession.jpg"
   },
   {
-    "title": "Animal Farm",
+    "title": "The Super Mario Galaxy Movie",
     "rating": "PG",
-    "score": "2.5",
-    "runtime": "1h 35m",
+    "score": "6.3",
+    "runtime": "1h 38m",
     "genre": "Animation",
     "times": [
-      "12:00 PM",
-      "2:30 PM",
-      "5:00 PM",
-      "7:30 PM"
+      "2:00 PM"
     ],
-    "poster": "posters/animal-farm.jpg"
+    "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
   {
     "title": "Billie Eilish: Hit Me Hard and Soft",
@@ -97,11 +106,32 @@
     "runtime": "1h 54m",
     "genre": "Documentary",
     "times": [
-      "2:45 PM",
       "5:15 PM",
       "7:45 PM",
       "10:15 PM"
     ],
     "poster": "posters/billie-eilish-hit-me-hard-and-soft.jpg"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "rating": "PG-13",
+    "score": "8.2",
+    "runtime": "2h 10m",
+    "genre": "Action",
+    "times": [
+      "9:40 PM"
+    ],
+    "poster": "posters/top-gun-maverick.jpg"
+  },
+  {
+    "title": "Top Gun",
+    "rating": "PG",
+    "score": "7",
+    "runtime": "1h 50m",
+    "genre": "Action",
+    "times": [
+      "2:30 PM"
+    ],
+    "poster": "posters/top-gun.jpg"
   }
 ]
