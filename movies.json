@@ -67,10 +67,10 @@
     "runtime": "1h 49m",
     "genre": "Action",
     "times": [
-      "12:45 PM",
       "2:00 PM",
-      "4:30 PM",
-      "7:00 PM"
+      "5:20 PM",
+      "7:00 PM",
+      "9:35 PM"
     ],
     "poster": "posters/the-sheep-detectives.jpg"
   },
@@ -106,9 +106,8 @@
     "runtime": "1h 54m",
     "genre": "Documentary",
     "times": [
-      "5:15 PM",
-      "7:45 PM",
-      "10:15 PM"
+      "2:45 PM",
+      "7:45 PM"
     ],
     "poster": "posters/billie-eilish-hit-me-hard-and-soft.jpg"
   },
@@ -119,7 +118,7 @@
     "runtime": "2h 10m",
     "genre": "Action",
     "times": [
-      "9:40 PM"
+      "10:20 PM"
     ],
     "poster": "posters/top-gun-maverick.jpg"
   },
@@ -130,7 +129,7 @@
     "runtime": "1h 50m",
     "genre": "Action",
     "times": [
-      "2:30 PM"
+      "1:10 PM"
     ],
     "poster": "posters/top-gun.jpg"
   }
