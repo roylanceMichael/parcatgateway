@@ -1,5 +1,19 @@
 [
   {
+    "title": "Obsession",
+    "rating": "R",
+    "score": "8.2",
+    "runtime": "1h 48m",
+    "genre": "Horror",
+    "times": [
+      "2:15 PM",
+      "4:50 PM",
+      "7:20 PM",
+      "9:55 PM"
+    ],
+    "poster": "posters/obsession.jpg"
+  },
+  {
     "title": "Michael",
     "rating": "PG-13",
     "score": "7.7",
@@ -17,9 +31,22 @@
     "poster": "posters/michael.jpg"
   },
   {
+    "title": "Project Hail Mary",
+    "rating": "PG-13",
+    "score": "8.3",
+    "runtime": "2h 36m",
+    "genre": "Adventure",
+    "times": [
+      "1:45 PM",
+      "5:05 PM",
+      "8:15 PM"
+    ],
+    "poster": "posters/project-hail-mary.jpg"
+  },
+  {
     "title": "Mortal Kombat II",
     "rating": "R",
-    "score": "7",
+    "score": "6.9",
     "runtime": "1h 56m",
     "genre": "Action",
     "times": [
@@ -29,6 +56,21 @@
       "9:25 PM"
     ],
     "poster": "posters/mortal-kombat-ii.jpg"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "rating": "PG",
+    "score": "7.7",
+    "runtime": "1h 49m",
+    "genre": "Action",
+    "times": [
+      "2:00 PM",
+      "3:10 PM",
+      "4:30 PM",
+      "7:00 PM",
+      "9:35 PM"
+    ],
+    "poster": "posters/the-sheep-detectives.jpg"
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -48,48 +90,6 @@
     "poster": "posters/the-devil-wears-prada-2.jpg"
   },
   {
-    "title": "Project Hail Mary",
-    "rating": "PG-13",
-    "score": "8.3",
-    "runtime": "2h 36m",
-    "genre": "Adventure",
-    "times": [
-      "1:45 PM",
-      "5:05 PM",
-      "8:15 PM"
-    ],
-    "poster": "posters/project-hail-mary.jpg"
-  },
-  {
-    "title": "The Sheep Detectives",
-    "rating": "PG",
-    "score": "7.7",
-    "runtime": "1h 49m",
-    "genre": "Action",
-    "times": [
-      "2:00 PM",
-      "4:30 PM",
-      "5:20 PM",
-      "7:00 PM",
-      "9:35 PM"
-    ],
-    "poster": "posters/the-sheep-detectives.jpg"
-  },
-  {
-    "title": "Obsession",
-    "rating": "R",
-    "score": "8.2",
-    "runtime": "1h 48m",
-    "genre": "Comedy",
-    "times": [
-      "2:15 PM",
-      "4:50 PM",
-      "7:20 PM",
-      "9:55 PM"
-    ],
-    "poster": "posters/obsession.jpg"
-  },
-  {
     "title": "The Super Mario Galaxy Movie",
     "rating": "PG",
     "score": "6.3",
@@ -101,25 +101,13 @@
     "poster": "posters/the-super-mario-galaxy-movie.jpg"
   },
   {
-    "title": "Billie Eilish: Hit Me Hard and Soft",
-    "rating": "PG-13",
-    "score": "7.6",
-    "runtime": "1h 54m",
-    "genre": "Documentary",
-    "times": [
-      "2:45 PM",
-      "7:45 PM"
-    ],
-    "poster": "posters/billie-eilish-hit-me-hard-and-soft.jpg"
-  },
-  {
     "title": "Top Gun: Maverick",
     "rating": "PG-13",
     "score": "8.2",
     "runtime": "2h 10m",
     "genre": "Action",
     "times": [
-      "10:20 PM"
+      "8:50 PM"
     ],
     "poster": "posters/top-gun-maverick.jpg"
   },
@@ -133,5 +121,17 @@
       "1:10 PM"
     ],
     "poster": "posters/top-gun.jpg"
+  },
+  {
+    "title": "Billie Eilish: Hit Me Hard and Soft",
+    "rating": "PG-13",
+    "score": "7.6",
+    "runtime": "1h 54m",
+    "genre": "Documentary",
+    "times": [
+      "12:30 PM",
+      "5:55 PM"
+    ],
+    "poster": "posters/billie-eilish-hit-me-hard-and-soft.jpg"
   }
 ]
