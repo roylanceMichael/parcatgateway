@@ -1,17 +1,5 @@
 [
   {
-    "title": "Sunset Yoga: Mental Health Awareness Month",
-    "date": "May 19 @ 7:00 pm - 8:00 pm",
-    "description": "Enjoy a special mental health edition of our free weekly outdoor yoga!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/May-Sunset-Yoga-Website_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Taco Tuesday at Flanker",
-    "date": "May 19 @ 8:30 pm",
-    "description": "Head to Flanker for delicious food and drink specials for Taco Tuesday!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Taco-Tuesday-5_19-5_26.jpg"
-  },
-  {
     "title": "Grow: A Critique Group for Artists",
     "date": "May 20 @ 6:30 pm - 8:30 pm",
     "description": "Bring your artwork to Urban Arts Gallery to receive feedback and grow with other artists!",
@@ -52,5 +40,17 @@
     "date": "May 30 @ 10:00 pm - May 31 @ 1:00 am",
     "description": "Head to Flanker for a fun western night filled with music, food, drinks, and more!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/04/5_30-Hidden-Boot-Saloon-Saturdays.jpg"
+  },
+  {
+    "title": "Bohemian Bum Farmer\u2019s Market",
+    "date": "May 31 @ 10:00 am - 3:00 pm",
+    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
+    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
+  },
+  {
+    "title": "Sunset Yoga",
+    "date": "June 2 @ 7:00 pm - August 25 @ 8:00 pm",
+    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   }
 ]
