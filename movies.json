@@ -6,10 +6,10 @@
     "runtime": "1h 48m",
     "genre": "Horror",
     "times": [
-      "2:45 PM",
-      "5:25 PM",
-      "7:55 PM",
-      "10:25 PM"
+      "10:15 AM",
+      "12:45 PM",
+      "7:10 PM",
+      "9:45 PM"
     ],
     "poster": "posters/obsession.jpg"
   },
@@ -20,8 +20,10 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "1:50 PM",
-      "4:45 PM"
+      "11:30 AM",
+      "2:25 PM",
+      "5:20 PM",
+      "8:10 PM"
     ],
     "poster": "posters/michael.jpg"
   },
@@ -32,21 +34,10 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "1:10 PM"
+      "3:40 PM",
+      "9:00 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
-  },
-  {
-    "title": "Mortal Kombat II",
-    "rating": "R",
-    "score": "6.9",
-    "runtime": "1h 56m",
-    "genre": "Action",
-    "times": [
-      "12:15 PM",
-      "1:20 PM"
-    ],
-    "poster": "posters/mortal-kombat-ii.jpg"
   },
   {
     "title": "The Sheep Detectives",
@@ -55,7 +46,12 @@
     "runtime": "1h 49m",
     "genre": "Comedy",
     "times": [
-      "11:30 AM"
+      "9:30 AM",
+      "10:45 AM",
+      "12:00 PM",
+      "1:20 PM",
+      "3:55 PM",
+      "6:25 PM"
     ],
     "poster": "posters/the-sheep-detectives.jpg"
   },
@@ -66,10 +62,10 @@
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
-      "1:00 PM",
-      "3:45 PM",
-      "6:30 PM",
-      "9:15 PM"
+      "11:15 AM",
+      "2:00 PM",
+      "4:45 PM",
+      "7:45 PM"
     ],
     "poster": "posters/the-devil-wears-prada-2.jpg"
   },
@@ -80,30 +76,44 @@
     "runtime": "2h 12m",
     "genre": "Adventure",
     "times": [
+      "9:30 AM",
+      "10:00 AM",
+      "10:30 AM",
+      "11:00 AM",
+      "12:30 PM",
+      "1:00 PM",
+      "1:30 PM",
       "2:00 PM",
-      "2:15 PM",
-      "3:00 PM",
       "3:30 PM",
       "4:00 PM",
       "4:30 PM",
-      "5:00 PM",
-      "5:15 PM",
-      "6:00 PM",
-      "6:30 PM",
-      "7:00 PM",
-      "7:30 PM"
+      "5:00 PM"
     ],
     "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
   },
   {
-    "title": "Billie Eilish: Hit Me Hard and Soft",
-    "rating": "PG-13",
-    "score": "7.6",
-    "runtime": "1h 54m",
-    "genre": "Documentary",
+    "title": "Passenger",
+    "rating": "R",
+    "score": "5.6",
+    "runtime": "1h 34m",
+    "genre": "Horror",
     "times": [
-      "11:40 AM"
+      "2:35 PM",
+      "4:55 PM",
+      "7:15 PM",
+      "9:35 PM"
     ],
-    "poster": "posters/billie-eilish-hit-me-hard-and-soft.jpg"
+    "poster": "posters/passenger.jpg"
+  },
+  {
+    "title": "I Love Boosters",
+    "rating": "R",
+    "score": "6.2",
+    "runtime": "1h 45m",
+    "genre": "Adventure",
+    "times": [
+      "10:30 PM"
+    ],
+    "poster": "posters/i-love-boosters.jpg"
   }
 ]
