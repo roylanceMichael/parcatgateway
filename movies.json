@@ -34,8 +34,7 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "3:40 PM",
-      "9:00 PM"
+      "3:40 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -108,7 +107,7 @@
   {
     "title": "I Love Boosters",
     "rating": "R",
-    "score": "6.2",
+    "score": "6.9",
     "runtime": "1h 45m",
     "genre": "Adventure",
     "times": [

@@ -1,11 +1,5 @@
 [
   {
-    "title": "Biohazard Official After Party at Flanker",
-    "date": "May 22 @ 10:00 pm",
-    "description": "Continue the energy after Biohazard at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Flanker-biohazard.jpg"
-  },
-  {
     "title": "Hidden Boot Saloon Saturday Nights",
     "date": "May 23 @ 10:00 pm - May 24 @ 1:00 am",
     "description": "Head to Flanker for a fun western night filled with music, food, drinks, and more!",
@@ -52,5 +46,11 @@
     "date": "June 2 @ 7:00 pm - August 25 @ 8:00 pm",
     "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
+  },
+  {
+    "title": "Rouser Uncorked Dinner with Arietta Winery",
+    "date": "June 3 @ 5:00 pm",
+    "description": "Enjoy an evening at Rouser with a five-course menu and extraordinary wines.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/6.3-Wine-Dinner.jpg"
   }
 ]
