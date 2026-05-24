@@ -34,7 +34,8 @@
     "runtime": "2h 36m",
     "genre": "Adventure",
     "times": [
-      "3:40 PM"
+      "3:40 PM",
+      "9:00 PM"
     ],
     "poster": "posters/project-hail-mary.jpg"
   },
@@ -84,9 +85,9 @@
       "1:30 PM",
       "2:00 PM",
       "3:30 PM",
-      "4:00 PM",
       "4:30 PM",
-      "5:00 PM"
+      "5:00 PM",
+      "6:30 PM"
     ],
     "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
   },
@@ -107,7 +108,7 @@
   {
     "title": "I Love Boosters",
     "rating": "R",
-    "score": "6.9",
+    "score": "7.1",
     "runtime": "1h 45m",
     "genre": "Adventure",
     "times": [
