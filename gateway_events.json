@@ -1,11 +1,5 @@
 [
   {
-    "title": "The Makers Hive Market",
-    "date": "May 24 @ 11:00 am - 4:00 pm",
-    "description": "Come check out The Makers Hive Market at The Gateway for live music and local vendors!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/04/Hive-Market-31-scaled.jpg"
-  },
-  {
     "title": "$1 Oyster Mondays at Flanker",
     "date": "May 25 @ 5:00 pm",
     "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
@@ -19,7 +13,7 @@
   },
   {
     "title": "Sunset Yoga: Mental Health Awareness Month",
-    "date": "May 26 @ 7:00 pm - 8:00 pm",
+    "date": "May 26 @ 7:00 pm - 8:00 pm| (See all)An event every week that begins at 7:00 pm on Tuesday, repeating until May 26, 2026",
     "description": "Enjoy a special mental health edition of our free weekly outdoor yoga!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/May-Sunset-Yoga-Website_Website-960x640-1-scaled.png"
   },
@@ -52,5 +46,11 @@
     "date": "June 5 @ 9:00 am - 11:00 am",
     "description": "Enjoy a morning to learn more about adopting AI in regulated environments with Ryan Anderson, Fou...",
     "image": "https://atthegateway.com/wp-content/uploads/2026/05/Utah_Business_June_FF.png"
+  },
+  {
+    "title": "Couples Speed Painting at Urban Arts Gallery",
+    "date": "June 6 @ 6:00 pm - 9:00 pm",
+    "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
   }
 ]
