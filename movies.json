@@ -14,13 +14,12 @@
     "poster": "posters/obsession.jpg"
   },
   {
-    "title": "The Mandalorian and Grogu",
+    "title": "Star Wars: The Mandalorian and Grogu",
     "rating": "PG-13",
-    "score": "7.1",
+    "score": "7",
     "runtime": "2h 12m",
     "genre": "Action",
     "times": [
-      "9:30 AM",
       "10:00 AM",
       "10:30 AM",
       "11:00 AM",
@@ -31,9 +30,10 @@
       "3:30 PM",
       "4:00 PM",
       "4:30 PM",
-      "5:00 PM"
+      "5:00 PM",
+      "6:30 PM"
     ],
-    "poster": "posters/the-mandalorian-and-grogu.jpg"
+    "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
   },
   {
     "title": "Michael",
@@ -42,7 +42,6 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "11:30 AM",
       "2:25 PM",
       "5:20 PM",
       "8:10 PM"
@@ -68,8 +67,6 @@
     "runtime": "1h 49m",
     "genre": "Comedy",
     "times": [
-      "9:30 AM",
-      "10:45 AM",
       "12:00 PM",
       "1:20 PM",
       "3:55 PM",
@@ -108,12 +105,24 @@
   {
     "title": "I Love Boosters",
     "rating": "R",
-    "score": "7.2",
+    "score": "7.3",
     "runtime": "1h 45m",
     "genre": "Adventure",
     "times": [
       "10:30 PM"
     ],
     "poster": "posters/i-love-boosters.jpg"
+  },
+  {
+    "title": "The Secret Life of Pets",
+    "rating": "PG",
+    "score": "6.5",
+    "runtime": "1h 26m",
+    "genre": "Animation",
+    "times": [
+      "10:00 AM",
+      "10:15 AM"
+    ],
+    "poster": "posters/the-secret-life-of-pets.jpg"
   }
 ]

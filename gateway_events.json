@@ -1,21 +1,9 @@
 [
   {
-    "title": "$1 Oyster Mondays at Flanker",
-    "date": "May 25 @ 5:00 pm",
-    "description": "Head to Flanker for $1 Oyster Monday until they sell out!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/960x640-Evergreen.jpg"
-  },
-  {
-    "title": "Taco Tuesday at Flanker",
-    "date": "May 26 @ 5:00 pm",
-    "description": "Head to Flanker for delicious food and drink specials for Taco Tuesday!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/04/Flanker-Taco-Tuesday.jpg"
-  },
-  {
-    "title": "Sunset Yoga: Mental Health Awareness Month",
-    "date": "May 26 @ 7:00 pm - 8:00 pm| (See all)An event every week that begins at 7:00 pm on Tuesday, repeating until May 26, 2026",
-    "description": "Enjoy a special mental health edition of our free weekly outdoor yoga!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/03/May-Sunset-Yoga-Website_Website-960x640-1-scaled.png"
+    "title": "Kesha Ticket Giveaway at Flanker",
+    "date": "May 29 @ 5:00 pm",
+    "description": "Head to Flanker for a chance to win tickets to Kesha's \"The Freedom Tour\"!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Kesha-Giveaway-5_29-960x640-1.jpg"
   },
   {
     "title": "Hidden Boot Saloon Saturday Nights",
@@ -28,6 +16,12 @@
     "date": "May 31 @ 10:00 am - 3:00 pm",
     "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
     "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
+  },
+  {
+    "title": "Love Island Season Premiere at Flanker hosted by Vanna Einerson",
+    "date": "June 2 @ 7:00 pm",
+    "description": "Join us for a watch party of Love Island Season 8 Premiere at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Love-Island-Premiere-6_2-960x640-1.jpg"
   },
   {
     "title": "Sunset Yoga",
@@ -52,5 +46,11 @@
     "date": "June 6 @ 6:00 pm - 9:00 pm",
     "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
+  },
+  {
+    "title": "Bohemian Bum Farmer\u2019s Market",
+    "date": "June 7 @ 10:00 am - 3:00 pm",
+    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
+    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
   }
 ]
