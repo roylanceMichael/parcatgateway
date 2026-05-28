@@ -6,10 +6,12 @@
     "runtime": "1h 48m",
     "genre": "Horror",
     "times": [
-      "10:15 AM",
-      "12:45 PM",
-      "7:10 PM",
-      "9:45 PM"
+      "9:50 AM",
+      "12:20 PM",
+      "2:50 PM",
+      "5:25 PM",
+      "7:50 PM",
+      "10:25 PM"
     ],
     "poster": "posters/obsession.jpg"
   },
@@ -20,18 +22,18 @@
     "runtime": "2h 12m",
     "genre": "Action",
     "times": [
-      "10:00 AM",
+      "9:45 AM",
+      "10:15 AM",
       "10:30 AM",
-      "11:00 AM",
-      "12:30 PM",
-      "1:00 PM",
+      "11:45 AM",
+      "12:45 PM",
+      "1:15 PM",
       "1:30 PM",
-      "2:00 PM",
-      "3:30 PM",
-      "4:00 PM",
+      "2:45 PM",
+      "3:45 PM",
+      "4:15 PM",
       "4:30 PM",
-      "5:00 PM",
-      "6:30 PM"
+      "5:45 PM"
     ],
     "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
   },
@@ -42,23 +44,12 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "2:25 PM",
-      "5:20 PM",
-      "8:10 PM"
+      "10:00 AM",
+      "12:55 PM",
+      "3:50 PM",
+      "6:40 PM"
     ],
     "poster": "posters/michael.jpg"
-  },
-  {
-    "title": "Project Hail Mary",
-    "rating": "PG-13",
-    "score": "8.3",
-    "runtime": "2h 36m",
-    "genre": "Adventure",
-    "times": [
-      "3:40 PM",
-      "9:00 PM"
-    ],
-    "poster": "posters/project-hail-mary.jpg"
   },
   {
     "title": "The Sheep Detectives",
@@ -67,26 +58,27 @@
     "runtime": "1h 49m",
     "genre": "Comedy",
     "times": [
-      "12:00 PM",
-      "1:20 PM",
-      "3:55 PM",
-      "6:25 PM"
+      "12:30 PM"
     ],
     "poster": "posters/the-sheep-detectives.jpg"
   },
   {
-    "title": "Passenger",
+    "title": "Backrooms",
     "rating": "R",
-    "score": "5.6",
-    "runtime": "1h 34m",
+    "score": "7.3",
+    "runtime": "1h 50m",
     "genre": "Horror",
     "times": [
-      "2:35 PM",
-      "4:55 PM",
-      "7:15 PM",
-      "9:35 PM"
+      "4:00 PM",
+      "5:15 PM",
+      "6:30 PM",
+      "6:55 PM",
+      "7:40 PM",
+      "9:00 PM",
+      "9:30 PM",
+      "10:10 PM"
     ],
-    "poster": "posters/passenger.jpg"
+    "poster": "posters/backrooms.jpg"
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -95,34 +87,24 @@
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
-      "11:15 AM",
-      "2:00 PM",
-      "4:45 PM",
-      "7:45 PM"
+      "11:30 AM",
+      "2:15 PM"
     ],
     "poster": "posters/the-devil-wears-prada-2.jpg"
   },
   {
-    "title": "I Love Boosters",
-    "rating": "R",
-    "score": "7.3",
-    "runtime": "1h 45m",
-    "genre": "Adventure",
-    "times": [
-      "10:30 PM"
-    ],
-    "poster": "posters/i-love-boosters.jpg"
-  },
-  {
-    "title": "The Secret Life of Pets",
+    "title": "The Breadwinner",
     "rating": "PG",
-    "score": "6.5",
-    "runtime": "1h 26m",
-    "genre": "Animation",
+    "score": "NR",
+    "runtime": "1h 35m",
+    "genre": "Comedy",
     "times": [
-      "10:00 AM",
-      "10:15 AM"
+      "12:00 PM",
+      "2:20 PM",
+      "4:40 PM",
+      "7:00 PM",
+      "9:20 PM"
     ],
-    "poster": "posters/the-secret-life-of-pets.jpg"
+    "poster": "posters/the-breadwinner.jpg"
   }
 ]
