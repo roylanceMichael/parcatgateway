@@ -22,14 +22,14 @@
     "runtime": "2h 12m",
     "genre": "Action",
     "times": [
-      "10:00 AM",
+      "11:30 AM",
       "12:30 PM",
-      "1:00 PM",
+      "1:30 PM",
       "3:30 PM",
       "4:00 PM",
       "6:30 PM",
       "7:00 PM",
-      "8:30 PM",
+      "9:30 PM",
       "10:00 PM"
     ],
     "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
@@ -56,7 +56,7 @@
     "runtime": "1h 49m",
     "genre": "Comedy",
     "times": [
-      "1:10 PM"
+      "10:50 AM"
     ],
     "poster": "posters/the-sheep-detectives.jpg"
   },
@@ -69,9 +69,8 @@
     "times": [
       "10:30 AM",
       "11:00 AM",
-      "12:00 PM",
+      "1:00 PM",
       "1:30 PM",
-      "2:30 PM",
       "4:00 PM",
       "5:00 PM",
       "6:30 PM",
@@ -88,10 +87,9 @@
     "runtime": "1h 34m",
     "genre": "Horror",
     "times": [
-      "10:15 AM",
-      "3:50 PM",
-      "6:05 PM",
-      "9:30 PM"
+      "2:35 PM",
+      "4:50 PM",
+      "7:05 PM"
     ],
     "poster": "posters/passenger.jpg"
   },
@@ -123,8 +121,8 @@
   {
     "title": "The Breadwinner",
     "rating": "PG",
-    "score": "6.2",
-    "runtime": "1h 35m",
+    "score": "6.4",
+    "runtime": "1h 39m",
     "genre": "Comedy",
     "times": [
       "11:00 AM",
