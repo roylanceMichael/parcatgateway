@@ -1,11 +1,5 @@
 [
   {
-    "title": "Bohemian Bum Farmer\u2019s Market",
-    "date": "May 31 @ 10:00 am - 3:00 pm",
-    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
-    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
-  },
-  {
     "title": "Love Island Season Premiere at Flanker hosted by Vanna Einerson",
     "date": "June 2 @ 7:00 pm",
     "description": "Join us for a watch party of Love Island Season 8 Premiere at Flanker!",
@@ -52,5 +46,11 @@
     "date": "June 7 @ 10:00 am - 3:00 pm",
     "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
     "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
+  },
+  {
+    "title": "Sunset Yoga",
+    "date": "June 9 @ 7:00 pm - September 1 @ 8:00 pm",
+    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   }
 ]
