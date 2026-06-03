@@ -1,11 +1,5 @@
 [
   {
-    "title": "Love Island Season Premiere at Flanker hosted by Vanna Einerson",
-    "date": "June 2 @ 7:00 pm",
-    "description": "Join us for a watch party of Love Island Season 8 Premiere at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Love-Island-Premiere-6_2-960x640-1.jpg"
-  },
-  {
     "title": "Sunset Yoga",
     "date": "June 2 @ 7:00 pm - August 25 @ 8:00 pm",
     "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
@@ -52,5 +46,11 @@
     "date": "June 9 @ 7:00 pm - September 1 @ 8:00 pm",
     "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
+  },
+  {
+    "title": "801 Wednesdays at Flanker: $5 Local Brews",
+    "date": "June 10 @ 5:00 pm - 11:00 pm",
+    "description": "Enjoy $5 beers from local breweries at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/801-Wednesdays-.jpg"
   }
 ]
