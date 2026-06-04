@@ -6,12 +6,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "Rouser Uncorked Dinner with Arietta Winery",
-    "date": "June 3 @ 5:00 pm",
-    "description": "Enjoy an evening at Rouser with a five-course menu and extraordinary wines.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/6.3-Wine-Dinner.jpg"
-  },
-  {
     "title": "Utah Business Founder Friday at Kiln",
     "date": "June 5 @ 9:00 am - 11:00 am",
     "description": "Enjoy a morning to learn more about adopting AI in regulated environments with Ryan Anderson, Fou...",
@@ -52,5 +46,11 @@
     "date": "June 10 @ 5:00 pm - 11:00 pm",
     "description": "Enjoy $5 beers from local breweries at Flanker!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/05/801-Wednesdays-.jpg"
+  },
+  {
+    "title": "Live Nation Summer Concert Ticket Series with Flanker",
+    "date": "June 12 @ 5:00 pm",
+    "description": "Join in for a chance to win concert tickets with nearby venues!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Live-Nation-Concert-Series.jpg"
   }
 ]
