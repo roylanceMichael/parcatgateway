@@ -11,13 +11,11 @@
       "1:30 PM",
       "2:30 PM",
       "4:00 PM",
-      "4:20 PM",
       "5:00 PM",
       "6:30 PM",
-      "6:55 PM",
       "7:30 PM",
       "9:00 PM",
-      "9:30 PM"
+      "10:00 PM"
     ],
     "poster": "posters/backrooms.jpg"
   },
@@ -31,9 +29,9 @@
       "10:00 AM",
       "12:30 PM",
       "3:00 PM",
-      "6:45 PM",
-      "9:20 PM",
-      "10:15 PM"
+      "5:35 PM",
+      "8:00 PM",
+      "10:30 PM"
     ],
     "poster": "posters/obsession.jpg"
   },
@@ -45,9 +43,7 @@
     "genre": "Action",
     "times": [
       "10:00 AM",
-      "12:30 PM",
       "1:00 PM",
-      "3:30 PM",
       "4:00 PM",
       "7:00 PM",
       "10:00 PM"
@@ -61,24 +57,27 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "10:40 AM",
-      "1:35 PM",
-      "4:30 PM",
-      "7:20 PM",
-      "10:10 PM"
+      "11:40 AM",
+      "2:35 PM",
+      "5:30 PM",
+      "8:20 PM"
     ],
     "poster": "posters/michael.jpg"
   },
   {
-    "title": "The Sheep Detectives",
-    "rating": "PG",
-    "score": "7.7",
-    "runtime": "1h 49m",
-    "genre": "Comedy",
+    "title": "Masters of the Universe",
+    "rating": "PG-13",
+    "score": "7",
+    "runtime": "2h 20m",
+    "genre": "Action",
     "times": [
-      "11:25 AM"
+      "3:15 PM",
+      "5:30 PM",
+      "6:15 PM",
+      "8:30 PM",
+      "9:15 PM"
     ],
-    "poster": "posters/the-sheep-detectives.jpg"
+    "poster": "posters/masters-of-the-universe.jpg"
   },
   {
     "title": "Passenger",
@@ -87,8 +86,8 @@
     "runtime": "1h 34m",
     "genre": "Horror",
     "times": [
-      "10:15 AM",
-      "2:00 PM"
+      "10:10 AM",
+      "12:30 PM"
     ],
     "poster": "posters/passenger.jpg"
   },
@@ -99,9 +98,9 @@
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
-      "12:45 PM",
-      "3:30 PM",
-      "6:15 PM"
+      "10:25 AM",
+      "1:10 PM",
+      "3:55 PM"
     ],
     "poster": "posters/the-devil-wears-prada-2.jpg"
   },
@@ -116,19 +115,8 @@
       "1:20 PM",
       "3:40 PM",
       "6:00 PM",
-      "8:15 PM"
+      "8:20 PM"
     ],
     "poster": "posters/the-breadwinner.jpg"
-  },
-  {
-    "title": "I Love Boosters",
-    "rating": "R",
-    "score": "7.3",
-    "runtime": "1h 53m",
-    "genre": "Adventure",
-    "times": [
-      "10:10 AM"
-    ],
-    "poster": "posters/i-love-boosters.jpg"
   }
 ]
