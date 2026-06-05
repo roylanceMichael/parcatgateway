@@ -10,11 +10,11 @@
       "12:00 PM",
       "1:30 PM",
       "2:30 PM",
-      "4:00 PM",
+      "4:05 PM",
       "5:00 PM",
-      "6:30 PM",
+      "6:35 PM",
       "7:30 PM",
-      "9:00 PM",
+      "9:05 PM",
       "10:00 PM"
     ],
     "poster": "posters/backrooms.jpg"
@@ -43,7 +43,7 @@
     "genre": "Action",
     "times": [
       "10:00 AM",
-      "1:00 PM",
+      "1:55 PM",
       "4:00 PM",
       "7:00 PM",
       "10:00 PM"
@@ -57,39 +57,27 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "11:40 AM",
-      "2:35 PM",
-      "5:30 PM",
-      "8:20 PM"
+      "11:00 AM",
+      "1:00 PM",
+      "4:50 PM",
+      "7:40 PM"
     ],
     "poster": "posters/michael.jpg"
   },
   {
     "title": "Masters of the Universe",
     "rating": "PG-13",
-    "score": "7",
+    "score": "7.1",
     "runtime": "2h 20m",
     "genre": "Action",
     "times": [
-      "3:15 PM",
-      "5:30 PM",
-      "6:15 PM",
-      "8:30 PM",
-      "9:15 PM"
+      "10:15 AM",
+      "1:15 PM",
+      "4:15 PM",
+      "7:15 PM",
+      "10:15 PM"
     ],
     "poster": "posters/masters-of-the-universe.jpg"
-  },
-  {
-    "title": "Passenger",
-    "rating": "R",
-    "score": "5.6",
-    "runtime": "1h 34m",
-    "genre": "Horror",
-    "times": [
-      "10:10 AM",
-      "12:30 PM"
-    ],
-    "poster": "posters/passenger.jpg"
   },
   {
     "title": "The Devil Wears Prada 2",
@@ -98,11 +86,25 @@
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
-      "10:25 AM",
-      "1:10 PM",
-      "3:55 PM"
+      "10:35 AM"
     ],
     "poster": "posters/the-devil-wears-prada-2.jpg"
+  },
+  {
+    "title": "Scary Movie",
+    "rating": "R",
+    "score": "6",
+    "runtime": "1h 36m",
+    "genre": "Comedy",
+    "times": [
+      "10:00 AM",
+      "12:30 PM",
+      "3:00 PM",
+      "5:30 PM",
+      "8:00 PM",
+      "10:30 PM"
+    ],
+    "poster": "posters/scary-movie.jpg"
   },
   {
     "title": "The Breadwinner",
@@ -111,7 +113,6 @@
     "runtime": "1h 39m",
     "genre": "Comedy",
     "times": [
-      "11:00 AM",
       "1:20 PM",
       "3:40 PM",
       "6:00 PM",
