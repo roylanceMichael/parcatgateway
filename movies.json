@@ -6,16 +6,16 @@
     "runtime": "1h 50m",
     "genre": "Horror",
     "times": [
-      "11:00 AM",
-      "12:00 PM",
-      "1:30 PM",
-      "2:30 PM",
-      "4:05 PM",
-      "5:00 PM",
-      "6:35 PM",
-      "7:30 PM",
-      "9:05 PM",
-      "10:00 PM"
+      "11:05 AM",
+      "12:05 PM",
+      "1:35 PM",
+      "2:35 PM",
+      "4:10 PM",
+      "5:05 PM",
+      "6:40 PM",
+      "7:35 PM",
+      "9:10 PM",
+      "10:05 PM"
     ],
     "poster": "posters/backrooms.jpg"
   },
@@ -26,12 +26,12 @@
     "runtime": "1h 48m",
     "genre": "Horror",
     "times": [
-      "10:00 AM",
-      "12:30 PM",
-      "3:00 PM",
-      "5:35 PM",
-      "8:00 PM",
-      "10:30 PM"
+      "10:05 AM",
+      "12:35 PM",
+      "3:05 PM",
+      "5:40 PM",
+      "8:05 PM",
+      "10:35 PM"
     ],
     "poster": "posters/obsession.jpg"
   },
@@ -43,7 +43,8 @@
     "genre": "Action",
     "times": [
       "10:00 AM",
-      "1:55 PM",
+      "1:00 PM",
+      "3:30 PM",
       "4:00 PM",
       "7:00 PM",
       "10:00 PM"
@@ -57,10 +58,9 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "11:00 AM",
-      "1:00 PM",
-      "4:50 PM",
-      "7:40 PM"
+      "12:15 PM",
+      "6:25 PM",
+      "9:15 PM"
     ],
     "poster": "posters/michael.jpg"
   },
@@ -86,14 +86,14 @@
     "runtime": "1h 59m",
     "genre": "Comedy",
     "times": [
-      "10:35 AM"
+      "10:40 AM"
     ],
     "poster": "posters/the-devil-wears-prada-2.jpg"
   },
   {
     "title": "Scary Movie",
     "rating": "R",
-    "score": "6",
+    "score": "5.8",
     "runtime": "1h 36m",
     "genre": "Comedy",
     "times": [
@@ -113,6 +113,7 @@
     "runtime": "1h 39m",
     "genre": "Comedy",
     "times": [
+      "11:00 AM",
       "1:20 PM",
       "3:40 PM",
       "6:00 PM",
