@@ -6,18 +6,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "Stanley Cup Watch Party at Flanker",
-    "date": "June 6 @ 6:00 pm",
-    "description": "Head to Flanker for a watch party of the Stanley Cup!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/06/NHL-June-6-960x640-1.jpg"
-  },
-  {
-    "title": "Couples Speed Painting at Urban Arts Gallery",
-    "date": "June 6 @ 6:00 pm - 9:00 pm",
-    "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
-  },
-  {
     "title": "Bohemian Bum Farmer\u2019s Market",
     "date": "June 7 @ 10:00 am - 3:00 pm",
     "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
@@ -52,5 +40,17 @@
     "date": "June 10 @ 6:30 pm",
     "description": "Head to Flanker to enjoy a watch party of the NBA Finals!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/06/NBA-June-10-960x640-1.jpg"
+  },
+  {
+    "title": "Live Nation Summer Concert Ticket Series with Flanker",
+    "date": "June 12 @ 5:00 pm",
+    "description": "Join in for a chance to win concert tickets with nearby venues!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Live-Nation-Concert-Series.jpg"
+  },
+  {
+    "title": "My Tai Bar Now Open at Flanker",
+    "date": "June 12 @ 5:00 pm",
+    "description": "Enjoy island vibes at Flanker's new bar My Tai!",
+    "image": ""
   }
 ]
