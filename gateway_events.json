@@ -6,12 +6,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "Bohemian Bum Farmer\u2019s Market",
-    "date": "June 7 @ 10:00 am - 3:00 pm",
-    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
-    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
-  },
-  {
     "title": "NBA Finals Watch Party at Flanker",
     "date": "June 8 @ 6:30 pm",
     "description": "Head to Flanker to enjoy a watch party of the NBA Finals!",
@@ -52,5 +46,11 @@
     "date": "June 12 @ 5:00 pm",
     "description": "Enjoy island vibes at Flanker's new bar My Tai!",
     "image": ""
+  },
+  {
+    "title": "Connect at Urban Arts Gallery",
+    "date": "June 12 @ 6:30 pm - 9:00 pm",
+    "description": "Connect with other artists of all mediums and skill levels to showcase your art.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Share-your-art.png"
   }
 ]
