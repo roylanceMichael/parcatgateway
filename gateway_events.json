@@ -6,12 +6,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "NBA Finals Watch Party at Flanker",
-    "date": "June 8 @ 6:30 pm",
-    "description": "Head to Flanker to enjoy a watch party of the NBA Finals!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/06/NBA-June-8-960x640-1.jpg"
-  },
-  {
     "title": "Stanley Cup Watch Party at Flanker",
     "date": "June 9 @ 6:00 pm",
     "description": "Head to Flanker for a watch party of the Stanley Cup!",
@@ -45,12 +39,18 @@
     "title": "My Tai Bar Now Open at Flanker",
     "date": "June 12 @ 5:00 pm",
     "description": "Enjoy island vibes at Flanker's new bar My Tai!",
-    "image": ""
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/My-Tai-Now-Open.jpg"
   },
   {
     "title": "Connect at Urban Arts Gallery",
     "date": "June 12 @ 6:30 pm - 9:00 pm",
     "description": "Connect with other artists of all mediums and skill levels to showcase your art.",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Share-your-art.png"
+  },
+  {
+    "title": "Paint Night: Art Appropriation at Urban Arts Gallery",
+    "date": "June 13 @ 8:00 am - 5:00 pm",
+    "description": "Learn all about art appropriation at Urban Arts Gallery!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Art-Appropriation.png"
   }
 ]
