@@ -62,7 +62,7 @@
       "3:00 PM",
       "5:30 PM",
       "8:00 PM",
-      "10:35 PM"
+      "10:30 PM"
     ],
     "poster": "posters/scary-movie.jpg"
   },
@@ -73,7 +73,6 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "11:00 AM",
       "1:00 PM",
       "4:50 PM",
       "7:40 PM"
@@ -88,23 +87,12 @@
     "genre": "Action",
     "times": [
       "10:00 AM",
-      "1:55 PM",
+      "1:45 PM",
       "4:00 PM",
       "7:00 PM",
       "10:00 PM"
     ],
     "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "rating": "PG-13",
-    "score": "6.6",
-    "runtime": "1h 59m",
-    "genre": "Comedy",
-    "times": [
-      "10:30 AM"
-    ],
-    "poster": "posters/the-devil-wears-prada-2.jpg"
   },
   {
     "title": "The Breadwinner",
@@ -113,11 +101,23 @@
     "runtime": "1h 39m",
     "genre": "Comedy",
     "times": [
-      "1:20 PM",
-      "3:40 PM",
-      "6:00 PM",
-      "8:20 PM"
+      "1:30 PM",
+      "3:50 PM",
+      "6:10 PM",
+      "8:30 PM"
     ],
     "poster": "posters/the-breadwinner.jpg"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "rating": "PG",
+    "score": "7.7",
+    "runtime": "2h 5m",
+    "genre": "Action",
+    "times": [
+      "10:00 AM",
+      "10:15 AM"
+    ],
+    "poster": "posters/how-to-train-your-dragon.jpg"
   }
 ]

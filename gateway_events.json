@@ -6,12 +6,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "Stanley Cup Watch Party at Flanker",
-    "date": "June 9 @ 6:00 pm",
-    "description": "Head to Flanker for a watch party of the Stanley Cup!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/06/NHL-June-9-960x640-1.jpg"
-  },
-  {
     "title": "Sunset Yoga",
     "date": "June 9 @ 7:00 pm - September 1 @ 8:00 pm",
     "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
@@ -52,5 +46,11 @@
     "date": "June 13 @ 8:00 am - 5:00 pm",
     "description": "Learn all about art appropriation at Urban Arts Gallery!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Art-Appropriation.png"
+  },
+  {
+    "title": "Outdoor Urban Flea Market",
+    "date": "June 14 @ 10:00 am - 4:00 pm",
+    "description": "Join us every second Sunday for the season's Outdoor Urban Flea Market at The Gateway!",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/04/urbanfleamarket-10-scaled.jpg"
   }
 ]
