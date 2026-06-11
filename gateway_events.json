@@ -12,18 +12,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "801 Wednesdays at Flanker: $5 Local Brews",
-    "date": "June 10 @ 5:00 pm - 11:00 pm",
-    "description": "Enjoy $5 beers from local breweries at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/801-Wednesdays-.jpg"
-  },
-  {
-    "title": "NBA Finals Watch Party at Flanker",
-    "date": "June 10 @ 6:30 pm",
-    "description": "Head to Flanker to enjoy a watch party of the NBA Finals!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/06/NBA-June-10-960x640-1.jpg"
-  },
-  {
     "title": "Live Nation Summer Concert Ticket Series with Flanker",
     "date": "June 12 @ 5:00 pm",
     "description": "Join in for a chance to win concert tickets with nearby venues!",
@@ -52,5 +40,17 @@
     "date": "June 14 @ 10:00 am - 4:00 pm",
     "description": "Join us every second Sunday for the season's Outdoor Urban Flea Market at The Gateway!",
     "image": "https://atthegateway.com/wp-content/uploads/2024/04/urbanfleamarket-10-scaled.jpg"
+  },
+  {
+    "title": "UFC Freedom 250 Watch Party at Flanker",
+    "date": "June 14 @ 6:00 pm",
+    "description": "Head to Flanker to watch UFC Freedom 250 live on their LED screens!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/UFC-Freedom-250-6_14-Gateway.jpg"
+  },
+  {
+    "title": "Friends First Tacos & Connections at Flanker",
+    "date": "June 16 @ 5:00 pm",
+    "description": "Enjoy Taco Tuesday at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/06/Friends-first-flanekr.jpg"
   }
 ]

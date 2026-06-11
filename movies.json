@@ -6,12 +6,11 @@
     "runtime": "1h 48m",
     "genre": "Horror",
     "times": [
-      "10:00 AM",
-      "12:30 PM",
-      "3:00 PM",
-      "5:35 PM",
-      "8:00 PM",
-      "10:30 PM"
+      "11:00 AM",
+      "1:30 PM",
+      "4:00 PM",
+      "6:35 PM",
+      "9:00 PM"
     ],
     "poster": "posters/obsession.jpg"
   },
@@ -22,15 +21,10 @@
     "runtime": "1h 50m",
     "genre": "Horror",
     "times": [
-      "11:00 AM",
       "12:00 PM",
-      "1:30 PM",
       "2:30 PM",
-      "4:05 PM",
       "5:00 PM",
-      "6:35 PM",
       "7:30 PM",
-      "9:05 PM",
       "10:00 PM"
     ],
     "poster": "posters/backrooms.jpg"
@@ -43,6 +37,7 @@
     "genre": "Action",
     "times": [
       "10:15 AM",
+      "10:55 AM",
       "1:15 PM",
       "4:15 PM",
       "7:15 PM",
@@ -73,11 +68,28 @@
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "1:00 PM",
-      "4:50 PM",
-      "7:40 PM"
+      "12:45 PM"
     ],
     "poster": "posters/michael.jpg"
+  },
+  {
+    "title": "Disclosure Day",
+    "rating": "PG-13",
+    "score": "7",
+    "runtime": "2h 25m",
+    "genre": "Action",
+    "times": [
+      "2:00 PM",
+      "3:10 PM",
+      "4:00 PM",
+      "5:10 PM",
+      "6:20 PM",
+      "7:10 PM",
+      "8:20 PM",
+      "9:30 PM",
+      "10:20 PM"
+    ],
+    "poster": "posters/disclosure-day.jpg"
   },
   {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -87,7 +99,7 @@
     "genre": "Action",
     "times": [
       "10:00 AM",
-      "1:45 PM",
+      "1:00 PM",
       "4:00 PM",
       "7:00 PM",
       "10:00 PM"
@@ -101,23 +113,9 @@
     "runtime": "1h 39m",
     "genre": "Comedy",
     "times": [
-      "1:30 PM",
-      "3:50 PM",
-      "6:10 PM",
-      "8:30 PM"
+      "10:25 AM",
+      "12:45 PM"
     ],
     "poster": "posters/the-breadwinner.jpg"
-  },
-  {
-    "title": "How to Train Your Dragon",
-    "rating": "PG",
-    "score": "7.7",
-    "runtime": "2h 5m",
-    "genre": "Action",
-    "times": [
-      "10:00 AM",
-      "10:15 AM"
-    ],
-    "poster": "posters/how-to-train-your-dragon.jpg"
   }
 ]
