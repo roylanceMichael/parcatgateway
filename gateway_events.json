@@ -12,24 +12,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "Live Nation Summer Concert Ticket Series with Flanker",
-    "date": "June 12 @ 5:00 pm",
-    "description": "Join in for a chance to win concert tickets with nearby venues!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Live-Nation-Concert-Series.jpg"
-  },
-  {
-    "title": "My Tai Bar Now Open at Flanker",
-    "date": "June 12 @ 5:00 pm",
-    "description": "Enjoy island vibes at Flanker's new bar My Tai!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/My-Tai-Now-Open.jpg"
-  },
-  {
-    "title": "Connect at Urban Arts Gallery",
-    "date": "June 12 @ 6:30 pm - 9:00 pm",
-    "description": "Connect with other artists of all mediums and skill levels to showcase your art.",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Share-your-art.png"
-  },
-  {
     "title": "Paint Night: Art Appropriation at Urban Arts Gallery",
     "date": "June 13 @ 8:00 am - 5:00 pm",
     "description": "Learn all about art appropriation at Urban Arts Gallery!",
@@ -52,5 +34,23 @@
     "date": "June 16 @ 5:00 pm",
     "description": "Enjoy Taco Tuesday at Flanker!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/06/Friends-first-flanekr.jpg"
+  },
+  {
+    "title": "Sunset Yoga",
+    "date": "June 16 @ 7:00 pm - September 8 @ 8:00 pm",
+    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
+  },
+  {
+    "title": "801 Wednesdays at Flanker: $5 Local Brews",
+    "date": "June 17 @ 5:00 pm - 11:00 pm",
+    "description": "Enjoy $5 beers from local breweries at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/801-Wednesdays-.jpg"
+  },
+  {
+    "title": "Grow: A Critique Group for Artists",
+    "date": "June 17 @ 6:30 pm - 8:30 pm",
+    "description": "Bring your artwork to Urban Arts Gallery to receive feedback and grow with other artists!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Grow.png"
   }
 ]
