@@ -27,12 +27,12 @@ jobs:
 
       - name: Install Playwright Browsers
         run: |
-          uv run playwright install chromium
-          uv run playwright install-deps chromium
+          uv run --project scraper playwright install chromium
+          uv run --project scraper playwright install-deps chromium
 
       - name: Run Scraper
         # 'uv run' automatically creates a venv and installs dependencies from pyproject.toml
-        run: uv run scrape_all.py
+        run: uv run --project scraper scraper/scrape_all.py
 
       - name: Commit and push changes
         run: |

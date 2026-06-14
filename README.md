@@ -1,10 +1,10 @@
-# Parc Gateway Scripts
+# Parc Gateway Community Board
 
-Scripts for updating the Parc at Gateway community board.
+This is the public website for the Parc at Gateway HOA.
 
 ## Setup Instructions
 
-This project uses `uv` for dependency management. To set up the project on a new computer, follow these steps:
+The scraping scripts are located in the `scraper` directory and use `uv` for dependency management. To set up the project on a new computer, follow these steps:
 
 1. **Install uv:**
    ```bash
@@ -13,18 +13,19 @@ This project uses `uv` for dependency management. To set up the project on a new
 
 2. **Sync the project dependencies:**
    ```bash
-   uv sync
+   uv sync --project scraper
    ```
 
 3. **Install Playwright Browsers:**
    Because this project uses Playwright to scrape content securely, you must install the required Chromium browser binaries.
    ```bash
-   uv run playwright install chromium
+   uv run --project scraper playwright install chromium
    ```
 
 ## Running the Scripts
 
-To update all data (events, movies, and real estate), run the main script:
+To update all data (events, movies, and real estate) in the root directory, run the main script from the repository root:
 ```bash
-uv run scrape_all.py
+uv run --project scraper scraper/scrape_all.py
 ```
+
