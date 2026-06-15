@@ -1,11 +1,34 @@
 [
   {
+    "title": "Disclosure Day",
+    "rating": "PG-13",
+    "score": "6.8",
+    "runtime": "2h 25m",
+    "genre": "Action",
+    "times": [
+      "9:45 AM",
+      "10:45 AM",
+      "12:00 PM",
+      "1:00 PM",
+      "1:55 PM",
+      "3:10 PM",
+      "4:10 PM",
+      "5:05 PM",
+      "6:20 PM",
+      "7:20 PM",
+      "8:15 PM",
+      "9:30 PM"
+    ],
+    "poster": "posters/disclosure-day.jpg"
+  },
+  {
     "title": "Obsession",
     "rating": "R",
     "score": "8.1",
     "runtime": "1h 48m",
     "genre": "Horror",
     "times": [
+      "11:15 AM",
       "1:45 PM",
       "4:15 PM",
       "6:45 PM",
@@ -35,6 +58,7 @@
     "runtime": "2h 20m",
     "genre": "Action",
     "times": [
+      "10:15 AM",
       "1:15 PM",
       "4:15 PM",
       "7:15 PM",
@@ -43,12 +67,27 @@
     "poster": "posters/masters-of-the-universe.jpg"
   },
   {
+    "title": "Michael",
+    "rating": "PG-13",
+    "score": "7.6",
+    "runtime": "2h 7m",
+    "genre": "Biography",
+    "times": [
+      "10:05 AM",
+      "1:00 PM",
+      "4:00 PM",
+      "7:00 PM"
+    ],
+    "poster": "posters/michael.jpg"
+  },
+  {
     "title": "Scary Movie",
     "rating": "R",
     "score": "5.4",
     "runtime": "1h 36m",
     "genre": "Comedy",
     "times": [
+      "10:00 AM",
       "12:30 PM",
       "3:00 PM",
       "5:30 PM",
@@ -58,49 +97,28 @@
     "poster": "posters/scary-movie.jpg"
   },
   {
-    "title": "Michael",
-    "rating": "PG-13",
-    "score": "7.6",
-    "runtime": "2h 7m",
-    "genre": "Biography",
-    "times": [
-      "1:00 PM",
-      "4:00 PM",
-      "7:00 PM"
-    ],
-    "poster": "posters/michael.jpg"
-  },
-  {
-    "title": "Disclosure Day",
-    "rating": "PG-13",
-    "score": "6.8",
-    "runtime": "2h 25m",
-    "genre": "Action",
-    "times": [
-      "1:00 PM",
-      "1:55 PM",
-      "3:10 PM",
-      "4:10 PM",
-      "5:05 PM",
-      "6:20 PM",
-      "7:20 PM",
-      "8:15 PM",
-      "9:30 PM",
-      "10:30 PM"
-    ],
-    "poster": "posters/disclosure-day.jpg"
-  },
-  {
     "title": "Star Wars: The Mandalorian and Grogu",
     "rating": "PG-13",
     "score": "7",
     "runtime": "2h 12m",
     "genre": "Action",
     "times": [
+      "10:30 AM",
       "1:30 PM",
       "4:30 PM",
       "7:30 PM"
     ],
     "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
+  },
+  {
+    "title": "The Breadwinner",
+    "rating": "PG",
+    "score": "6.3",
+    "runtime": "1h 39m",
+    "genre": "Comedy",
+    "times": [
+      "9:50 AM"
+    ],
+    "poster": "posters/the-breadwinner.jpg"
   }
 ]

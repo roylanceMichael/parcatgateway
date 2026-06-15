@@ -12,18 +12,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "Outdoor Urban Flea Market",
-    "date": "June 14 @ 10:00 am - 4:00 pm",
-    "description": "Join us every second Sunday for the season's Outdoor Urban Flea Market at The Gateway!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/04/urbanfleamarket-10-scaled.jpg"
-  },
-  {
-    "title": "UFC Freedom 250 Watch Party at Flanker",
-    "date": "June 14 @ 6:00 pm",
-    "description": "Head to Flanker to watch UFC Freedom 250 live on their LED screens!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/UFC-Freedom-250-6_14-Gateway.jpg"
-  },
-  {
     "title": "Friends First Tacos & Connections at Flanker",
     "date": "June 16 @ 5:00 pm",
     "description": "Enjoy Taco Tuesday at Flanker!",
@@ -52,5 +40,17 @@
     "date": "June 18 @ 5:00 pm",
     "description": "Enjoy Father's Day Weekend at Flanker with delicious food, draft beers, and watching the US Open ...",
     "image": "https://atthegateway.com/wp-content/uploads/2026/05/Fathers-Day-Open.jpg"
+  },
+  {
+    "title": "Juneteenth Celebration",
+    "date": "June 19 @ 12:00 pm",
+    "description": "Celebrate Juneteenth with food, a Black-owned Expo, art gallery, and so much more.",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Juneteenth-2022-40-scaled.jpg"
+  },
+  {
+    "title": "Live Nation Summer Concert Ticket Series with Flanker",
+    "date": "June 19 @ 5:00 pm",
+    "description": "Join in for a chance to win concert tickets with nearby venues!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Live-Nation-Concert-Series.jpg"
   }
 ]
