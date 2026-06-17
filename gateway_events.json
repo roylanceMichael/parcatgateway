@@ -12,12 +12,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "Friends First Tacos & Connections at Flanker",
-    "date": "June 16 @ 5:00 pm",
-    "description": "Enjoy Taco Tuesday at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/06/Friends-first-flanekr.jpg"
-  },
-  {
     "title": "Sunset Yoga",
     "date": "June 16 @ 7:00 pm - September 8 @ 8:00 pm",
     "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
@@ -42,15 +36,21 @@
     "image": "https://atthegateway.com/wp-content/uploads/2026/05/Fathers-Day-Open.jpg"
   },
   {
+    "title": "Soccer Watch Party at Flanker: Mexico vs Korea",
+    "date": "June 18 @ 7:00 pm",
+    "description": "Enjoy a watch party of the soccer game between Mexico and South Korea at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/06/flanker-watch-party.jpg"
+  },
+  {
     "title": "Juneteenth Celebration",
     "date": "June 19 @ 12:00 pm",
     "description": "Celebrate Juneteenth with food, a Black-owned Expo, art gallery, and so much more.",
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Juneteenth-2022-40-scaled.jpg"
   },
   {
-    "title": "Live Nation Summer Concert Ticket Series with Flanker",
+    "title": "My Tai Bar Now Open at Flanker",
     "date": "June 19 @ 5:00 pm",
-    "description": "Join in for a chance to win concert tickets with nearby venues!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Live-Nation-Concert-Series.jpg"
+    "description": "Enjoy island vibes at Flanker's new bar My Tai!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/My-Tai-Now-Open.jpg"
   }
 ]

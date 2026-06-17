@@ -69,11 +69,10 @@
   {
     "title": "Michael",
     "rating": "PG-13",
-    "score": "7.6",
+    "score": "7.5",
     "runtime": "2h 7m",
     "genre": "Biography",
     "times": [
-      "10:05 AM",
       "1:00 PM",
       "4:00 PM",
       "7:00 PM"
@@ -103,7 +102,6 @@
     "runtime": "2h 12m",
     "genre": "Action",
     "times": [
-      "10:30 AM",
       "1:30 PM",
       "4:30 PM",
       "7:30 PM"
@@ -113,12 +111,24 @@
   {
     "title": "The Breadwinner",
     "rating": "PG",
-    "score": "6.3",
+    "score": "6.2",
     "runtime": "1h 39m",
     "genre": "Comedy",
     "times": [
       "9:50 AM"
     ],
     "poster": "posters/the-breadwinner.jpg"
+  },
+  {
+    "title": "Dog Man",
+    "rating": "PG",
+    "score": "6.3",
+    "runtime": "1h 29m",
+    "genre": "Animation",
+    "times": [
+      "10:00 AM",
+      "10:15 AM"
+    ],
+    "poster": "posters/dog-man.jpg"
   }
 ]
