@@ -18,18 +18,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "801 Wednesdays at Flanker: $5 Local Brews",
-    "date": "June 17 @ 5:00 pm - 11:00 pm",
-    "description": "Enjoy $5 beers from local breweries at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/801-Wednesdays-.jpg"
-  },
-  {
-    "title": "Grow: A Critique Group for Artists",
-    "date": "June 17 @ 6:30 pm - 8:30 pm",
-    "description": "Bring your artwork to Urban Arts Gallery to receive feedback and grow with other artists!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/02/Grow.png"
-  },
-  {
     "title": "Fathers Day Open Weekend at Flanker",
     "date": "June 18 @ 5:00 pm",
     "description": "Enjoy Father's Day Weekend at Flanker with delicious food, draft beers, and watching the US Open ...",
@@ -52,5 +40,17 @@
     "date": "June 19 @ 5:00 pm",
     "description": "Enjoy island vibes at Flanker's new bar My Tai!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/05/My-Tai-Now-Open.jpg"
+  },
+  {
+    "title": "Fathers Day Open Weekend at Flanker",
+    "date": "June 19 @ 5:00 pm",
+    "description": "Enjoy Father's Day Weekend at Flanker with delicious food, draft beers, and watching the US Open ...",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Fathers-Day-Open.jpg"
+  },
+  {
+    "title": "Live Nation Summer Concert Ticket Series with Flanker",
+    "date": "June 19 @ 5:00 pm - 11:00 pm",
+    "description": "Join in for a chance to win concert tickets with nearby venues!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Watchouse_giveaway.jpg"
   }
 ]
