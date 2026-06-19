@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pest Control quarterly service",
+    "date": "July 20",
+    "badge": "Exclusive Offer",
+    "badgeColor": "green",
+    "details": [
+      "Optional interior general pest treatment is available at exclusive pricing for Parc homeowners.",
+      "• $35 if scheduled during quarterly service visit",
+      "• $75 if scheduled independently at another time",
+      "To schedule your interior treatment, contact Preventive Pest Control at 801-566-5590."
+    ]
+  },
+  {
+    "title": "Balcony Railing Inspections",
+    "date": "Action Requested",
+    "badge": "Resident Action",
+    "badgeColor": "red",
+    "details": [
+      "As a reminder, the HOA is responsible for railing maintenance. We kindly ask all residents to inspect their balcony railings.",
+      "If your railing appears rusted, loose, or damaged, please submit a maintenance request through Vantaca so it can be scheduled for repair."
+    ]
+  },
+  {
+    "title": "Parking Lot Pressure Washing",
+    "date": "Late June / Beg. of July",
+    "badge": "Upcoming Maintenance",
+    "badgeColor": "blue",
+    "details": [
+      "The parking lot will be pressure washed.",
+      "Exact dates will be posted on notice boards once confirmed. We appreciate your cooperation."
+    ]
+  },
+  {
+    "title": "Mandatory Dryer Vent Cleaning",
+    "date": "Coming Soon",
+    "badge": "Mandatory",
+    "badgeColor": "orange",
+    "details": [
+      "The HOA will soon be sending information regarding a mandatory safety dryer vent cleaning program for all units.",
+      "Please keep an eye on communications sent by PMSI for important details, scheduling, and instructions."
+    ]
+  }
+]

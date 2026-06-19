@@ -6,17 +6,11 @@
     "runtime": "2h 25m",
     "genre": "Action",
     "times": [
-      "9:45 AM",
       "10:45 AM",
       "12:00 PM",
-      "1:00 PM",
-      "1:55 PM",
       "3:10 PM",
-      "4:10 PM",
-      "5:05 PM",
       "6:20 PM",
-      "7:20 PM",
-      "8:15 PM",
+      "7:35 PM",
       "9:30 PM"
     ],
     "poster": "posters/disclosure-day.jpg"
@@ -28,11 +22,11 @@
     "runtime": "1h 48m",
     "genre": "Horror",
     "times": [
-      "11:15 AM",
-      "1:45 PM",
-      "4:15 PM",
-      "6:45 PM",
-      "9:15 PM"
+      "1:00 PM",
+      "3:30 PM",
+      "6:00 PM",
+      "8:30 PM",
+      "10:15 PM"
     ],
     "poster": "posters/obsession.jpg"
   },
@@ -43,41 +37,12 @@
     "runtime": "1h 50m",
     "genre": "Horror",
     "times": [
-      "12:15 PM",
-      "2:45 PM",
-      "5:15 PM",
-      "7:45 PM",
-      "10:15 PM"
+      "3:00 PM",
+      "5:30 PM",
+      "8:00 PM",
+      "10:30 PM"
     ],
     "poster": "posters/backrooms.jpg"
-  },
-  {
-    "title": "Masters of the Universe",
-    "rating": "PG-13",
-    "score": "7.1",
-    "runtime": "2h 20m",
-    "genre": "Action",
-    "times": [
-      "10:15 AM",
-      "1:15 PM",
-      "4:15 PM",
-      "7:15 PM",
-      "10:15 PM"
-    ],
-    "poster": "posters/masters-of-the-universe.jpg"
-  },
-  {
-    "title": "Michael",
-    "rating": "PG-13",
-    "score": "7.5",
-    "runtime": "2h 7m",
-    "genre": "Biography",
-    "times": [
-      "1:00 PM",
-      "4:00 PM",
-      "7:00 PM"
-    ],
-    "poster": "posters/michael.jpg"
   },
   {
     "title": "Scary Movie",
@@ -86,14 +51,32 @@
     "runtime": "1h 36m",
     "genre": "Comedy",
     "times": [
-      "10:00 AM",
-      "12:30 PM",
-      "3:00 PM",
-      "5:30 PM",
-      "8:00 PM",
-      "10:30 PM"
+      "5:00 PM",
+      "7:20 PM"
     ],
     "poster": "posters/scary-movie.jpg"
+  },
+  {
+    "title": "Toy Story 5",
+    "rating": "PG",
+    "score": "7.8",
+    "runtime": "1h 42m",
+    "genre": "Animation",
+    "times": [
+      "10:00 AM",
+      "10:15 AM",
+      "10:35 AM",
+      "11:00 AM",
+      "11:20 AM",
+      "11:45 AM",
+      "12:15 PM",
+      "12:30 PM",
+      "12:45 PM",
+      "1:30 PM",
+      "2:20 PM",
+      "2:45 PM"
+    ],
+    "poster": "posters/toy-story-5.jpg"
   },
   {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -102,33 +85,9 @@
     "runtime": "2h 12m",
     "genre": "Action",
     "times": [
-      "1:30 PM",
-      "4:30 PM",
-      "7:30 PM"
+      "1:40 PM",
+      "4:40 PM"
     ],
     "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
-  },
-  {
-    "title": "The Breadwinner",
-    "rating": "PG",
-    "score": "6.2",
-    "runtime": "1h 39m",
-    "genre": "Comedy",
-    "times": [
-      "9:50 AM"
-    ],
-    "poster": "posters/the-breadwinner.jpg"
-  },
-  {
-    "title": "Dog Man",
-    "rating": "PG",
-    "score": "6.3",
-    "runtime": "1h 29m",
-    "genre": "Animation",
-    "times": [
-      "10:00 AM",
-      "10:15 AM"
-    ],
-    "poster": "posters/dog-man.jpg"
   }
 ]

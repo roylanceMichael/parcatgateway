@@ -18,18 +18,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "Fathers Day Open Weekend at Flanker",
-    "date": "June 18 @ 5:00 pm",
-    "description": "Enjoy Father's Day Weekend at Flanker with delicious food, draft beers, and watching the US Open ...",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/05/Fathers-Day-Open.jpg"
-  },
-  {
-    "title": "Soccer Watch Party at Flanker: Mexico vs Korea",
-    "date": "June 18 @ 7:00 pm",
-    "description": "Enjoy a watch party of the soccer game between Mexico and South Korea at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/06/flanker-watch-party.jpg"
-  },
-  {
     "title": "Juneteenth Celebration",
     "date": "June 19 @ 12:00 pm",
     "description": "Celebrate Juneteenth with food, a Black-owned Expo, art gallery, and so much more.",
@@ -52,5 +40,17 @@
     "date": "June 19 @ 5:00 pm - 11:00 pm",
     "description": "Join in for a chance to win concert tickets with nearby venues!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/05/Watchouse_giveaway.jpg"
+  },
+  {
+    "title": "Live Nation Summer Concert Ticket Series with Flanker",
+    "date": "June 19 @ 5:00 pm - 11:00 pm",
+    "description": "Join in for a chance to win concert tickets with nearby venues!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/05/MGK_giveaway.jpg"
+  },
+  {
+    "title": "Art Stroll at The Gateway",
+    "date": "June 19 @ 6:00 pm - 9:00 pm",
+    "description": "Come to The Gateway to explore our new \"Vibrant Daydreams\" themed windows throughout the property...",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/03/Vibrant-Daydreams-Home-Block_Home-block-scaled.png"
   }
 ]
