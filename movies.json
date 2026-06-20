@@ -2,7 +2,7 @@
   {
     "title": "Disclosure Day",
     "rating": "PG-13",
-    "score": "6.8",
+    "score": "6.7",
     "runtime": "2h 25m",
     "genre": "Action",
     "times": [
@@ -10,7 +10,7 @@
       "12:00 PM",
       "3:10 PM",
       "6:20 PM",
-      "7:35 PM",
+      "7:50 PM",
       "9:30 PM"
     ],
     "poster": "posters/disclosure-day.jpg"
@@ -52,14 +52,15 @@
     "genre": "Comedy",
     "times": [
       "5:00 PM",
-      "7:20 PM"
+      "7:20 PM",
+      "9:45 PM"
     ],
     "poster": "posters/scary-movie.jpg"
   },
   {
     "title": "Toy Story 5",
     "rating": "PG",
-    "score": "7.8",
+    "score": "7.7",
     "runtime": "1h 42m",
     "genre": "Animation",
     "times": [
@@ -67,14 +68,14 @@
       "10:15 AM",
       "10:35 AM",
       "11:00 AM",
-      "11:20 AM",
+      "11:30 AM",
       "11:45 AM",
       "12:15 PM",
       "12:30 PM",
       "12:45 PM",
       "1:30 PM",
-      "2:20 PM",
-      "2:45 PM"
+      "2:00 PM",
+      "2:20 PM"
     ],
     "poster": "posters/toy-story-5.jpg"
   },
@@ -85,8 +86,8 @@
     "runtime": "2h 12m",
     "genre": "Action",
     "times": [
-      "1:40 PM",
-      "4:40 PM"
+      "1:55 PM",
+      "4:50 PM"
     ],
     "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
   }
