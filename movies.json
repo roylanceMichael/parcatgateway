@@ -10,7 +10,7 @@
       "3:30 PM",
       "6:00 PM",
       "8:30 PM",
-      "10:15 PM"
+      "9:25 PM"
     ],
     "poster": "posters/obsession.jpg"
   },
@@ -21,11 +21,10 @@
     "runtime": "2h 25m",
     "genre": "Action",
     "times": [
-      "10:45 AM",
+      "9:50 AM",
       "12:00 PM",
       "3:10 PM",
       "6:20 PM",
-      "7:50 PM",
       "9:30 PM"
     ],
     "poster": "posters/disclosure-day.jpg"
@@ -59,10 +58,8 @@
     "runtime": "1h 50m",
     "genre": "Horror",
     "times": [
-      "3:00 PM",
-      "5:30 PM",
-      "8:00 PM",
-      "10:30 PM"
+      "6:00 PM",
+      "8:30 PM"
     ],
     "poster": "posters/backrooms.jpg"
   },
@@ -73,9 +70,7 @@
     "runtime": "1h 36m",
     "genre": "Comedy",
     "times": [
-      "5:00 PM",
-      "7:20 PM",
-      "9:45 PM"
+      "9:15 PM"
     ],
     "poster": "posters/scary-movie.jpg"
   },
@@ -86,8 +81,8 @@
     "runtime": "2h 12m",
     "genre": "Action",
     "times": [
-      "1:55 PM",
-      "4:50 PM"
+      "1:00 PM",
+      "9:10 PM"
     ],
     "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
   }
