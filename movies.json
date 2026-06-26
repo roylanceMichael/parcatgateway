@@ -6,11 +6,10 @@
     "runtime": "1h 48m",
     "genre": "Horror",
     "times": [
-      "11:45 AM",
-      "2:15 PM",
-      "4:45 PM",
-      "7:15 PM",
-      "9:45 PM"
+      "1:20 PM",
+      "4:55 PM",
+      "6:55 PM",
+      "9:30 PM"
     ],
     "poster": "posters/obsession.jpg"
   },
@@ -21,9 +20,10 @@
     "runtime": "2h 25m",
     "genre": "Action",
     "times": [
-      "12:00 PM",
-      "6:20 PM",
-      "9:30 PM"
+      "12:40 PM",
+      "3:50 PM",
+      "7:00 PM",
+      "10:10 PM"
     ],
     "poster": "posters/disclosure-day.jpg"
   },
@@ -34,56 +34,67 @@
     "runtime": "1h 42m",
     "genre": "Animation",
     "times": [
+      "10:00 AM",
       "10:15 AM",
       "10:30 AM",
       "11:00 AM",
-      "11:20 AM",
+      "11:15 AM",
       "11:30 AM",
+      "12:00 PM",
       "12:30 PM",
-      "12:45 PM",
       "1:00 PM",
       "1:30 PM",
-      "2:00 PM",
-      "3:15 PM",
-      "4:00 PM"
+      "2:30 PM",
+      "3:00 PM"
     ],
     "poster": "posters/toy-story-5.jpg"
   },
   {
+    "title": "Backrooms",
+    "rating": "R",
+    "score": "7.1",
+    "runtime": "1h 50m",
+    "genre": "Horror",
+    "times": [
+      "8:30 PM"
+    ],
+    "poster": "posters/backrooms.jpg"
+  },
+  {
+    "title": "Scary Movie",
+    "rating": "R",
+    "score": "5.3",
+    "runtime": "1h 36m",
+    "genre": "Comedy",
+    "times": [
+      "8:00 PM"
+    ],
+    "poster": "posters/scary-movie.jpg"
+  },
+  {
     "title": "Supergirl",
     "rating": "PG-13",
-    "score": "6.1",
+    "score": "6",
     "runtime": "1h 47m",
     "genre": "Action",
     "times": [
-      "3:00 PM",
-      "3:25 PM",
-      "4:55 PM",
-      "5:35 PM",
-      "6:00 PM",
-      "7:30 PM",
-      "8:15 PM",
-      "8:35 PM",
-      "10:05 PM"
+      "9:45 AM",
+      "10:30 AM",
+      "12:30 PM",
+      "1:40 PM",
+      "3:20 PM",
+      "4:15 PM",
+      "6:15 PM",
+      "7:10 PM",
+      "9:05 PM",
+      "9:50 PM"
     ],
     "poster": "posters/supergirl.jpg"
   },
   {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "rating": "PG-13",
-    "score": "7",
-    "runtime": "2h 12m",
-    "genre": "Action",
-    "times": [
-      "10:45 AM",
-      "1:45 PM"
-    ],
-    "poster": "posters/star-wars-the-mandalorian-and-grogu.jpg"
-  },
-  {
     "title": "Jackass: Best and Last",
     "rating": "R",
-    "score": "NR",
+    "score": "7",
     "runtime": "1h 32m",
     "genre": "Documentary",
     "times": [
