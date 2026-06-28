@@ -24,12 +24,6 @@
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
   {
-    "title": "Goodies Party at Flanker",
-    "date": "June 27 @ 9:00 pm - June 28 @ 1:00 am",
-    "description": "Head to Flanker for a 90's and 2000's party!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/06/6_27_goodies.jpg"
-  },
-  {
     "title": "Sunset Yoga",
     "date": "June 30 @ 7:00 pm - September 22 @ 8:00 pm",
     "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
@@ -52,5 +46,11 @@
     "date": "July 4 @ 6:00 pm - 9:00 pm",
     "description": "Enjoy a fun night of creativity with your partner at couple's speed painting!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/02/Couples-Speed-Painting.png"
+  },
+  {
+    "title": "4th of July Celebration Presented by Liberty Sky Apartments and Liberty Gateway Apartments",
+    "date": "July 4 @ 6:00 pm - 10:00 pm",
+    "description": "Celebrate YOUR independence at The Gateway from 6-10 p.m. out on The Plaza.",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/01/4th-of-July-960x640-1-1.png"
   }
 ]
