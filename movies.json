@@ -1,5 +1,25 @@
 [
   {
+    "title": "Supergirl",
+    "rating": "PG-13",
+    "score": "6.2",
+    "runtime": "1h 47m",
+    "genre": "Action",
+    "times": [
+      "9:45 AM",
+      "10:30 AM",
+      "12:30 PM",
+      "1:40 PM",
+      "3:20 PM",
+      "4:15 PM",
+      "6:15 PM",
+      "7:10 PM",
+      "9:05 PM",
+      "9:50 PM"
+    ],
+    "poster": "posters/supergirl.jpg"
+  },
+  {
     "title": "Obsession",
     "rating": "R",
     "score": "8.1",
@@ -7,25 +27,9 @@
     "genre": "Horror",
     "times": [
       "1:20 PM",
-      "4:55 PM",
-      "6:55 PM",
-      "9:30 PM"
+      "4:55 PM"
     ],
     "poster": "posters/obsession.jpg"
-  },
-  {
-    "title": "Disclosure Day",
-    "rating": "PG-13",
-    "score": "6.7",
-    "runtime": "2h 25m",
-    "genre": "Action",
-    "times": [
-      "12:40 PM",
-      "3:50 PM",
-      "7:00 PM",
-      "10:10 PM"
-    ],
-    "poster": "posters/disclosure-day.jpg"
   },
   {
     "title": "Toy Story 5",
@@ -50,6 +54,20 @@
     "poster": "posters/toy-story-5.jpg"
   },
   {
+    "title": "Disclosure Day",
+    "rating": "PG-13",
+    "score": "6.7",
+    "runtime": "2h 25m",
+    "genre": "Action",
+    "times": [
+      "12:40 PM",
+      "3:50 PM",
+      "7:00 PM",
+      "10:10 PM"
+    ],
+    "poster": "posters/disclosure-day.jpg"
+  },
+  {
     "title": "Backrooms",
     "rating": "R",
     "score": "7.1",
@@ -59,37 +77,6 @@
       "8:30 PM"
     ],
     "poster": "posters/backrooms.jpg"
-  },
-  {
-    "title": "Scary Movie",
-    "rating": "R",
-    "score": "5.3",
-    "runtime": "1h 36m",
-    "genre": "Comedy",
-    "times": [
-      "8:00 PM"
-    ],
-    "poster": "posters/scary-movie.jpg"
-  },
-  {
-    "title": "Supergirl",
-    "rating": "PG-13",
-    "score": "6.1",
-    "runtime": "1h 47m",
-    "genre": "Action",
-    "times": [
-      "9:45 AM",
-      "10:30 AM",
-      "12:30 PM",
-      "1:40 PM",
-      "3:20 PM",
-      "4:15 PM",
-      "6:15 PM",
-      "7:10 PM",
-      "9:05 PM",
-      "9:50 PM"
-    ],
-    "poster": "posters/supergirl.jpg"
   },
   {
     "title": "Jackass: Best and Last",
@@ -104,5 +91,27 @@
       "9:00 PM"
     ],
     "poster": "posters/jackass-best-and-last.jpg"
+  },
+  {
+    "title": "Scary Movie",
+    "rating": "R",
+    "score": "5.3",
+    "runtime": "1h 36m",
+    "genre": "Comedy",
+    "times": [
+      "8:00 PM"
+    ],
+    "poster": "posters/scary-movie.jpg"
+  },
+  {
+    "title": "Das geheime Kino",
+    "rating": "NR",
+    "score": "7.2",
+    "runtime": "0h 33m",
+    "genre": "Documentary",
+    "times": [
+      "7:00 PM"
+    ],
+    "poster": ""
   }
 ]
