@@ -2,8 +2,8 @@
   {
     "title": "Supergirl",
     "rating": "PG-13",
-    "score": "6.2",
-    "runtime": "1h 47m",
+    "score": "6.1",
+    "runtime": "1h 48m",
     "genre": "Action",
     "times": [
       "9:45 AM",
@@ -27,7 +27,9 @@
     "genre": "Horror",
     "times": [
       "1:20 PM",
-      "4:55 PM"
+      "4:55 PM",
+      "6:55 PM",
+      "9:30 PM"
     ],
     "poster": "posters/obsession.jpg"
   },
@@ -81,7 +83,7 @@
   {
     "title": "Jackass: Best and Last",
     "rating": "R",
-    "score": "6.9",
+    "score": "6.8",
     "runtime": "1h 32m",
     "genre": "Documentary",
     "times": [
@@ -102,16 +104,5 @@
       "8:00 PM"
     ],
     "poster": "posters/scary-movie.jpg"
-  },
-  {
-    "title": "Das geheime Kino",
-    "rating": "NR",
-    "score": "7.2",
-    "runtime": "0h 33m",
-    "genre": "Documentary",
-    "times": [
-      "7:00 PM"
-    ],
-    "poster": ""
   }
 ]
