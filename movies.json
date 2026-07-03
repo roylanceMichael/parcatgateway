@@ -6,13 +6,26 @@
     "runtime": "1h 48m",
     "genre": "Action",
     "times": [
-      "10:45 AM",
-      "2:45 PM",
-      "5:00 PM",
-      "7:45 PM",
-      "10:30 PM"
+      "11:00 AM",
+      "1:40 PM",
+      "4:15 PM",
+      "6:50 PM",
+      "9:25 PM"
     ],
     "poster": "posters/supergirl.jpg"
+  },
+  {
+    "title": "Obsession",
+    "rating": "R",
+    "score": "8.1",
+    "runtime": "1h 48m",
+    "genre": "Horror",
+    "times": [
+      "2:10 PM",
+      "7:30 PM",
+      "10:00 PM"
+    ],
+    "poster": "posters/obsession.jpg"
   },
   {
     "title": "Toy Story 5",
@@ -21,17 +34,40 @@
     "runtime": "1h 42m",
     "genre": "Animation",
     "times": [
-      "10:30 AM",
+      "9:45 AM",
+      "10:45 AM",
+      "11:30 AM",
       "12:15 PM",
-      "1:00 PM",
-      "3:30 PM",
-      "4:30 PM",
-      "6:00 PM",
-      "7:00 PM",
-      "8:30 PM",
-      "9:30 PM"
+      "2:45 PM",
+      "5:15 PM",
+      "7:45 PM",
+      "10:15 PM"
     ],
     "poster": "posters/toy-story-5.jpg"
+  },
+  {
+    "title": "Disclosure Day",
+    "rating": "PG-13",
+    "score": "6.7",
+    "runtime": "2h 25m",
+    "genre": "Action",
+    "times": [
+      "2:55 PM",
+      "6:05 PM",
+      "9:15 PM"
+    ],
+    "poster": "posters/disclosure-day.jpg"
+  },
+  {
+    "title": "Backrooms",
+    "rating": "R",
+    "score": "7.1",
+    "runtime": "1h 50m",
+    "genre": "Horror",
+    "times": [
+      "10:15 PM"
+    ],
+    "poster": "posters/backrooms.jpg"
   },
   {
     "title": "Jackass: Best and Last",
@@ -40,40 +76,53 @@
     "runtime": "1h 32m",
     "genre": "Documentary",
     "times": [
-      "5:20 PM",
-      "7:40 PM",
-      "10:00 PM"
+      "10:10 AM",
+      "2:40 PM",
+      "5:00 PM",
+      "7:20 PM",
+      "9:40 PM"
     ],
     "poster": "posters/jackass-best-and-last.jpg"
   },
   {
     "title": "Minions & Monsters",
     "rating": "PG",
-    "score": "6.4",
+    "score": "6.6",
     "runtime": "1h 30m",
     "genre": "Animation",
     "times": [
-      "9:45 AM",
-      "12:00 PM",
-      "2:15 PM",
-      "4:45 PM",
+      "10:45 AM",
+      "12:30 PM",
+      "1:00 PM",
+      "1:30 PM",
+      "3:15 PM",
+      "3:50 PM",
       "5:30 PM",
-      "7:00 PM",
-      "7:55 PM",
-      "9:15 PM"
+      "6:10 PM",
+      "8:00 PM",
+      "8:25 PM"
     ],
     "poster": "posters/minions-monsters.jpg"
   },
   {
-    "title": "Curious George",
-    "rating": "G",
-    "score": "6.5",
-    "runtime": "1h 27m",
-    "genre": "Animation",
+    "title": "Young Washington",
+    "rating": "PG-13",
+    "score": "5.8",
+    "runtime": "2h 5m",
+    "genre": "Action",
     "times": [
       "10:00 AM",
-      "10:15 AM"
+      "11:15 AM",
+      "12:00 PM",
+      "12:50 PM",
+      "2:50 PM",
+      "3:40 PM",
+      "4:40 PM",
+      "5:40 PM",
+      "6:30 PM",
+      "8:30 PM",
+      "9:20 PM"
     ],
-    "poster": "posters/curious-george.jpg"
+    "poster": "posters/young-washington.jpg"
   }
 ]
