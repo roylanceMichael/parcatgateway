@@ -22,6 +22,7 @@
     "genre": "Horror",
     "times": [
       "2:10 PM",
+      "4:45 PM",
       "7:30 PM",
       "10:00 PM"
     ],
@@ -52,6 +53,7 @@
     "runtime": "2h 25m",
     "genre": "Action",
     "times": [
+      "11:45 AM",
       "2:55 PM",
       "6:05 PM",
       "9:15 PM"
@@ -61,7 +63,7 @@
   {
     "title": "Backrooms",
     "rating": "R",
-    "score": "7.1",
+    "score": "7",
     "runtime": "1h 50m",
     "genre": "Horror",
     "times": [
@@ -107,17 +109,15 @@
   {
     "title": "Young Washington",
     "rating": "PG-13",
-    "score": "5.8",
+    "score": "6.8",
     "runtime": "2h 5m",
     "genre": "Action",
     "times": [
       "10:00 AM",
-      "11:15 AM",
       "12:00 PM",
       "12:50 PM",
       "2:50 PM",
       "3:40 PM",
-      "4:40 PM",
       "5:40 PM",
       "6:30 PM",
       "8:30 PM",
