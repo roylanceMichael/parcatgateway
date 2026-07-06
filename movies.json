@@ -1,31 +1,62 @@
 [
   {
-    "title": "Supergirl",
-    "rating": "PG-13",
-    "score": "6.1",
-    "runtime": "1h 48m",
-    "genre": "Action",
-    "times": [
-      "12:35 PM",
-      "1:40 PM",
-      "6:00 PM",
-      "8:35 PM"
-    ],
-    "poster": "posters/supergirl.jpg"
-  },
-  {
     "title": "Obsession",
     "rating": "R",
     "score": "8",
     "runtime": "1h 48m",
     "genre": "Horror",
     "times": [
-      "3:15 PM",
+      "2:10 PM",
       "4:45 PM",
       "7:30 PM",
       "10:00 PM"
     ],
     "poster": "posters/obsession.jpg"
+  },
+  {
+    "title": "Supergirl",
+    "rating": "PG-13",
+    "score": "6.1",
+    "runtime": "1h 48m",
+    "genre": "Action",
+    "times": [
+      "11:00 AM",
+      "1:40 PM",
+      "4:15 PM",
+      "6:50 PM",
+      "9:25 PM"
+    ],
+    "poster": "posters/supergirl.jpg"
+  },
+  {
+    "title": "Backrooms",
+    "rating": "R",
+    "score": "7",
+    "runtime": "1h 50m",
+    "genre": "Horror",
+    "times": [
+      "10:15 PM"
+    ],
+    "poster": "posters/backrooms.jpg"
+  },
+  {
+    "title": "Young Washington",
+    "rating": "PG-13",
+    "score": "7.3",
+    "runtime": "2h 5m",
+    "genre": "Action",
+    "times": [
+      "10:00 AM",
+      "12:00 PM",
+      "12:50 PM",
+      "2:50 PM",
+      "3:40 PM",
+      "5:40 PM",
+      "6:30 PM",
+      "8:30 PM",
+      "9:20 PM"
+    ],
+    "poster": "posters/young-washington.jpg"
   },
   {
     "title": "Toy Story 5",
@@ -35,8 +66,8 @@
     "genre": "Animation",
     "times": [
       "9:45 AM",
-      "10:15 AM",
-      "11:10 AM",
+      "10:45 AM",
+      "11:30 AM",
       "12:15 PM",
       "2:45 PM",
       "5:15 PM",
@@ -60,38 +91,16 @@
     "poster": "posters/disclosure-day.jpg"
   },
   {
-    "title": "Backrooms",
-    "rating": "R",
-    "score": "7",
-    "runtime": "1h 50m",
-    "genre": "Horror",
-    "times": [
-      "10:15 PM"
-    ],
-    "poster": "posters/backrooms.jpg"
-  },
-  {
-    "title": "Jackass: Best and Last",
-    "rating": "R",
-    "score": "6.8",
-    "runtime": "1h 32m",
-    "genre": "Documentary",
-    "times": [
-      "5:00 PM",
-      "7:20 PM",
-      "9:40 PM"
-    ],
-    "poster": "posters/jackass-best-and-last.jpg"
-  },
-  {
     "title": "Minions & Monsters",
     "rating": "PG",
     "score": "6.6",
     "runtime": "1h 30m",
     "genre": "Animation",
     "times": [
-      "10:00 AM",
-      "10:30 AM",
+      "10:45 AM",
+      "12:30 PM",
+      "1:00 PM",
+      "1:30 PM",
       "3:15 PM",
       "3:50 PM",
       "5:30 PM",
@@ -102,22 +111,18 @@
     "poster": "posters/minions-monsters.jpg"
   },
   {
-    "title": "Young Washington",
-    "rating": "PG-13",
-    "score": "7.2",
-    "runtime": "2h 5m",
-    "genre": "Action",
+    "title": "Jackass: Best and Last",
+    "rating": "R",
+    "score": "6.8",
+    "runtime": "1h 32m",
+    "genre": "Documentary",
     "times": [
-      "10:30 AM",
-      "12:00 PM",
-      "1:20 PM",
-      "2:50 PM",
-      "4:10 PM",
-      "5:40 PM",
-      "7:00 PM",
-      "8:30 PM",
-      "9:50 PM"
+      "10:10 AM",
+      "2:40 PM",
+      "5:00 PM",
+      "7:20 PM",
+      "9:40 PM"
     ],
-    "poster": "posters/young-washington.jpg"
+    "poster": "posters/jackass-best-and-last.jpg"
   }
 ]
