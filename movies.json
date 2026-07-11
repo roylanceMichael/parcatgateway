@@ -65,22 +65,23 @@
       "12:15 PM",
       "2:30 PM",
       "4:45 PM",
-      "7:00 PM",
-      "9:25 PM"
+      "7:00 PM"
     ],
     "poster": "posters/minions-monsters.jpg"
   },
   {
     "title": "The Invite",
     "rating": "R",
-    "score": "7.8",
+    "score": "7.9",
     "runtime": "1h 47m",
     "genre": "Comedy",
     "times": [
       "12:25 PM",
       "3:00 PM",
       "5:30 PM",
-      "8:00 PM"
+      "8:00 PM",
+      "9:20 PM",
+      "10:30 PM"
     ],
     "poster": "posters/the-invite.jpg"
   },
