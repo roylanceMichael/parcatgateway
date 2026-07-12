@@ -24,7 +24,7 @@
   {
     "title": "Young Washington",
     "rating": "PG-13",
-    "score": "7.4",
+    "score": "7.5",
     "runtime": "2h 1m",
     "genre": "Action",
     "times": [
@@ -79,16 +79,14 @@
       "12:25 PM",
       "3:00 PM",
       "5:30 PM",
-      "8:00 PM",
-      "9:20 PM",
-      "10:30 PM"
+      "8:00 PM"
     ],
     "poster": "posters/the-invite.jpg"
   },
   {
     "title": "Moana",
     "rating": "PG",
-    "score": "5.6",
+    "score": "5.8",
     "runtime": "1h 55m",
     "genre": "Action",
     "times": [
