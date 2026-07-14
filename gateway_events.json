@@ -1,43 +1,7 @@
 [
   {
     "title": "Sunset Yoga",
-    "date": "June 2 @ 7:00 pm - August 25 @ 8:00 pm",
-    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Sunset Yoga",
-    "date": "June 9 @ 7:00 pm - September 1 @ 8:00 pm",
-    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Sunset Yoga",
-    "date": "June 16 @ 7:00 pm - September 8 @ 8:00 pm",
-    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Sunset Yoga",
-    "date": "June 23 @ 7:00 pm - September 15 @ 8:00 pm",
-    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Sunset Yoga",
-    "date": "June 30 @ 7:00 pm - September 22 @ 8:00 pm",
-    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Sunset Yoga",
-    "date": "July 7 @ 7:00 pm - September 29 @ 8:00 pm",
-    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Sunset Yoga",
-    "date": "July 14 @ 7:00 pm - October 6 @ 8:00 pm",
+    "date": "July 14 @ 7:00 pm - August 18 @ 8:00 pm",
     "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
   },
@@ -52,5 +16,41 @@
     "date": "July 17 @ 6:00 pm - 9:00 pm",
     "description": "Come to The Gateway to explore our new \"Vibrant Daydreams\" themed windows throughout the property...",
     "image": "https://atthegateway.com/wp-content/uploads/2026/03/Vibrant-Daydreams-Home-Block_Home-block-scaled.png"
+  },
+  {
+    "title": "Buck Off Bull Riding Competition at Flanker",
+    "date": "July 17 @ 10:00 pm - July 18 @ 1:00 am",
+    "description": "Compete for all kinds of prizes at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/07/Buck-Off-717.jpg"
+  },
+  {
+    "title": "Bohemian Bum Farmer\u2019s Market",
+    "date": "July 19 @ 10:00 am - 3:00 pm",
+    "description": "Join us for a treasure trove of unique goods, delectable treats, and a warm, welcoming atmosphere!",
+    "image": "https://atthegateway.com/wp-content/uploads/2019/02/Bohemian-Bum-Farmers-Market-2024.jpg"
+  },
+  {
+    "title": "Pre Days of 47 Rodeo Party at Flanker with Gather Girls",
+    "date": "July 21 @ 6:00 pm - 8:00 pm",
+    "description": "Enjoy a pre-party for the Days of 47 Rodeo at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/07/Pre-47-721.jpg"
+  },
+  {
+    "title": "Sunset Yoga",
+    "date": "July 21 @ 7:00 pm - August 25 @ 8:00 pm",
+    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
+  },
+  {
+    "title": "Live Nation\u2019s Summer of Live at Flanker",
+    "date": "July 22 @ 5:00 pm",
+    "description": "Enjoy the best Live Nation ticket deals with Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/06/Live-Nation-Lawn-Seats-960x640-1.jpg"
+  },
+  {
+    "title": "Taco Tuesday \u2013 $3 Tacos at Flanker",
+    "date": "July 28 @ 5:00 pm - 11:00 pm",
+    "description": "Enjoy delicious tacos every Tuesday at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/07/TacoTuesday_updated.jpg"
   }
 ]

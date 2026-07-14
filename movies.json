@@ -11,82 +11,24 @@
     "poster": "posters/obsession.jpg"
   },
   {
-    "title": "Supergirl",
-    "rating": "PG-13",
-    "score": "6.1",
-    "runtime": "1h 48m",
-    "genre": "Action",
-    "times": [
-      "10:15 PM"
-    ],
-    "poster": "posters/supergirl.jpg"
-  },
-  {
-    "title": "Young Washington",
-    "rating": "PG-13",
-    "score": "7.5",
-    "runtime": "2h 1m",
-    "genre": "Action",
-    "times": [
-      "11:00 AM",
-      "12:30 PM",
-      "1:50 PM",
-      "3:20 PM",
-      "4:40 PM",
-      "6:10 PM",
-      "7:30 PM",
-      "9:00 PM"
-    ],
-    "poster": "posters/young-washington.jpg"
-  },
-  {
-    "title": "Toy Story 5",
-    "rating": "PG",
-    "score": "7.5",
-    "runtime": "1h 42m",
-    "genre": "Animation",
-    "times": [
-      "11:15 AM",
-      "1:45 PM",
-      "4:15 PM",
-      "6:45 PM",
-      "9:15 PM"
-    ],
-    "poster": "posters/toy-story-5.jpg"
-  },
-  {
-    "title": "Minions & Monsters",
-    "rating": "PG",
-    "score": "6.5",
-    "runtime": "1h 30m",
-    "genre": "Animation",
-    "times": [
-      "10:00 AM",
-      "12:15 PM",
-      "2:30 PM",
-      "4:45 PM",
-      "7:00 PM"
-    ],
-    "poster": "posters/minions-monsters.jpg"
-  },
-  {
-    "title": "The Invite",
+    "title": "Evil Dead Burn",
     "rating": "R",
-    "score": "7.9",
-    "runtime": "1h 47m",
-    "genre": "Comedy",
+    "score": "6.8",
+    "runtime": "1h 50m",
+    "genre": "Fantasy",
     "times": [
-      "12:25 PM",
-      "3:00 PM",
-      "5:30 PM",
-      "8:00 PM"
+      "11:25 AM",
+      "2:00 PM",
+      "4:30 PM",
+      "7:15 PM",
+      "9:50 PM"
     ],
-    "poster": "posters/the-invite.jpg"
+    "poster": "posters/evil-dead-burn.jpg"
   },
   {
     "title": "Moana",
     "rating": "PG",
-    "score": "5.8",
+    "score": "5.7",
     "runtime": "1h 55m",
     "genre": "Action",
     "times": [
@@ -106,18 +48,76 @@
     "poster": "posters/moana.jpg"
   },
   {
-    "title": "Evil Dead Burn",
+    "title": "The Invite",
     "rating": "R",
-    "score": "6.9",
-    "runtime": "1h 50m",
-    "genre": "Fantasy",
+    "score": "7.9",
+    "runtime": "1h 47m",
+    "genre": "Comedy",
     "times": [
-      "11:25 AM",
-      "2:00 PM",
-      "4:30 PM",
-      "7:15 PM",
-      "9:50 PM"
+      "12:25 PM",
+      "3:00 PM",
+      "5:30 PM",
+      "8:00 PM"
     ],
-    "poster": "posters/evil-dead-burn.jpg"
+    "poster": "posters/the-invite.jpg"
+  },
+  {
+    "title": "Toy Story 5",
+    "rating": "PG",
+    "score": "7.5",
+    "runtime": "1h 42m",
+    "genre": "Animation",
+    "times": [
+      "11:15 AM",
+      "1:45 PM",
+      "4:15 PM",
+      "6:45 PM",
+      "9:15 PM"
+    ],
+    "poster": "posters/toy-story-5.jpg"
+  },
+  {
+    "title": "Supergirl",
+    "rating": "PG-13",
+    "score": "6.1",
+    "runtime": "1h 48m",
+    "genre": "Action",
+    "times": [
+      "10:15 PM"
+    ],
+    "poster": "posters/supergirl.jpg"
+  },
+  {
+    "title": "Minions & Monsters",
+    "rating": "PG",
+    "score": "6.5",
+    "runtime": "1h 30m",
+    "genre": "Animation",
+    "times": [
+      "10:00 AM",
+      "12:15 PM",
+      "2:30 PM",
+      "4:45 PM",
+      "7:00 PM"
+    ],
+    "poster": "posters/minions-monsters.jpg"
+  },
+  {
+    "title": "Young Washington",
+    "rating": "PG-13",
+    "score": "7.4",
+    "runtime": "2h 1m",
+    "genre": "Action",
+    "times": [
+      "11:00 AM",
+      "12:30 PM",
+      "1:50 PM",
+      "3:20 PM",
+      "4:40 PM",
+      "6:10 PM",
+      "7:30 PM",
+      "9:00 PM"
+    ],
+    "poster": "posters/young-washington.jpg"
   }
 ]
