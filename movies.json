@@ -1,14 +1,24 @@
 [
   {
-    "title": "Obsession",
+    "title": "The Odyssey",
     "rating": "R",
-    "score": "8",
-    "runtime": "1h 48m",
-    "genre": "Horror",
+    "score": "NR",
+    "runtime": "2h 52m",
+    "genre": "Adventure",
     "times": [
-      "9:30 PM"
+      "2:00 PM",
+      "2:30 PM",
+      "4:00 PM",
+      "5:45 PM",
+      "6:15 PM",
+      "6:45 PM",
+      "7:30 PM",
+      "7:45 PM",
+      "8:00 PM",
+      "9:30 PM",
+      "10:00 PM"
     ],
-    "poster": "posters/obsession.jpg"
+    "poster": "posters/the-odyssey.jpg"
   },
   {
     "title": "Evil Dead Burn",
@@ -34,16 +44,12 @@
     "times": [
       "10:15 AM",
       "10:45 AM",
+      "11:30 AM",
       "1:00 PM",
-      "1:30 PM",
       "2:15 PM",
-      "3:45 PM",
-      "4:10 PM",
       "5:00 PM",
-      "6:30 PM",
-      "6:50 PM",
       "7:45 PM",
-      "9:10 PM"
+      "10:30 PM"
     ],
     "poster": "posters/moana.jpg"
   },
@@ -56,8 +62,7 @@
     "times": [
       "12:25 PM",
       "3:00 PM",
-      "5:30 PM",
-      "8:00 PM"
+      "5:30 PM"
     ],
     "poster": "posters/the-invite.jpg"
   },
@@ -70,9 +75,7 @@
     "times": [
       "11:15 AM",
       "1:45 PM",
-      "4:15 PM",
-      "6:45 PM",
-      "9:15 PM"
+      "4:15 PM"
     ],
     "poster": "posters/toy-story-5.jpg"
   },
@@ -97,8 +100,7 @@
       "10:00 AM",
       "12:15 PM",
       "2:30 PM",
-      "4:45 PM",
-      "7:00 PM"
+      "4:45 PM"
     ],
     "poster": "posters/minions-monsters.jpg"
   },
@@ -109,26 +111,11 @@
     "runtime": "2h 1m",
     "genre": "Action",
     "times": [
-      "12:30 PM",
+      "10:30 AM",
       "1:35 PM",
-      "3:20 PM",
       "4:25 PM",
-      "6:10 PM",
-      "7:15 PM",
-      "9:00 PM"
+      "7:15 PM"
     ],
     "poster": "posters/young-washington.jpg"
-  },
-  {
-    "title": "Gabby's Dollhouse: The Movie",
-    "rating": "G",
-    "score": "5.4",
-    "runtime": "1h 38m",
-    "genre": "Animation",
-    "times": [
-      "10:00 AM",
-      "10:15 AM"
-    ],
-    "poster": "posters/gabby-s-dollhouse-the-movie.jpg"
   }
 ]
