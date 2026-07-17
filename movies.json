@@ -6,32 +6,43 @@
     "runtime": "2h 52m",
     "genre": "Adventure",
     "times": [
+      "9:30 AM",
+      "10:15 AM",
+      "10:45 AM",
+      "11:15 AM",
+      "12:45 PM",
+      "1:15 PM",
       "2:00 PM",
       "2:30 PM",
-      "4:00 PM",
-      "5:45 PM",
-      "6:15 PM",
-      "6:45 PM",
-      "7:30 PM",
-      "7:45 PM",
-      "8:00 PM",
-      "9:30 PM",
-      "10:00 PM"
+      "3:00 PM",
+      "4:30 PM",
+      "5:00 PM",
+      "5:45 PM"
     ],
     "poster": "posters/the-odyssey.jpg"
   },
   {
+    "title": "Obsession",
+    "rating": "R",
+    "score": "7.9",
+    "runtime": "1h 48m",
+    "genre": "Horror",
+    "times": [
+      "9:00 PM"
+    ],
+    "poster": "posters/obsession.jpg"
+  },
+  {
     "title": "Evil Dead Burn",
     "rating": "R",
-    "score": "6.8",
+    "score": "6.7",
     "runtime": "1h 50m",
     "genre": "Fantasy",
     "times": [
-      "11:25 AM",
-      "2:00 PM",
-      "4:30 PM",
-      "7:15 PM",
-      "9:50 PM"
+      "11:45 AM",
+      "2:20 PM",
+      "7:30 PM",
+      "10:05 PM"
     ],
     "poster": "posters/evil-dead-burn.jpg"
   },
@@ -42,14 +53,11 @@
     "runtime": "1h 55m",
     "genre": "Action",
     "times": [
-      "10:15 AM",
-      "10:45 AM",
-      "11:30 AM",
-      "1:00 PM",
-      "2:15 PM",
-      "5:00 PM",
-      "7:45 PM",
-      "10:30 PM"
+      "10:30 AM",
+      "1:15 PM",
+      "4:00 PM",
+      "6:45 PM",
+      "9:30 PM"
     ],
     "poster": "posters/moana.jpg"
   },
@@ -60,35 +68,11 @@
     "runtime": "1h 47m",
     "genre": "Comedy",
     "times": [
-      "12:25 PM",
-      "3:00 PM",
-      "5:30 PM"
+      "4:55 PM",
+      "8:10 PM",
+      "9:25 PM"
     ],
     "poster": "posters/the-invite.jpg"
-  },
-  {
-    "title": "Toy Story 5",
-    "rating": "PG",
-    "score": "7.5",
-    "runtime": "1h 42m",
-    "genre": "Animation",
-    "times": [
-      "11:15 AM",
-      "1:45 PM",
-      "4:15 PM"
-    ],
-    "poster": "posters/toy-story-5.jpg"
-  },
-  {
-    "title": "Supergirl",
-    "rating": "PG-13",
-    "score": "6.1",
-    "runtime": "1h 48m",
-    "genre": "Action",
-    "times": [
-      "10:15 PM"
-    ],
-    "poster": "posters/supergirl.jpg"
   },
   {
     "title": "Minions & Monsters",
@@ -100,7 +84,8 @@
       "10:00 AM",
       "12:15 PM",
       "2:30 PM",
-      "4:45 PM"
+      "4:45 PM",
+      "7:00 PM"
     ],
     "poster": "posters/minions-monsters.jpg"
   },
@@ -111,10 +96,10 @@
     "runtime": "2h 1m",
     "genre": "Action",
     "times": [
-      "10:30 AM",
-      "1:35 PM",
-      "4:25 PM",
-      "7:15 PM"
+      "9:50 AM",
+      "12:30 PM",
+      "3:20 PM",
+      "6:10 PM"
     ],
     "poster": "posters/young-washington.jpg"
   }
