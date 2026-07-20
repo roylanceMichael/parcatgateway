@@ -33,6 +33,19 @@
     "poster": "posters/obsession.jpg"
   },
   {
+    "title": "The Invite",
+    "rating": "R",
+    "score": "7.9",
+    "runtime": "1h 47m",
+    "genre": "Comedy",
+    "times": [
+      "4:55 PM",
+      "8:10 PM",
+      "9:25 PM"
+    ],
+    "poster": "posters/the-invite.jpg"
+  },
+  {
     "title": "Evil Dead Burn",
     "rating": "R",
     "score": "6.7",
@@ -60,19 +73,6 @@
       "9:30 PM"
     ],
     "poster": "posters/moana.jpg"
-  },
-  {
-    "title": "The Invite",
-    "rating": "R",
-    "score": "7.9",
-    "runtime": "1h 47m",
-    "genre": "Comedy",
-    "times": [
-      "4:55 PM",
-      "8:10 PM",
-      "9:25 PM"
-    ],
-    "poster": "posters/the-invite.jpg"
   },
   {
     "title": "Minions & Monsters",
