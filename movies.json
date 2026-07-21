@@ -6,6 +6,7 @@
     "runtime": "2h 52m",
     "genre": "Adventure",
     "times": [
+      "9:30 AM",
       "10:15 AM",
       "10:45 AM",
       "11:15 AM",
@@ -16,8 +17,7 @@
       "3:00 PM",
       "4:30 PM",
       "5:00 PM",
-      "5:45 PM",
-      "6:15 PM"
+      "5:45 PM"
     ],
     "poster": "posters/the-odyssey.jpg"
   },
@@ -25,7 +25,7 @@
     "title": "Obsession",
     "rating": "R",
     "score": "7.9",
-    "runtime": "1h 48m",
+    "runtime": "1h 49m",
     "genre": "Horror",
     "times": [
       "9:00 PM"
@@ -40,8 +40,7 @@
     "genre": "Comedy",
     "times": [
       "4:55 PM",
-      "8:10 PM",
-      "9:25 PM"
+      "8:10 PM"
     ],
     "poster": "posters/the-invite.jpg"
   },
@@ -50,7 +49,7 @@
     "rating": "R",
     "score": "6.7",
     "runtime": "1h 50m",
-    "genre": "Fantasy",
+    "genre": "Horror",
     "times": [
       "11:45 AM",
       "2:20 PM",
@@ -84,8 +83,7 @@
       "10:00 AM",
       "12:15 PM",
       "2:30 PM",
-      "4:45 PM",
-      "7:00 PM"
+      "4:45 PM"
     ],
     "poster": "posters/minions-monsters.jpg"
   },
@@ -96,6 +94,7 @@
     "runtime": "2h 1m",
     "genre": "Action",
     "times": [
+      "9:50 AM",
       "12:30 PM",
       "3:20 PM",
       "6:10 PM"
