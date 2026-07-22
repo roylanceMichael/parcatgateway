@@ -2,11 +2,10 @@
   {
     "title": "The Odyssey",
     "rating": "R",
-    "score": "8.4",
+    "score": "8.5",
     "runtime": "2h 52m",
     "genre": "Adventure",
     "times": [
-      "9:30 AM",
       "10:15 AM",
       "10:45 AM",
       "11:15 AM",
@@ -17,7 +16,8 @@
       "3:00 PM",
       "4:30 PM",
       "5:00 PM",
-      "5:45 PM"
+      "5:45 PM",
+      "6:15 PM"
     ],
     "poster": "posters/the-odyssey.jpg"
   },
@@ -65,7 +65,6 @@
     "runtime": "1h 55m",
     "genre": "Action",
     "times": [
-      "10:30 AM",
       "1:15 PM",
       "4:00 PM",
       "6:45 PM",
@@ -80,10 +79,9 @@
     "runtime": "1h 30m",
     "genre": "Animation",
     "times": [
-      "10:00 AM",
-      "12:15 PM",
-      "2:30 PM",
-      "4:45 PM"
+      "10:05 AM",
+      "1:30 PM",
+      "3:45 PM"
     ],
     "poster": "posters/minions-monsters.jpg"
   },
@@ -94,11 +92,22 @@
     "runtime": "2h 1m",
     "genre": "Action",
     "times": [
-      "9:50 AM",
       "12:30 PM",
       "3:20 PM",
       "6:10 PM"
     ],
     "poster": "posters/young-washington.jpg"
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "rating": "PG",
+    "score": "6.3",
+    "runtime": "1h 34m",
+    "genre": "Animation",
+    "times": [
+      "10:00 AM",
+      "10:15 AM"
+    ],
+    "poster": "posters/kung-fu-panda-4.jpg"
   }
 ]
