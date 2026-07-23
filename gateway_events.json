@@ -1,29 +1,5 @@
 [
   {
-    "title": "Sunset Yoga",
-    "date": "July 14 @ 7:00 pm - August 18 @ 8:00 pm",
-    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Sunset Yoga",
-    "date": "July 21 @ 7:00 pm - August 25 @ 8:00 pm",
-    "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
-    "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
-  },
-  {
-    "title": "Live Nation\u2019s Summer of Live at Flanker",
-    "date": "July 22 @ 5:00 pm",
-    "description": "Enjoy the best Live Nation ticket deals with Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/06/Live-Nation-Lawn-Seats-960x640-1.jpg"
-  },
-  {
-    "title": "Flanker\u2019s Whiskey Wednesdays",
-    "date": "July 22 @ 5:00 pm - 11:00 pm",
-    "description": "Head to Flanker enjoy Wednesday-only specials!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/07/Whiskey-Wednesday.jpg"
-  },
-  {
     "title": "Flanker Beer Blowout",
     "date": "July 23",
     "description": "Enjoy beer specials at Flanker!",
@@ -49,8 +25,32 @@
   },
   {
     "title": "Sunset Yoga",
-    "date": "July 28 @ 7:00 pm - September 1 @ 8:00 pm",
+    "date": "July 28 @ 7:00 pm - August 18 @ 8:00 pm",
     "description": "Join us at The Olympic Plaza for a FREE outdoor yoga class!",
     "image": "https://atthegateway.com/wp-content/uploads/2024/05/Sunset-Yoga-960x640_Website-960x640-1-scaled.png"
+  },
+  {
+    "title": "Live Nation\u2019s Summer of Live at Flanker",
+    "date": "July 29 @ 5:00 pm",
+    "description": "Enjoy the best Live Nation ticket deals with Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/06/Live-Nation-Lawn-Seats-960x640-1.jpg"
+  },
+  {
+    "title": "Flanker\u2019s Whiskey Wednesdays",
+    "date": "July 29 @ 5:00 pm - 11:00 pm",
+    "description": "Head to Flanker enjoy Wednesday-only specials!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/07/Whiskey-Wednesday.jpg"
+  },
+  {
+    "title": "Flanker Beer Blowout",
+    "date": "July 30",
+    "description": "Enjoy beer specials at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/07/730-960x640-1.jpg"
+  },
+  {
+    "title": "Buck Off Bull Riding Competition at Flanker",
+    "date": "July 31 @ 10:00 pm - August 1 @ 1:00 am",
+    "description": "Compete for all kinds of prizes at Flanker!",
+    "image": "https://atthegateway.com/wp-content/uploads/2026/07/Buck-Off-731.jpg"
   }
 ]
