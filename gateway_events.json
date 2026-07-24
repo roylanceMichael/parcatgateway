@@ -1,11 +1,5 @@
 [
   {
-    "title": "Flanker Beer Blowout",
-    "date": "July 23",
-    "description": "Enjoy beer specials at Flanker!",
-    "image": "https://atthegateway.com/wp-content/uploads/2026/07/723-960x640-1.jpg"
-  },
-  {
     "title": "Pie and Beer Day at Flanker",
     "date": "July 24",
     "description": "Celebrate Pie and Beer Day at Flanker!",
@@ -52,5 +46,11 @@
     "date": "July 31 @ 10:00 pm - August 1 @ 1:00 am",
     "description": "Compete for all kinds of prizes at Flanker!",
     "image": "https://atthegateway.com/wp-content/uploads/2026/07/Buck-Off-731.jpg"
+  },
+  {
+    "title": "The Makers Hive Market Night Market",
+    "date": "August 1 @ 5:00 pm - 9:00 pm",
+    "description": "Come check out The Makers Hive Market at The Gateway for live music and local vendors!",
+    "image": "https://atthegateway.com/wp-content/uploads/2024/04/Hive-Market-31-scaled.jpg"
   }
 ]
